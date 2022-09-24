@@ -641,6 +641,19 @@
 
 ## others 
 
+- [blkdevcon/FreeCodeCamp-devdocs](https://github.com/blkdevcon/FreeCodeCamp-devdocs) - API Documentation Browser (DevDocs) - Free Code Camp
+- [blkdevcon/mkdocs-base](https://github.com/blkdevcon/mkdocs-base) - 
+- [blkdevcon/Astro-boilerplate](https://github.com/blkdevcon/Astro-boilerplate) - 
+- [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
+- [blkdevcon/one-click-hugo-cms](https://github.com/blkdevcon/one-click-hugo-cms) - 
+- [blkdevcon/ghidra](https://github.com/blkdevcon/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [blkdevcon/nextjs-blog-template](https://github.com/blkdevcon/nextjs-blog-template) - NextJS Blog Template
+- [blkdevcon/eleventy-base-blog](https://github.com/blkdevcon/eleventy-base-blog) - 
+- [blkdevcon/IceDesign](https://github.com/blkdevcon/IceDesign) - IceDesign is a New and Modern GUI Designer for PureBasic
+- [blkdevcon/OWASP-CheatSheetSeries](https://github.com/blkdevcon/OWASP-CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [blkdevcon/1-click-hugoCMS](https://github.com/blkdevcon/1-click-hugoCMS) - 
+- [blkdevcon/eleventree](https://github.com/blkdevcon/eleventree) - 
+- [blkdevcon/eleventy-dot-js-blog](https://github.com/blkdevcon/eleventy-dot-js-blog) - 
 - [blkdevcon/awesome-starz](https://github.com/blkdevcon/awesome-starz) - GitHub Starred Repos List
 - [devimust/easy-bookmark-manager](https://github.com/devimust/easy-bookmark-manager) - Easy and simple self-hosted bookmark / snippet management tool.
 - [kirtan403/bookmark-github-stars](https://github.com/kirtan403/bookmark-github-stars) - Generate Bookmarks export file (html) of the github user's starred repos
@@ -690,7 +703,6 @@
 - [blkdevcon/calibre-web](https://github.com/blkdevcon/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [blkdevcon/Files](https://github.com/blkdevcon/Files) - A modern file manager that pushes the boundaries of the platform.
 - [blkdevcon/AllTools](https://github.com/blkdevcon/AllTools) - All reasonably stable tools
-- [blkdevcon/Utilities](https://github.com/blkdevcon/Utilities) - Useful things
 - [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [blkdevcon/jimsghstars](https://github.com/blkdevcon/jimsghstars) - A curated list of my GitHub stars! ⭐ https://jimbrig.github.io/jimsghstars/
 - [blkdevcon/Win-10-Smart-Debloat-Tools](https://github.com/blkdevcon/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
@@ -727,7 +739,6 @@
 - [blkdevcon/jamdocs](https://github.com/blkdevcon/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
-- [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
 - [likescam/ForensicsTools_Kaspersky](https://github.com/likescam/ForensicsTools_Kaspersky) - 
 - [strontic/xcyclopedia](https://github.com/strontic/xcyclopedia) - Encyclopedia for Executables
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
@@ -1260,6 +1271,7 @@
 - [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [blkdevcon/Utilities](https://github.com/blkdevcon/Utilities) - Useful assortment of scripts, cheatsheets, tools & more!
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning repository, importable with a single command!
 - [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use password manager for Windows, compatible with pass.
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
