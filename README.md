@@ -14,6 +14,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -21,11 +22,13 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [R](#r)
 - [Rich Text Format](#rich-text-format)
@@ -216,6 +219,10 @@
 - [revolunet/PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 - [D00MFist/security](https://github.com/D00MFist/security) - Notes and Commands for CTFs
 
+## EJS 
+
+- [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
+
 ## Go 
 
 - [solkin/simple-file-server](https://github.com/solkin/simple-file-server) - Extremely simple Web file server with Web interface similar to Apache server
@@ -265,6 +272,7 @@
 
 ## Java 
 
+- [blkdevcon/ghidra](https://github.com/blkdevcon/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [SohanChy/Lipi](https://github.com/SohanChy/Lipi) - A simple static blog generator.
 - [hdecarne/certmgr](https://github.com/hdecarne/certmgr) - CertMgr: Create and manage X.509 certificates
@@ -276,6 +284,8 @@
 
 ## JavaScript 
 
+- [blkdevcon/nextjs-blog-template](https://github.com/blkdevcon/nextjs-blog-template) - NextJS Blog Template
+- [blkdevcon/eleventy-dot-js-blog](https://github.com/blkdevcon/eleventy-dot-js-blog) - 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [kirtan403/bookmark-github-stars](https://github.com/kirtan403/bookmark-github-stars) - Generate Bookmarks export file (html) of the github user's starred repos
 - [p1usminus/roomybookmarksredux](https://github.com/p1usminus/roomybookmarksredux) - Roomy Bookmarks Toolbar for Waterfox/Firefox
@@ -323,8 +333,14 @@
 
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
 
+## Nunjucks 
+
+- [blkdevcon/eleventy-base-blog](https://github.com/blkdevcon/eleventy-base-blog) - 
+- [blkdevcon/eleventree](https://github.com/blkdevcon/eleventree) - 
+
 ## Others 
 
+- [blkdevcon/mkdocs-base](https://github.com/blkdevcon/mkdocs-base) - 
 - [blkdevcon/awesome-starz](https://github.com/blkdevcon/awesome-starz) - GitHub Starred Repos List
 - [moodmosaic/bookmarks](https://github.com/moodmosaic/bookmarks) - A selection of the links I find interesting over time. Updated on a regular basis.
 - [silicona/effective-typescript](https://github.com/silicona/effective-typescript) - 
@@ -428,7 +444,7 @@
 - [blkdevcon/Audix](https://github.com/blkdevcon/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
 - [blkdevcon/Minimalistic-offensive-security-tools](https://github.com/blkdevcon/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
 - [blkdevcon/awesome-powershell](https://github.com/blkdevcon/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-- [blkdevcon/Utilities](https://github.com/blkdevcon/Utilities) - Useful things
+- [blkdevcon/Utilities](https://github.com/blkdevcon/Utilities) - Useful assortment of scripts, cheatsheets, tools & more!
 - [blkdevcon/Win-10-Smart-Debloat-Tools](https://github.com/blkdevcon/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
 - [blkdevcon/red-team](https://github.com/blkdevcon/red-team) - Notes, red team materials, testing tools, etc.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning repository, importable with a single command!
@@ -469,8 +485,13 @@
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 
+## PureBasic 
+
+- [blkdevcon/IceDesign](https://github.com/blkdevcon/IceDesign) - IceDesign is a New and Modern GUI Designer for PureBasic
+
 ## Python 
 
+- [blkdevcon/OWASP-CheatSheetSeries](https://github.com/blkdevcon/OWASP-CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [tabreturn/thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) - A py5 plug-in for Thonny
@@ -481,7 +502,6 @@
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [DavidXanatos/twint](https://github.com/DavidXanatos/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
-- [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
 - [EventGhost/EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
@@ -584,6 +604,7 @@
 
 ## Ruby 
 
+- [blkdevcon/FreeCodeCamp-devdocs](https://github.com/blkdevcon/FreeCodeCamp-devdocs) - API Documentation Browser (DevDocs) - Free Code Camp
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [grdnrio/windows-security-policy](https://github.com/grdnrio/windows-security-policy) - A cookbook for managing the local security policy on a Windows system
 - [hahwul/droid-hunter](https://github.com/hahwul/droid-hunter) - (deprecated) Android application vulnerability analysis and Android pentest tool
@@ -599,6 +620,8 @@
 
 ## SCSS 
 
+- [blkdevcon/one-click-hugo-cms](https://github.com/blkdevcon/one-click-hugo-cms) - 
+- [blkdevcon/1-click-hugoCMS](https://github.com/blkdevcon/1-click-hugoCMS) - 
 - [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love
 
 ## Shell 
@@ -643,6 +666,7 @@
 
 ## TypeScript 
 
+- [blkdevcon/Astro-boilerplate](https://github.com/blkdevcon/Astro-boilerplate) - 
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
 - [blkdevcon/docusaurus](https://github.com/blkdevcon/docusaurus) - Easy to maintain open source documentation websites.
