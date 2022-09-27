@@ -356,6 +356,7 @@
 
 ## Others 
 
+- [blkdevcon/MajorGeeks-Windows-Tweaks](https://github.com/blkdevcon/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [slorelee/PExplorer](https://github.com/slorelee/PExplorer) - a portable shell program(desktop, startmenu, taskbar, notifyarea, etc), whitch can run in Windows 7, 8, 8.1, 10, Windows Server 2008, 2012, 2016, 2019 and the Windows Preinstallation Environment(WinPE
 - [blkdevcon/modern-js-cheatsheet](https://github.com/blkdevcon/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [blkdevcon/blackhat-arsenal-tools](https://github.com/blkdevcon/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
