@@ -656,6 +656,7 @@
 
 ## others 
 
+- [blkdevcon/MajorGeeks-Windows-Tweaks](https://github.com/blkdevcon/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [blkdevcon/king-phisher](https://github.com/blkdevcon/king-phisher) - Phishing Campaign Toolkit
 - [blkdevcon/LogonTracer](https://github.com/blkdevcon/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [blkdevcon/NSA-MADCert](https://github.com/blkdevcon/NSA-MADCert) - Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.
