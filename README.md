@@ -22,6 +22,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -181,6 +182,7 @@
 
 ## C++ 
 
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [blkdevcon/GpgFrontend](https://github.com/blkdevcon/GpgFrontend) - A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).
 - [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is a desktop application to manage catalogs of disks and files.
 - [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
@@ -230,6 +232,8 @@
 
 ## Go 
 
+- [blkdevcon/cheat](https://github.com/blkdevcon/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [solkin/simple-file-server](https://github.com/solkin/simple-file-server) - Extremely simple Web file server with Web interface similar to Apache server
 - [ziloka/proxybroker](https://github.com/ziloka/proxybroker) - Command line application to concurrently collect and check proxies
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -295,6 +299,7 @@
 
 ## JavaScript 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [blkdevcon/NSA-MADCert](https://github.com/blkdevcon/NSA-MADCert) - Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.
 - [blkdevcon/markdown-here](https://github.com/blkdevcon/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [blkdevcon/webui-aria2](https://github.com/blkdevcon/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -349,6 +354,10 @@
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop and WSL configuration files
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nunjucks 
 
 - [blkdevcon/eleventy-base-blog](https://github.com/blkdevcon/eleventy-base-blog) - 
@@ -356,6 +365,14 @@
 
 ## Others 
 
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+- [blkdevcon/library-resources](https://github.com/blkdevcon/library-resources) - 📚 Collection of various guides, books and papers.
+- [kadekillary/library](https://github.com/kadekillary/library) - 📚 Collection of various guides, books and papers.
+- [dipsec/Cheatsheets-1](https://github.com/dipsec/Cheatsheets-1) - Penetration Testing/Security Cheatsheets
+- [blkdevcon/markdown-cheatsheet](https://github.com/blkdevcon/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
+- [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
+- [blkdevcon/Awesome-Hacking](https://github.com/blkdevcon/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [blkdevcon/Awesome-WindowsApps](https://github.com/blkdevcon/Awesome-WindowsApps) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [blkdevcon/MajorGeeks-Windows-Tweaks](https://github.com/blkdevcon/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [slorelee/PExplorer](https://github.com/slorelee/PExplorer) - a portable shell program(desktop, startmenu, taskbar, notifyarea, etc), whitch can run in Windows 7, 8, 8.1, 10, Windows Server 2008, 2012, 2016, 2019 and the Windows Preinstallation Environment(WinPE
 - [blkdevcon/modern-js-cheatsheet](https://github.com/blkdevcon/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -647,6 +664,8 @@
 
 ## Rust 
 
+- [blkdevcon/lapce-CodeEditor](https://github.com/blkdevcon/lapce-CodeEditor) - Lightning-fast and Powerful Code Editor written in Rust
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [blkdevcon/navi](https://github.com/blkdevcon/navi) - An interactive cheatsheet tool for the command-line
 - [blkdevcon/Chainsaw](https://github.com/blkdevcon/Chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
