@@ -1134,6 +1134,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [X-Vector/X-RSA](https://github.com/X-Vector/X-RSA) - Cryptography Tool | RSA Attacks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [csev/py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [frizb/Vanquish](https://github.com/frizb/Vanquish) - Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.
 - [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
