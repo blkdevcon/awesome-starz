@@ -673,7 +673,7 @@
 - [blkdevcon/navi](https://github.com/blkdevcon/navi) - An interactive cheatsheet tool for the command-line
 - [blkdevcon/Chainsaw](https://github.com/blkdevcon/Chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
+- [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 ## SCSS 
