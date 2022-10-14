@@ -680,7 +680,7 @@
 - [bharshbarger/AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common OSINT tasks
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 
 ## others 
@@ -1270,7 +1270,7 @@
 - [sandflysecurity/sandfly-setup](https://github.com/sandflysecurity/sandfly-setup) - Sandfly Security Agentless Compromise and Intrusion Detection System For Linux
 - [JPCERTCC/DetectLM](https://github.com/JPCERTCC/DetectLM) - Detecting Lateral Movement with Machine Learning
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
-- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome infosec courses and training resources.
 - [3XPL017/LinPwn](https://github.com/3XPL017/LinPwn) - Interactive Post Exploitation Tool
