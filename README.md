@@ -626,7 +626,7 @@
 - [JPCERTCC/DetectLM](https://github.com/JPCERTCC/DetectLM) - Detecting Lateral Movement with Machine Learning
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
-- [nerrorsec/nDorker](https://github.com/nerrorsec/nDorker) - Automate dorking while doing bug bounty or other stuffs.
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 - [bing0o/Python-Scripts](https://github.com/bing0o/Python-Scripts) - Collection of Python Scripts
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
