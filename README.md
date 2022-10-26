@@ -258,6 +258,7 @@
 
 ## HTML 
 
+- [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [blkdevcon/My_Dirty_Scripts](https://github.com/blkdevcon/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
 - [blkdevcon/kryptomancer](https://github.com/blkdevcon/kryptomancer) - An OpenSSL wizard
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -534,6 +535,8 @@
 
 ## Python 
 
+- [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [blkdevcon/king-phisher](https://github.com/blkdevcon/king-phisher) - Phishing Campaign Toolkit
 - [blkdevcon/LogonTracer](https://github.com/blkdevcon/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [freeload101/Python](https://github.com/freeload101/Python) - Various Python scripts
