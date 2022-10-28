@@ -300,6 +300,8 @@
 
 ## JavaScript 
 
+- [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
+- [coff33ninja/thebatchman](https://github.com/coff33ninja/thebatchman) - Converts Windows batch scripts (or HTA) into executable files
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
