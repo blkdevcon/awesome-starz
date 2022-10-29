@@ -17,6 +17,7 @@
 - [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -57,12 +58,12 @@
 
 ## Batchfile 
 
+- [ChrisTitusTech/Windows-11-Bypass](https://github.com/ChrisTitusTech/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
 - [slorelee/WIN10XPE_Archive](https://github.com/slorelee/WIN10XPE_Archive) - History of Changes in ChrisR's WIN10XPE project(http://theoven.org/index.php?topic=2421.0)
 - [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [blkdevcon/Windows](https://github.com/blkdevcon/Windows) - Various batch files for Windows
 - [blkdevcon/wampserver-ssl-auto-config](https://github.com/blkdevcon/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
 - [blkdevcon/windows10-checkup](https://github.com/blkdevcon/windows10-checkup) - 
-- [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [davidmarble/virtualenvwrapper-win](https://github.com/davidmarble/virtualenvwrapper-win) - Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [custom-dev-tools/wampserver-ssl-auto-config](https://github.com/custom-dev-tools/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
@@ -285,6 +286,10 @@
 - [An0nUD4Y/blackeye](https://github.com/An0nUD4Y/blackeye) - The ultimate phishing tool with 38 websites available!
 - [P3t3rp4rk3r/My_Dirty_Scripts](https://github.com/P3t3rp4rk3r/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
 
+## Inno Setup 
+
+- [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
+
 ## Java 
 
 - [blkdevcon/keystore-explorer](https://github.com/blkdevcon/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
@@ -480,6 +485,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [freeload101/SCRIPTS](https://github.com/freeload101/SCRIPTS) - 
 - [blkdevcon/SCRIPTS](https://github.com/blkdevcon/SCRIPTS) - Assorted Scripts
 - [farag2/Adobe-Acrobat-DC-Setup](https://github.com/farag2/Adobe-Acrobat-DC-Setup) - Adobe Acrobat Pro/Reader DC Setup
@@ -743,6 +749,7 @@
 
 ## VBScript 
 
+- [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Visual Basic 
