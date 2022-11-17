@@ -688,7 +688,7 @@
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
-- [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape employee names from search engine LinkedIn profiles. Convert employee names to a specified username format.
+- [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [bharshbarger/AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common OSINT tasks
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
@@ -1186,7 +1186,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Qianlitp/WatchAD](https://github.com/Qianlitp/WatchAD) - AD Security Intrusion Detection System
 - [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
-- [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape employee names from search engine LinkedIn profiles. Convert employee names to a specified username format.
+- [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
