@@ -625,7 +625,7 @@
 - [PushpenderIndia/technowlogger](https://github.com/PushpenderIndia/technowlogger) - TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59
-- [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape employee names from search engine LinkedIn profiles. Convert employee names to a specified username format.
+- [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [jmortega/osint_tools_security_auditing](https://github.com/jmortega/osint_tools_security_auditing) - osint_tools_security_auditing
 - [bharshbarger/AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common OSINT tasks
 - [rsmusllp/king-phisher](https://github.com/rsmusllp/king-phisher) - Phishing Campaign Toolkit
