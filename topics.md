@@ -421,6 +421,7 @@
 
 ## hacking 
 
+- [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
@@ -583,6 +584,7 @@
 
 ## linux 
 
+- [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
@@ -697,6 +699,7 @@
 
 ## others 
 
+- [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [ChrisTitusTech/Windows-11-Bypass](https://github.com/ChrisTitusTech/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
@@ -1244,6 +1247,8 @@
 
 ## security 
 
+- [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
+- [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
