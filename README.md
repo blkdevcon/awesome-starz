@@ -259,6 +259,7 @@
 
 ## HTML 
 
+- [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [blkdevcon/My_Dirty_Scripts](https://github.com/blkdevcon/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
 - [blkdevcon/kryptomancer](https://github.com/blkdevcon/kryptomancer) - An OpenSSL wizard
@@ -375,6 +376,8 @@
 
 ## Others 
 
+- [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
+- [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [blkdevcon/library-resources](https://github.com/blkdevcon/library-resources) - 📚 Collection of various guides, books and papers.
