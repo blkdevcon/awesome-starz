@@ -223,7 +223,6 @@
 - [blkdevcon/gatsby-starter-default](https://github.com/blkdevcon/gatsby-starter-default) - 
 - [wzpan/hexo-theme-freemind](https://github.com/wzpan/hexo-theme-freemind) - Most powerful bootstrap theme for hexo.
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
-- [ninjhacks/gsmevil2](https://github.com/ninjhacks/gsmevil2) - GsmEvil 2
 - [revolunet/PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 - [D00MFist/security](https://github.com/D00MFist/security) - Notes and Commands for CTFs
 
@@ -348,6 +347,7 @@
 - [Vulnogram/Vulnogram](https://github.com/Vulnogram/Vulnogram) - Vulnogram is a tool for creating and editing CVE information in CVE JSON format
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+- [ninjhacks/gsmevil2](https://github.com/ninjhacks/gsmevil2) - GsmEvil 2
 - [OWASP/SecureTea-Project](https://github.com/OWASP/SecureTea-Project) - The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices)
 - [LordotU/corsyusha](https://github.com/LordotU/corsyusha) - Simple and fast proxy to bypass CORS issues during prototyping against existing APIs without having to worry about CORS
 
