@@ -110,6 +110,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [solidity](#solidity)
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [terminal](#terminal)
@@ -1330,6 +1331,10 @@
 
 - [James231/Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
+
+## solidity 
+
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
 
 ## sql 
 
