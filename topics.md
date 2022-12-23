@@ -1001,7 +1001,6 @@
 - [icosaswitch/IcosaSwitch](https://github.com/icosaswitch/IcosaSwitch) - IcosaSwitch is an All-In-One Switch Hacking applications
 - [BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list) - Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
-- [adamcaudill/EquationGroupLeak](https://github.com/adamcaudill/EquationGroupLeak) - Archive of leaked Equation Group materials
 - [Telefonica/ibombshell](https://github.com/Telefonica/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [projectboot/EternalPulse](https://github.com/projectboot/EternalPulse) - EternalBlue && Doublepulsar
 - [rhmoult/EternalBlue](https://github.com/rhmoult/EternalBlue) - NSA EternalBlue SMB exploit by python 3
