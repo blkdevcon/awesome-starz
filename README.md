@@ -605,7 +605,6 @@
 - [h4cklife/intrukit](https://github.com/h4cklife/intrukit) - Penetration Testing Toolkit Driven by Python3
 - [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
-- [adamcaudill/EquationGroupLeak](https://github.com/adamcaudill/EquationGroupLeak) - Archive of leaked Equation Group materials
 - [Telefonica/ibombshell](https://github.com/Telefonica/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [projectboot/EternalPulse](https://github.com/projectboot/EternalPulse) - EternalBlue && Doublepulsar
