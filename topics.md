@@ -75,6 +75,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
@@ -376,6 +377,7 @@
 
 ## game 
 
+- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 
 ## games 
@@ -637,6 +639,10 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [ncornette/Python-Markdown-Editor](https://github.com/ncornette/Python-Markdown-Editor) - Standalone editor for your markdown files
 
+## minecraft 
+
+- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
+
 ## monitoring 
 
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -703,6 +709,7 @@
 
 ## others 
 
+- [ivandfx/DFXTweaker](https://github.com/ivandfx/DFXTweaker) - Tweak your OS easily
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [ChrisTitusTech/Windows-11-Bypass](https://github.com/ChrisTitusTech/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
@@ -1405,6 +1412,7 @@
 
 ## windows 
 
+- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
