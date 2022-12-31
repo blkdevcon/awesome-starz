@@ -159,6 +159,7 @@
 
 ## automation 
 
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
@@ -1108,6 +1109,7 @@
 
 ## powershell 
 
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [farag2/Adobe-Acrobat-DC-Setup](https://github.com/farag2/Adobe-Acrobat-DC-Setup) - Adobe Acrobat Pro/Reader DC Setup
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
@@ -1412,6 +1414,7 @@
 
 ## windows 
 
+- [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
