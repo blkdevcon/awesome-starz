@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [blkdevcon/netadapter-repair](https://github.com/blkdevcon/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
 - [blkdevcon/openssl-wizard](https://github.com/blkdevcon/openssl-wizard) - A wizard/gui to help you with using the openssl cli
 - [blkdevcon/optimizer](https://github.com/blkdevcon/optimizer) - The finest Windows Optimizer
@@ -491,6 +492,7 @@
 
 ## PowerShell 
 
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [freeload101/SCRIPTS](https://github.com/freeload101/SCRIPTS) - 
 - [blkdevcon/SCRIPTS](https://github.com/blkdevcon/SCRIPTS) - Assorted Scripts
