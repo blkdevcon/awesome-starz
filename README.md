@@ -148,7 +148,7 @@
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [mgw-dev/Win10AppTool](https://github.com/mgw-dev/Win10AppTool) - 
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [hellzerg/moonshell](https://github.com/hellzerg/moonshell) - Portable and multi-tabbed terminal for Windows
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
