@@ -576,7 +576,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [DavidXanatos/twint](https://github.com/DavidXanatos/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [EventGhost/EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
