@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [blkdevcon/netadapter-repair](https://github.com/blkdevcon/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
 - [blkdevcon/openssl-wizard](https://github.com/blkdevcon/openssl-wizard) - A wizard/gui to help you with using the openssl cli
@@ -492,6 +493,10 @@
 
 ## PowerShell 
 
+- [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
+- [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
+- [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
+- [kacos2000/Evtx_Log_Browser](https://github.com/kacos2000/Evtx_Log_Browser) - Evtx Log (xml) Browser
 - [nightroman/PowerShelf](https://github.com/nightroman/PowerShelf) - PowerShell Script Tools
 - [NickSeagull/my-windows](https://github.com/NickSeagull/my-windows) - 🐱‍💻 The system setup that makes my computing experience awesome
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
