@@ -720,6 +720,7 @@
 
 ## others 
 
+- [blkdevcon/bloatbox](https://github.com/blkdevcon/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
