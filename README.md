@@ -495,6 +495,7 @@
 
 ## PowerShell 
 
+- [blkdevcon/bloatbox](https://github.com/blkdevcon/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
