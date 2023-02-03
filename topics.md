@@ -857,7 +857,6 @@
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [blkdevcon/red-team](https://github.com/blkdevcon/red-team) - Notes, red team materials, testing tools, etc.
 - [deviousasti/openssl-wizard](https://github.com/deviousasti/openssl-wizard) - A wizard/gui to help you with using the openssl cli
-- [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).
 - [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - All my PowerShell scripts which I'm referencing in the various posts on https://imab.dk
 - [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
@@ -1285,6 +1284,7 @@
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+- [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
