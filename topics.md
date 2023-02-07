@@ -961,7 +961,7 @@
 - [bonzibudd/Fluent-Refresh](https://github.com/bonzibudd/Fluent-Refresh) - A modern, highly customizable Start menu skin for Open-Shell. Alternate version of Fluent-Metro.
 - [Konnor88/TenStartMenuFixer](https://github.com/Konnor88/TenStartMenuFixer) - Simple application that restores the Windows 10 start menu on Windows 11. Can be toggled on or off.
 - [dennismagno/metroframework-modern-ui](https://github.com/dennismagno/metroframework-modern-ui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [Blu3Jive001/Nordic-Windows](https://github.com/Blu3Jive001/Nordic-Windows) - A port of Barbrossa's Linux creation to Windows
 - [khanhas/Polybar](https://github.com/khanhas/Polybar) - A bar
 - [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
