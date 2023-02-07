@@ -368,7 +368,7 @@
 ## Lua 
 
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 
 ## Markdown 
 
