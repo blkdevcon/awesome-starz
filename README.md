@@ -381,6 +381,7 @@
 
 ## Others 
 
+- [ivandfx/DFXTweaker](https://github.com/ivandfx/DFXTweaker) - Tweak your OS easily
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
@@ -774,7 +775,6 @@
 
 ## VBScript 
 
-- [ivandfx/DFXTweaker](https://github.com/ivandfx/DFXTweaker) - Tweak your OS easily
 - [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
