@@ -123,6 +123,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
+- [vuejs](#vuejs)
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
@@ -1417,6 +1418,10 @@
 ## visual-basic 
 
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
+
+## vuejs 
+
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## web 
 
