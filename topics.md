@@ -165,7 +165,7 @@
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
@@ -219,7 +219,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
@@ -438,7 +438,7 @@
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / p
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon hacking framework penetration scanner & Cobalt strike, Ladon 10.9 has 200 built-in modules, including information collection / surviving host / port scanning / service identification / password 
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -605,7 +605,7 @@
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -624,7 +624,7 @@
 
 ## mac 
 
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 
 ## machine-learning 
 
@@ -800,7 +800,7 @@
 - [solkin/simple-file-server](https://github.com/solkin/simple-file-server) - Extremely simple Web file server with Web interface similar to Apache server
 - [tabreturn/thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) - A py5 plug-in for Thonny
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
-- [bitprophet/alabaster](https://github.com/bitprophet/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
+- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
 - [builtbybel/TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
 - [jrathlev/R-Plot](https://github.com/jrathlev/R-Plot) - Visualization of measuring data
 - [jrathlev/InnoUnpacker-Windows-GUI](https://github.com/jrathlev/InnoUnpacker-Windows-GUI) - Inspect and unpack InnoSetup archives
@@ -1088,7 +1088,7 @@
 
 ## p2p 
 
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
@@ -1286,7 +1286,7 @@
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -1303,7 +1303,7 @@
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [jamesturk/django-honeypot](https://github.com/jamesturk/django-honeypot) - 🍯 Generic honeypot utilities for use in django projects.
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 10.8 has 198 built-in modules, including information collection / surviving host / port scanning / service identification / p
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon hacking framework penetration scanner & Cobalt strike, Ladon 10.9 has 200 built-in modules, including information collection / surviving host / port scanning / service identification / password 
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1458,7 +1458,7 @@
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, and ABP / uBO subscriptions, all merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you c
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [custom-dev-tools/wampserver-ssl-auto-config](https://github.com/custom-dev-tools/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
