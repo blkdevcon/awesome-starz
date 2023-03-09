@@ -33,7 +33,6 @@
 - [PowerShell](#powershell)
 - [PureBasic](#purebasic)
 - [Python](#python)
-- [QMake](#qmake)
 - [R](#r)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
@@ -200,6 +199,7 @@
 - [laurent22/appetizer](https://github.com/laurent22/appetizer) - Official repository for Appetizer, the open source application launcher, or dock, for Windows.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [likescam/ForensicsTools_Kaspersky](https://github.com/likescam/ForensicsTools_Kaspersky) - 
+- [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [zodiacon/Win10SysProgBookSamples](https://github.com/zodiacon/Win10SysProgBookSamples) - Windows 10 System Programming book samples
 - [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
@@ -310,6 +310,7 @@
 
 ## JavaScript 
 
+- [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
 - [coff33ninja/thebatchman](https://github.com/coff33ninja/thebatchman) - Converts Windows batch scripts (or HTA) into executable files
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -384,6 +385,8 @@
 
 ## Others 
 
+- [scriptsandthings/cheatsheets-1](https://github.com/scriptsandthings/cheatsheets-1) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
+- [scriptsandthings/awesome-command-line-apps](https://github.com/scriptsandthings/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [ivandfx/DFXTweaker](https://github.com/ivandfx/DFXTweaker) - Tweak your OS easily
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
@@ -681,10 +684,6 @@
 - [skamieniarz/pypong](https://github.com/skamieniarz/pypong) - Slightly modified clone of Pong classic game implemented with Python.
 - [Raikia/Kali-Setup](https://github.com/Raikia/Kali-Setup) - Script for Kali that adds a bunch of tools and customizes it to be much better
 
-## QMake 
-
-- [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
-
 ## R 
 
 - [blkdevcon/jimsghstars](https://github.com/blkdevcon/jimsghstars) - A curated list of my GitHub stars! ⭐ https://jimbrig.github.io/jimsghstars/
@@ -725,6 +724,7 @@
 
 ## Shell 
 
+- [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
 - [blkdevcon/osint-1](https://github.com/blkdevcon/osint-1) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
@@ -767,6 +767,8 @@
 
 ## TypeScript 
 
+- [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
+- [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet
 - [blkdevcon/Astro-boilerplate](https://github.com/blkdevcon/Astro-boilerplate) - 
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
