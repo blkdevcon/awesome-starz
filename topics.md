@@ -118,6 +118,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [terminal](#terminal)
+- [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
@@ -1407,6 +1408,10 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## termux-hacking 
+
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 
 ## terraform 
 
