@@ -73,7 +73,7 @@
 - [bmrf/standalone_scripts](https://github.com/bmrf/standalone_scripts) - Various standalone scripts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
-- [mattreecebentley/win10_simplifier](https://github.com/mattreecebentley/win10_simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
+- [mattreecebentley/Windows-10-11-Simplifier](https://github.com/mattreecebentley/Windows-10-11-Simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
 - [jbcarreon123/Win11CompChk](https://github.com/jbcarreon123/Win11CompChk) - A batch script that checks Windows 11 readiness on your PC
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
