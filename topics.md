@@ -816,7 +816,7 @@
 - [solkin/simple-file-server](https://github.com/solkin/simple-file-server) - Extremely simple Web file server with Web interface similar to Apache server
 - [tabreturn/thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) - A py5 plug-in for Thonny
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
-- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
+- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [builtbybel/TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
 - [jrathlev/R-Plot](https://github.com/jrathlev/R-Plot) - Visualization of measuring data
 - [jrathlev/InnoUnpacker-Windows-GUI](https://github.com/jrathlev/InnoUnpacker-Windows-GUI) - Inspect and unpack InnoSetup archives
