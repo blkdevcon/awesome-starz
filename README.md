@@ -272,7 +272,7 @@
 - [blkdevcon/ms_symtools](https://github.com/blkdevcon/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
 - [blkdevcon/Blackeye](https://github.com/blkdevcon/Blackeye) - The ultimate phishing tool with 38 websites available!
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
-- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
+- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
 - [neoslab/blackbuntu](https://github.com/neoslab/blackbuntu) - Official repository of the Blackbuntu pentesting distribution
 - [msillano/ms_symtools](https://github.com/msillano/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
