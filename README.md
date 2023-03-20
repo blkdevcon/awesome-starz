@@ -181,7 +181,6 @@
 - [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon hacking framework penetration scanner & Cobalt strike, Ladon 10.9 has 200 built-in modules, including information collection / surviving host / port scanning / service identification / password 
 - [sergiomarotco/USB-file_Stealer](https://github.com/sergiomarotco/USB-file_Stealer) - Simple program to steal private files from removable storages
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 - [Virgula0/hidden-tear](https://github.com/Virgula0/hidden-tear) - An open source RansomWare
@@ -550,7 +549,7 @@
 - [AveYo/Compressed2TXT](https://github.com/AveYo/Compressed2TXT) - File(s)/Folder(s) "Send to" menu .bat ascii encoder with optional password and makecab lzx compression
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-- [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
+- [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [stknohg/AdmxPolicy](https://github.com/stknohg/AdmxPolicy) - Get Group Policy information from ADMX files.
@@ -562,6 +561,7 @@
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10版本内置202个功能模块,外部模块18个,网络资产探测模块28个通过多种协议(ICMP\NBT\DNS\MAC\SM
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 
 ## PureBasic 
