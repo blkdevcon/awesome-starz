@@ -1009,7 +1009,6 @@
 - [cr4ck32/E-Books](https://github.com/cr4ck32/E-Books) - A collections of FREE ebooks
 - [rewardone/OSCPRepo](https://github.com/rewardone/OSCPRepo) - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and readi
 - [greatworkscph/IseeU](https://github.com/greatworkscph/IseeU) - IseeU DIY Spy Kit
-- [CoolerVoid/codecat](https://github.com/CoolerVoid/codecat) - CodeCat is an open-source tool to help you find/track user input sinks and security bugs using static code analysis. These points follow regex rules. Beta version.
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [caioau/badUSB-Targeting-Android](https://github.com/caioau/badUSB-Targeting-Android) - a proof of concept badUSB attack which install a apk on Android
