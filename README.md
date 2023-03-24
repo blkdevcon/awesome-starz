@@ -607,7 +607,6 @@
 - [tsunghowu/DiskImageCreator](https://github.com/tsunghowu/DiskImageCreator) - A python utility to process the input raw disk image and sign MBR/partitions with given corresponding keys. This tool is designed to help people attack the machine with a secure chain-of-trust boot pr
 - [greatworkscph/IseeU](https://github.com/greatworkscph/IseeU) - IseeU DIY Spy Kit
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
-- [CoolerVoid/codecat](https://github.com/CoolerVoid/codecat) - CodeCat is an open-source tool to help you find/track user input sinks and security bugs using static code analysis. These points follow regex rules. Beta version.
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
