@@ -819,7 +819,7 @@
 - [builtbybel/TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
 - [jrathlev/R-Plot](https://github.com/jrathlev/R-Plot) - Visualization of measuring data
 - [jrathlev/InnoUnpacker-Windows-GUI](https://github.com/jrathlev/InnoUnpacker-Windows-GUI) - Inspect and unpack InnoSetup archives
-- [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is a desktop application to manage catalogs of disks and files.
+- [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is an application to manage catalogs of disks and files to search and get statistics.
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [DavidXanatos/twint](https://github.com/DavidXanatos/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -1033,7 +1033,6 @@
 - [joostjager/whatsat](https://github.com/joostjager/whatsat) - End-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
 - [trimstray/mkchain](https://github.com/trimstray/mkchain) - Open source tool to help you build a valid SSL certificate chain.
 - [ehrishirajsharma/SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) - A cross-platform note-taking & target-tracking app for penetration testers.
-- [KeepWannabe/Remot3d](https://github.com/KeepWannabe/Remot3d) - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors
 - [icosaswitch/IcosaSwitch](https://github.com/icosaswitch/IcosaSwitch) - IcosaSwitch is an All-In-One Switch Hacking applications
 - [BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list) - Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
