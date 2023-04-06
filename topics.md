@@ -829,7 +829,6 @@
 - [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
 - [blkdevcon/trilium](https://github.com/blkdevcon/trilium) - Build your personal knowledge base with Trilium Notes
 - [blkdevcon/vuepress-deploy](https://github.com/blkdevcon/vuepress-deploy) - 
-- [neoslab/blackbuntu](https://github.com/neoslab/blackbuntu) - Official repository of the Blackbuntu pentesting distribution
 - [msillano/ms_symtools](https://github.com/msillano/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
 - [dfinke/Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
