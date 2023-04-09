@@ -15,6 +15,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [EJS](#ejs)
+- [GSC](#gsc)
 - [Go](#go)
 - [HTML](#html)
 - [Inno Setup](#inno-setup)
@@ -234,6 +235,10 @@
 
 - [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
 
+## GSC 
+
+- [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
+
 ## Go 
 
 - [blkdevcon/cheat](https://github.com/blkdevcon/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -417,7 +422,6 @@
 - [blkdevcon/blkdevcon](https://github.com/blkdevcon/blkdevcon) - 
 - [blkdevcon/blkdevcon.github.io](https://github.com/blkdevcon/blkdevcon.github.io) - My Docusaurus site with tech related docs/notes 📚
 - [blkdevcon/docusaurus-base](https://github.com/blkdevcon/docusaurus-base) - 
-- [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [revolunet/awesome-stars](https://github.com/revolunet/awesome-stars) - A curated list of my GitHub stars!
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 - [ryanmrestivo/red-team](https://github.com/ryanmrestivo/red-team) - Notes, red team materials, testing tools, etc.
