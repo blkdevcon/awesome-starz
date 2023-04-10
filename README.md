@@ -73,7 +73,7 @@
 - [bmrf/standalone_scripts](https://github.com/bmrf/standalone_scripts) - Various standalone scripts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
-- [mattreecebentley/Windows-10-11-Simplifier](https://github.com/mattreecebentley/Windows-10-11-Simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
+- [mattreecebentley/Windows-10-11-Simplifier](https://github.com/mattreecebentley/Windows-10-11-Simplifier) - Windows 10/11 Simplifier - A script for automating simplifications and maintenance
 - [jbcarreon123/Win11CompChk](https://github.com/jbcarreon123/Win11CompChk) - A batch script that checks Windows 11 readiness on your PC
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
@@ -313,6 +313,7 @@
 
 ## JavaScript 
 
+- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
 - [coff33ninja/thebatchman](https://github.com/coff33ninja/thebatchman) - Converts Windows batch scripts (or HTA) into executable files
