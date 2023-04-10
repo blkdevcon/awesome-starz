@@ -740,6 +740,7 @@
 
 ## others 
 
+- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [scriptsandthings/cheatsheets-1](https://github.com/scriptsandthings/cheatsheets-1) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
 - [scriptsandthings/awesome-command-line-apps](https://github.com/scriptsandthings/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
@@ -1507,7 +1508,7 @@
 - [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
-- [mattreecebentley/Windows-10-11-Simplifier](https://github.com/mattreecebentley/Windows-10-11-Simplifier) - Windows 10 Simplifier - A script for automating simplifications and maintenance
+- [mattreecebentley/Windows-10-11-Simplifier](https://github.com/mattreecebentley/Windows-10-11-Simplifier) - Windows 10/11 Simplifier - A script for automating simplifications and maintenance
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [jbcarreon123/Win11CompChk](https://github.com/jbcarreon123/Win11CompChk) - A batch script that checks Windows 11 readiness on your PC
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
