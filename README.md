@@ -223,6 +223,7 @@
 
 ## CSS 
 
+- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
 - [blkdevcon/tachyons](https://github.com/blkdevcon/tachyons) - Functional css for humans
 - [blkdevcon/gatsby-starter-default](https://github.com/blkdevcon/gatsby-starter-default) - 
@@ -315,7 +316,6 @@
 ## JavaScript 
 
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
-- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
 - [coff33ninja/thebatchman](https://github.com/coff33ninja/thebatchman) - Converts Windows batch scripts (or HTA) into executable files
