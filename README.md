@@ -651,7 +651,7 @@
 - [penetrate2hack/ITWSV](https://github.com/penetrate2hack/ITWSV) - ITWSV- Integrated Tool for Web Security Vulnerability
 - [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
 - [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [PushpenderIndia/technowlogger](https://github.com/PushpenderIndia/technowlogger) - TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59
