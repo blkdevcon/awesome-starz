@@ -28,6 +28,7 @@
 - [coding](#coding)
 - [cpp](#cpp)
 - [csharp](#csharp)
+- [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -302,6 +303,7 @@
 
 ## csharp 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use password manager for Windows, compatible with pass.
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
@@ -310,6 +312,10 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [unoplatform/Uno.WindowsCommunityToolkit](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolki
+
+## css 
+
+- [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 
 ## cybersecurity 
 
@@ -538,6 +544,7 @@
 
 ## html 
 
+- [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 
@@ -765,6 +772,7 @@
 
 ## others 
 
+- [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
@@ -1521,6 +1529,7 @@
 
 ## windows 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [tristanheaven/gtkhash](https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
