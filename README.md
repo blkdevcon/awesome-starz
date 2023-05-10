@@ -118,6 +118,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [blkdevcon/netadapter-repair](https://github.com/blkdevcon/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
@@ -316,6 +317,7 @@
 
 ## JavaScript 
 
+- [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
@@ -770,6 +772,7 @@
 
 ## TypeScript 
 
+- [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [reworkd/extension](https://github.com/reworkd/extension) - Revolutionizing your workflow with the power of AI - Nw Hacks 2023 Finalist🎉
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
