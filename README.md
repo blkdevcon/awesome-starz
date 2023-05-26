@@ -377,7 +377,7 @@
 ## Lua 
 
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
-- [javacafe01/awesome](https://github.com/javacafe01/awesome) - configuration files for AwesomeWM
+- [javacafe01/awesome-config](https://github.com/javacafe01/awesome-config) - configuration files for AwesomeWM
 
 ## Markdown 
 
