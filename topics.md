@@ -478,7 +478,7 @@
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置228个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SS
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.6内置230个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SS
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -785,7 +785,7 @@
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
 - [nightroman/PowerShelf](https://github.com/nightroman/PowerShelf) - PowerShell Script Tools
-- [ivandfx/DFXTweaker](https://github.com/ivandfx/DFXTweaker) - Tweak your OS easily
+- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [ChrisTitusTech/Windows-11-Bypass](https://github.com/ChrisTitusTech/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
@@ -1019,7 +1019,6 @@
 - [bonzibudd/Fluent-Refresh](https://github.com/bonzibudd/Fluent-Refresh) - A modern, highly customizable Start menu skin for Open-Shell. Alternate version of Fluent-Metro.
 - [Konnor88/TenStartMenuFixer](https://github.com/Konnor88/TenStartMenuFixer) - Simple application that restores the Windows 10 start menu on Windows 11. Can be toggled on or off.
 - [dennismagno/metroframework-modern-ui](https://github.com/dennismagno/metroframework-modern-ui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.
-- [javacafe01/awesome-config](https://github.com/javacafe01/awesome-config) - configuration files for AwesomeWM
 - [Blu3Jive001/Nordic-Windows](https://github.com/Blu3Jive001/Nordic-Windows) - A port of Barbrossa's Linux creation to Windows
 - [khanhas/Polybar](https://github.com/khanhas/Polybar) - A bar
 - [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
@@ -1383,7 +1382,7 @@
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [jamesturk/django-honeypot](https://github.com/jamesturk/django-honeypot) - 🍯 Generic honeypot utilities for use in django projects.
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置228个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SS
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.6内置230个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SS
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
