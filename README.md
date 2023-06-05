@@ -316,6 +316,7 @@
 
 ## JavaScript 
 
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [massgravel/msdl](https://github.com/massgravel/msdl) - Microsoft Software Download Listing
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
