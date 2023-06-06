@@ -91,6 +91,7 @@
 
 ## C 
 
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [tristanheaven/gtkhash](https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
 - [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -316,6 +317,7 @@
 
 ## JavaScript 
 
+- [alexchamorro0x/awesome-shortcuts](https://github.com/alexchamorro0x/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [massgravel/msdl](https://github.com/massgravel/msdl) - Microsoft Software Download Listing
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
@@ -627,7 +629,7 @@
 - [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
 - [travisfoley/dfirtriage](https://github.com/travisfoley/dfirtriage) - Digital forensic acquisition tool for Windows based incident response.
-- [FortyNorthSecurity/EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [jamesturk/django-honeypot](https://github.com/jamesturk/django-honeypot) - 🍯 Generic honeypot utilities for use in django projects.
 - [vavkamil/dkimsc4n](https://github.com/vavkamil/dkimsc4n) - Asynchronous wordlist based DKIM scanner
 - [vavkamil/xss2png](https://github.com/vavkamil/xss2png) - PNG IDAT chunks XSS payload generator
