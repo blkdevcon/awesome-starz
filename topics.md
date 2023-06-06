@@ -283,6 +283,7 @@
 
 ## chrome-extension 
 
+- [alexchamorro0x/awesome-shortcuts](https://github.com/alexchamorro0x/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
 - [reworkd/extension](https://github.com/reworkd/extension) - Revolutionizing your workflow with the power of AI - Nw Hacks 2023 Finalist🎉
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
@@ -597,6 +598,7 @@
 
 ## javascript 
 
+- [alexchamorro0x/awesome-shortcuts](https://github.com/alexchamorro0x/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
@@ -721,6 +723,7 @@
 
 ## monitoring 
 
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [WiPi-Hunter/PiDense](https://github.com/WiPi-Hunter/PiDense) - 🍓📡🍍Monitor illegal wireless network activities. (Fake Access Points), (WiFi Threats: KARMA Attacks, WiFi Pineapple, Similar SSID, OPN Network Density etc.)
@@ -1072,7 +1075,7 @@
 - [travisfoley/dfirtriage](https://github.com/travisfoley/dfirtriage) - Digital forensic acquisition tool for Windows based incident response.
 - [ktneely/Tr3Secure](https://github.com/ktneely/Tr3Secure) - Batch scripts to capture volatile and log information from a target system
 - [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) - This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty.
-- [FortyNorthSecurity/EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [SegoCode/Ramonware](https://github.com/SegoCode/Ramonware) - AES Ransomware in batch
 - [tehw0lf/android_aircrack](https://github.com/tehw0lf/android_aircrack) - Aircrack-ng command-line for Android. Binaries & source.
 - [vavkamil/dkimsc4n](https://github.com/vavkamil/dkimsc4n) - Asynchronous wordlist based DKIM scanner
@@ -1375,6 +1378,7 @@
 
 ## security 
 
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
@@ -1549,6 +1553,7 @@
 
 ## windows 
 
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [massgravel/msdl](https://github.com/massgravel/msdl) - Microsoft Software Download Listing
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
