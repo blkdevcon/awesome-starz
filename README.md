@@ -189,6 +189,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [blkdevcon/GpgFrontend](https://github.com/blkdevcon/GpgFrontend) - A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).
@@ -225,6 +226,7 @@
 
 ## CSS 
 
+- [blkdevcon/gpt4all-ui](https://github.com/blkdevcon/gpt4all-ui) - gpt4all chatbot ui
 - [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
 - [blkdevcon/tachyons](https://github.com/blkdevcon/tachyons) - Functional css for humans
@@ -511,6 +513,7 @@
 
 ## PowerShell 
 
+- [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [blkdevcon/bloatbox](https://github.com/blkdevcon/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
