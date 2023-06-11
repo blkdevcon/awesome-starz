@@ -794,7 +794,7 @@
 - [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
 - [scriptsandthings/cheatsheets-1](https://github.com/scriptsandthings/cheatsheets-1) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
 - [scriptsandthings/awesome-command-line-apps](https://github.com/scriptsandthings/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
