@@ -441,6 +441,7 @@
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## github 
 
