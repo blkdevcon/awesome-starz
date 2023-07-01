@@ -794,6 +794,7 @@
 
 ## others 
 
+- [gemilepus/Awesome-Hacking](https://github.com/gemilepus/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
