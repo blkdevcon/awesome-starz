@@ -514,7 +514,6 @@
 - [hahwul/ras-fuzzer](https://github.com/hahwul/ras-fuzzer) - RAS(RAndom Subdomain) Fuzzer
 - [hahwul/mad-metasploit](https://github.com/hahwul/mad-metasploit) - Metasploit custom modules, plugins, resource script and.. awesome metasploit collection
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
-- [ttiagojm/HackerOne-Lessons](https://github.com/ttiagojm/HackerOne-Lessons) - Transcribed video lessons of HackerOne to pdf's
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [bing0o/Python-Scripts](https://github.com/bing0o/Python-Scripts) - Collection of Python Scripts
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
