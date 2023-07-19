@@ -1000,7 +1000,7 @@
 - [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources) - Collection of online security resources
 - [loresoft/msbuildtasks](https://github.com/loresoft/msbuildtasks) - The MSBuild Community Tasks Project is an open source project for MSBuild tasks.
 - [Mikescher/AlephNote](https://github.com/Mikescher/AlephNote) - Lightweight note taking client for Simplenote or Standard Notes (or simply local storage)
-- [cbeanburrito/netadapter-repair](https://github.com/cbeanburrito/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
+- [csteakburrito/netadapter-repair](https://github.com/csteakburrito/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
 - [hellzerg/mint](https://github.com/hellzerg/mint) - A minimal app launcher residing in your taskbar
 - [hellzerg/indicium](https://github.com/hellzerg/indicium) - Portable, advanced system information utility
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
