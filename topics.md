@@ -24,6 +24,7 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [coding](#coding)
@@ -283,6 +284,10 @@
 ## chatgpt-api 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## chrome 
+
+- [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
 
 ## chrome-extension 
 
@@ -715,6 +720,7 @@
 
 ## markdown 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -795,6 +801,7 @@
 
 ## others 
 
+- [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 - [gemilepus/Awesome-Hacking](https://github.com/gemilepus/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
@@ -1230,6 +1237,9 @@
 
 ## powershell 
 
+- [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
+- [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
+- [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -1352,6 +1362,7 @@
 
 ## react 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -1361,6 +1372,7 @@
 
 ## reactjs 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
 ## redux 
@@ -1384,6 +1396,7 @@
 
 ## rust 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -1450,6 +1463,7 @@
 
 ## self-hosted 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ## server 
@@ -1526,6 +1540,7 @@
 
 ## typescript 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
