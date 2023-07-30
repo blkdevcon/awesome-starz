@@ -311,6 +311,7 @@
 
 ## Java 
 
+- [DaveJarvis/KeenWrite](https://github.com/DaveJarvis/KeenWrite) - Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math.
 - [blkdevcon/keystore-explorer](https://github.com/blkdevcon/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [blkdevcon/ghidra](https://github.com/blkdevcon/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
