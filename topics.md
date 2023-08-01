@@ -824,6 +824,9 @@
 
 ## others 
 
+- [rbicelli/example-admx-template](https://github.com/rbicelli/example-admx-template) - ADMX template writing with working example
+- [damienvanrobaeys/PS1ToEXE-Generator](https://github.com/damienvanrobaeys/PS1ToEXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
+- [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [DaveJarvis/KeenWrite](https://github.com/DaveJarvis/KeenWrite) - Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math.
 - [lifenjoiner/sendto-plus](https://github.com/lifenjoiner/sendto-plus) - Windows 右键“发送到”接力；分组“发送到”；用指定程序打开；启动器；组织你的工具箱。 Send what sent to me to my 'sendto' for Windows; open with specified program; group sendto; run as a launcher; organize your toolbox.
@@ -1263,6 +1266,7 @@
 
 ## powershell 
 
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
 - [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
 - [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
@@ -1432,6 +1436,7 @@
 
 ## security 
 
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
@@ -1622,6 +1627,8 @@
 
 ## windows 
 
+- [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 related research
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
@@ -1705,6 +1712,7 @@
 
 ## xml 
 
+- [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 related research
 - [kacos2000/Evtx_Log_Browser](https://github.com/kacos2000/Evtx_Log_Browser) - Evtx Log (xml) Browser
 
 
