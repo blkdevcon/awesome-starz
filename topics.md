@@ -66,6 +66,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -183,11 +184,13 @@
 
 ## artificial-intelligence 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 
 ## automation 
 
+- [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 - [NickSeagull/my-windows](https://github.com/NickSeagull/my-windows) - 🐱‍💻 The system setup that makes my computing experience awesome
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
@@ -280,6 +283,7 @@
 
 ## chatgpt 
 
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -322,6 +326,7 @@
 
 ## cpp 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ishiko-cpp/windows-registry](https://github.com/ishiko-cpp/windows-registry) - 
 - [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
 
@@ -498,6 +503,7 @@
 
 ## good-first-issue 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## google 
@@ -510,6 +516,7 @@
 
 ## hacking 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
@@ -549,6 +556,7 @@
 
 ## hacktoberfest 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -596,6 +604,10 @@
 - [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
+
+## image-processing 
+
+- [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 
 ## ios 
 
@@ -824,6 +836,9 @@
 
 ## others 
 
+- [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
+- [kacos2000/MS-Office-ooxml-file-parser](https://github.com/kacos2000/MS-Office-ooxml-file-parser) - MS Office ooxml file metadata parser
+- [jebofponderworthy/windows-tools](https://github.com/jebofponderworthy/windows-tools) - Some applets courtesy of Ponderworthy folks and friends.
 - [rbicelli/example-admx-template](https://github.com/rbicelli/example-admx-template) - ADMX template writing with working example
 - [damienvanrobaeys/PS1ToEXE-Generator](https://github.com/damienvanrobaeys/PS1ToEXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
@@ -896,7 +911,6 @@
 - [blkdevcon/twint](https://github.com/blkdevcon/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [blkdevcon/webui-aria2](https://github.com/blkdevcon/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [blkdevcon/Dshell](https://github.com/blkdevcon/Dshell) - Dshell is a network forensic analysis framework.
-- [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [blkdevcon/Chainsaw](https://github.com/blkdevcon/Chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [blkdevcon/CenterTaskbar](https://github.com/blkdevcon/CenterTaskbar) - Center Windows Taskbar Icons
 - [blkdevcon/blackhat-arsenal-tools](https://github.com/blkdevcon/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
@@ -907,7 +921,6 @@
 - [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
 - [blkdevcon/one-click-hugo-cms](https://github.com/blkdevcon/one-click-hugo-cms) - 
 - [blkdevcon/ghidra](https://github.com/blkdevcon/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [blkdevcon/nextjs-blog-template](https://github.com/blkdevcon/nextjs-blog-template) - NextJS Blog Template
 - [blkdevcon/eleventy-base-blog](https://github.com/blkdevcon/eleventy-base-blog) - 
 - [blkdevcon/IceDesign](https://github.com/blkdevcon/IceDesign) - IceDesign is a New and Modern GUI Designer for PureBasic
 - [blkdevcon/OWASP-CheatSheetSeries](https://github.com/blkdevcon/OWASP-CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -942,7 +955,6 @@
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [dannagle/Cryptoknife](https://github.com/dannagle/Cryptoknife) - All-in-one, portable, collection of general-purpose cryptography tools
 - [blkdevcon/hfs](https://github.com/blkdevcon/hfs) - HTTP File Server
-- [blkdevcon/Windows](https://github.com/blkdevcon/Windows) - Various batch files for Windows
 - [blkdevcon/control-uwp](https://github.com/blkdevcon/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [blkdevcon/wampserver-ssl-auto-config](https://github.com/blkdevcon/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
 - [blkdevcon/windows10-checkup](https://github.com/blkdevcon/windows10-checkup) - 
@@ -1266,6 +1278,10 @@
 
 ## powershell 
 
+- [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
+- [kacos2000/Jumplist-Browser](https://github.com/kacos2000/Jumplist-Browser) - Automatic/Custom Destinations & ShellLNK Browser
+- [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2 & some of SuperFetch .7db/.db's
+- [kacos2000/MFT_Browser](https://github.com/kacos2000/MFT_Browser) - $MFT directory tree reconstruction & FILE record info
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
 - [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
@@ -1320,6 +1336,8 @@
 
 ## python 
 
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
@@ -1551,6 +1569,7 @@
 
 ## terminal 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -1627,6 +1646,11 @@
 
 ## windows 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
+- [kacos2000/Jumplist-Browser](https://github.com/kacos2000/Jumplist-Browser) - Automatic/Custom Destinations & ShellLNK Browser
+- [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2 & some of SuperFetch .7db/.db's
+- [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 related research
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
