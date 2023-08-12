@@ -1154,7 +1154,6 @@
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [Telefonica/ibombshell](https://github.com/Telefonica/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [projectboot/EternalPulse](https://github.com/projectboot/EternalPulse) - EternalBlue && Doublepulsar
-- [rhmoult/EternalBlue](https://github.com/rhmoult/EternalBlue) - NSA EternalBlue SMB exploit by python 3
 - [francisck/DanderSpritz_docs](https://github.com/francisck/DanderSpritz_docs) - The goal of this project is to examine, reverse, and document the different modules available in the Equation Group's DanderSpritz post-exploitation framework leaked by the ShadowBrokers
 - [cloud-gov/federalist.18f.gov](https://github.com/cloud-gov/federalist.18f.gov) - Homepage for the Federalist platform
 - [exploitx3/FUZZBUNCH](https://github.com/exploitx3/FUZZBUNCH) - FUZZBUNCH - NSA security tools
@@ -1593,7 +1592,7 @@
 
 ## terraform 
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 
 ## testing 
