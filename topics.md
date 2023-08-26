@@ -601,7 +601,7 @@
 
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [easyphp/WEBSERVER](https://github.com/easyphp/WEBSERVER) - ⚙️ WEBSERVER turns your computer into a ready-to-use personal web hosting server.
-- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
+- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 
@@ -777,7 +777,7 @@
 ## mysql 
 
 - [easyphp/WEBSERVER](https://github.com/easyphp/WEBSERVER) - ⚙️ WEBSERVER turns your computer into a ready-to-use personal web hosting server.
-- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
+- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) - Free Introduction to SQL eBook
 
@@ -1265,7 +1265,7 @@
 ## php 
 
 - [easyphp/WEBSERVER](https://github.com/easyphp/WEBSERVER) - ⚙️ WEBSERVER turns your computer into a ready-to-use personal web hosting server.
-- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
+- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
@@ -1673,7 +1673,7 @@
 - [DrewNaylor/UXL-Launcher](https://github.com/DrewNaylor/UXL-Launcher) - An app launcher meant to launch Microsoft Office 2010, 2013, 2016, 2019 desktop software/apps, including ones from Office 365. Not associated with Microsoft.
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [easyphp/WEBSERVER](https://github.com/easyphp/WEBSERVER) - ⚙️ WEBSERVER turns your computer into a ready-to-use personal web hosting server.
-- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
+- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [blkdevcon/Utilities](https://github.com/blkdevcon/Utilities) - Useful assortment of scripts, cheatsheets, tools & more!
