@@ -491,7 +491,7 @@
 ## PHP 
 
 - [devimust/easy-bookmark-manager](https://github.com/devimust/easy-bookmark-manager) - Easy and simple self-hosted bookmark / snippet management tool.
-- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
+- [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [blkdevcon/neard](https://github.com/blkdevcon/neard) - 🎲 Portable WAMP software stack
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [katin/PenTDB](https://github.com/katin/PenTDB) - Pentesting Tracker Database with HTML Interface
