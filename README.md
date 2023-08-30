@@ -408,6 +408,7 @@
 
 ## Others 
 
+- [sublime-security/emailrep.io](https://github.com/sublime-security/emailrep.io) - emailrep.io Public API
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -447,8 +448,6 @@
 - [blkdevcon/Free-DevOps-Books-1](https://github.com/blkdevcon/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [blkdevcon/CleanmgrPlus](https://github.com/blkdevcon/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [blkdevcon/AllTools](https://github.com/blkdevcon/AllTools) - All reasonably stable tools
-- [blkdevcon/blkdevcon](https://github.com/blkdevcon/blkdevcon) - 
-- [blkdevcon/blkdevcon.github.io](https://github.com/blkdevcon/blkdevcon.github.io) - My Docusaurus site with tech related docs/notes 📚
 - [blkdevcon/docusaurus-base](https://github.com/blkdevcon/docusaurus-base) - 
 - [revolunet/awesome-stars](https://github.com/revolunet/awesome-stars) - A curated list of my GitHub stars!
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
