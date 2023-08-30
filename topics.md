@@ -858,6 +858,7 @@
 
 ## others 
 
+- [sublime-security/emailrep.io](https://github.com/sublime-security/emailrep.io) - emailrep.io Public API
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 - [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [kacos2000/MS-Office-ooxml-file-parser](https://github.com/kacos2000/MS-Office-ooxml-file-parser) - MS Office ooxml file metadata parser
@@ -1002,8 +1003,6 @@
 - [blkdevcon/hyas](https://github.com/blkdevcon/hyas) - 
 - [blkdevcon/neard](https://github.com/blkdevcon/neard) - 🎲 Portable WAMP software stack
 - [blkdevcon/gatsby-starter-default](https://github.com/blkdevcon/gatsby-starter-default) - 
-- [blkdevcon/blkdevcon](https://github.com/blkdevcon/blkdevcon) - 
-- [blkdevcon/blkdevcon.github.io](https://github.com/blkdevcon/blkdevcon.github.io) - My Docusaurus site with tech related docs/notes 📚
 - [blkdevcon/webi-installers](https://github.com/blkdevcon/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [blkdevcon/docusaurus-base](https://github.com/blkdevcon/docusaurus-base) - 
 - [blkdevcon/gohugo-deploy](https://github.com/blkdevcon/gohugo-deploy) - 
