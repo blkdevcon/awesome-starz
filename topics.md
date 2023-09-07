@@ -898,7 +898,7 @@
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [blkdevcon/cheat](https://github.com/blkdevcon/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [blkdevcon/library-resources](https://github.com/blkdevcon/library-resources) - 📚 Collection of various guides, books and papers.
-- [kxzk/library](https://github.com/kxzk/library) - 📚 Collection of various guides, books and papers.
+- [kxzk/library](https://github.com/kxzk/library) - 📚 collection of various books and papers
 - [dipsec/Cheatsheets-1](https://github.com/dipsec/Cheatsheets-1) - Penetration Testing/Security Cheatsheets
 - [blkdevcon/markdown-cheatsheet](https://github.com/blkdevcon/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [blkdevcon/lapce-CodeEditor](https://github.com/blkdevcon/lapce-CodeEditor) - Lightning-fast and Powerful Code Editor written in Rust
