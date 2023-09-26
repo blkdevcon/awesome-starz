@@ -860,6 +860,8 @@
 
 ## others 
 
+- [net-protect/google-fs-recover](https://github.com/net-protect/google-fs-recover) - Google Filestream Forensic Tool
+- [Beercow/OneDriveExplorer](https://github.com/Beercow/OneDriveExplorer) - OneDriveExplorer is a command line and GUI based application for reconstructing the folder structure of OneDrive from the &lt;UserCid&gt;.dat and &lt;UserCid&gt;.dat.previous file.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [sublime-security/emailrep.io](https://github.com/sublime-security/emailrep.io) - emailrep.io Public API
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
