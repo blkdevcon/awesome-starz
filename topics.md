@@ -876,7 +876,6 @@
 - [damienvanrobaeys/PS1ToEXE-Generator](https://github.com/damienvanrobaeys/PS1ToEXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
-- [DaveJarvis/KeenWrite](https://github.com/DaveJarvis/KeenWrite) - Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math.
 - [lifenjoiner/sendto-plus](https://github.com/lifenjoiner/sendto-plus) - Windows 右键“发送到”接力；分组“发送到”；用指定程序打开；启动器；组织你的工具箱。 Send what sent to me to my 'sendto' for Windows; open with specified program; group sendto; run as a launcher; organize your toolbox.
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 - [gemilepus/Awesome-Hacking](https://github.com/gemilepus/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
