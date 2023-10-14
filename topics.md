@@ -448,7 +448,7 @@
 
 ## ethereum 
 
-- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 
 ## firebase 
 
@@ -1583,7 +1583,7 @@
 
 ## solidity 
 
-- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
 
 ## sql 
 
