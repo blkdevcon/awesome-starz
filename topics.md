@@ -1173,7 +1173,6 @@
 - [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto) - The Python Cryptography Toolkit
 - [ardzz/zeeb-dorker](https://github.com/ardzz/zeeb-dorker) - 
 - [so87/OSCP-PwK](https://github.com/so87/OSCP-PwK) - This is my cheatsheet and scripts developed while taking the Offensive Security Penetration Testing with Kali Linux course.
-- [ivoprogram/overwrite-testing](https://github.com/ivoprogram/overwrite-testing) - Overwrite repository for testing, issues, collaboration.
 - [ll3N1GmAll/ATAT](https://github.com/ll3N1GmAll/ATAT) - Attack Team Automation Tool - for automating penetration testing operations with industry standard tools.
 - [h4cklife/intrukit](https://github.com/h4cklife/intrukit) - Penetration Testing Toolkit Driven by Python3
 - [joostjager/whatsat](https://github.com/joostjager/whatsat) - End-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
@@ -1750,7 +1749,7 @@
 - [stefankueng/CryptSync](https://github.com/stefankueng/CryptSync) - CryptSync is a small utility that synchronizes two folders while encrypting the contents in one folder. That means one of the two folders has all files unencrypted (the files you work with) and the ot
 - [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder v1.1 - create your WinPE bootable Images easily, including custom scripts and drivers.
 - [ReneNyffenegger/about-Windows-Registry](https://github.com/ReneNyffenegger/about-Windows-Registry) - Windows Registry
-- [ChanpleCai/SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
+- [Oliviaophia/SmartTaskbar](https://github.com/Oliviaophia/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
 - [rbicelli/DesktopComposer](https://github.com/rbicelli/DesktopComposer) - Manage Start Menu and Desktop Shortcuts for Windows 10/Windows 2019 in Active Directory Environment
 - [GChuf/RCWM](https://github.com/GChuf/RCWM) - Right Click Windows Magic is an open-source set of right-click (context) menu tools for admins, power users and other magic beings. Batch&Powershell.
 - [Fleex255/PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
