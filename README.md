@@ -180,7 +180,7 @@
 - [brunopaiva15/WinPE-Creation-Tool](https://github.com/brunopaiva15/WinPE-Creation-Tool) - WinPE Creation Tool is a free and Open source utility that allows you to create a complete WinPE environment, including a directory, an ISO and a bootable USB key.
 - [SanderSade/DirLister](https://github.com/SanderSade/DirLister) - Simple and powerful folder and drive listing utility for Windows
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
-- [ChanpleCai/SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
+- [Oliviaophia/SmartTaskbar](https://github.com/Oliviaophia/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
 - [dennismagno/metroframework-modern-ui](https://github.com/dennismagno/metroframework-modern-ui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.
 - [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
 - [rbicelli/DesktopComposer](https://github.com/rbicelli/DesktopComposer) - Manage Start Menu and Desktop Shortcuts for Windows 10/Windows 2019 in Active Directory Environment
@@ -793,7 +793,6 @@
 - [JohnstonJ/ubuntu-secure-boot](https://github.com/JohnstonJ/ubuntu-secure-boot) - Self-signed UEFI- and GRUB-based secure boot system for Ubuntu.
 - [ktneely/Tr3Secure](https://github.com/ktneely/Tr3Secure) - Batch scripts to capture volatile and log information from a target system
 - [tehw0lf/airbash](https://github.com/tehw0lf/airbash) - A POSIX-compliant, fully automated WPA PSK PMKID and handshake capture script aimed at penetration testing
-- [ivoprogram/overwrite-testing](https://github.com/ivoprogram/overwrite-testing) - Overwrite repository for testing, issues, collaboration.
 - [ll3N1GmAll/ATAT](https://github.com/ll3N1GmAll/ATAT) - Attack Team Automation Tool - for automating penetration testing operations with industry standard tools.
 - [trimstray/mkchain](https://github.com/trimstray/mkchain) - Open source tool to help you build a valid SSL certificate chain.
 - [KeepWannabe/Remot3d](https://github.com/KeepWannabe/Remot3d) - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors
