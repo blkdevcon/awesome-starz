@@ -361,7 +361,6 @@
 - [NationalSecurityAgency/MADCert](https://github.com/NationalSecurityAgency/MADCert) - Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.
 - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation
 - [dan-osull/calibre-web](https://github.com/dan-osull/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [luzea-archive/techbench-dump-web](https://github.com/luzea-archive/techbench-dump-web) - An easy to use website to generate links for Microsoft products.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [thom4parisot/crx](https://github.com/thom4parisot/crx) - A node.js command line app for packing Google Chrome extensions.
