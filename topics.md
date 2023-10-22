@@ -147,6 +147,7 @@
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
+- [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
 
@@ -369,6 +370,7 @@
 
 ## cybersecurity 
 
+- [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -850,6 +852,7 @@
 
 ## osint 
 
+- [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
@@ -1487,6 +1490,7 @@
 
 ## security 
 
+- [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
@@ -1682,6 +1686,7 @@
 
 ## windows 
 
+- [vanjac/chromafiler](https://github.com/vanjac/chromafiler) - Experimental file browser for Windows
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
@@ -1765,6 +1770,10 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [PushpenderIndia/Sinister](https://github.com/PushpenderIndia/Sinister) - Sinister is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+
+## wordpress 
+
+- [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
 
 ## xcode 
 
