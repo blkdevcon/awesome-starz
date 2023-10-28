@@ -30,6 +30,7 @@
 - [cli](#cli)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
@@ -347,6 +348,10 @@
 ## compiler 
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+
+## computer-science 
+
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## cpp 
 
