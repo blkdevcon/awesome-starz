@@ -1203,7 +1203,6 @@
 - [xtr4nge/FruityWifi](https://github.com/xtr4nge/FruityWifi) - FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system (Jessie) adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry 
 - [offensive-security/nethunter-utils](https://github.com/offensive-security/nethunter-utils) - Kali Linux NetHunter utils package
 - [jamesm0rr1s/Send-and-Track-Phishing-Campaigns](https://github.com/jamesm0rr1s/Send-and-Track-Phishing-Campaigns) - PhishSend is a penetration testing and red teaming tool that automates the process of sending phishing emails and tracking unique links that are clicked. These scripts were tested with Python 2.7
-- [HyWell/AWIScan](https://github.com/HyWell/AWIScan) - A fast information gathering tool for pentesters.
 - [TeamT5/MalCfgParser](https://github.com/TeamT5/MalCfgParser) - A Lightweight Malware Configuration Parsing Tool
 - [DynamoRIO/drmemory](https://github.com/DynamoRIO/drmemory) - Memory Debugger for Windows, Linux, Mac, and Android
 - [alternat0r/Ransomware-Decryptor-List](https://github.com/alternat0r/Ransomware-Decryptor-List) - This is a large list of ransomware decryptor from various link. Consist from various type of ransomware. Feel free to contribute.
