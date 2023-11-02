@@ -697,7 +697,6 @@
 - [initstring/evil-ssdp](https://github.com/initstring/evil-ssdp) - Spoof SSDP replies and create fake UPnP devices to phish for credentials and NetNTLM challenge/response.
 - [frizb/Vanquish](https://github.com/frizb/Vanquish) - Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.
 - [jamesm0rr1s/Send-and-Track-Phishing-Campaigns](https://github.com/jamesm0rr1s/Send-and-Track-Phishing-Campaigns) - PhishSend is a penetration testing and red teaming tool that automates the process of sending phishing emails and tracking unique links that are clicked. These scripts were tested with Python 2.7
-- [HyWell/AWIScan](https://github.com/HyWell/AWIScan) - A fast information gathering tool for pentesters.
 - [TeamT5/MalCfgParser](https://github.com/TeamT5/MalCfgParser) - A Lightweight Malware Configuration Parsing Tool
 - [Qianlitp/WatchAD](https://github.com/Qianlitp/WatchAD) - AD Security Intrusion Detection System
 - [penetrate2hack/ITWSV](https://github.com/penetrate2hack/ITWSV) - ITWSV- Integrated Tool for Web Security Vulnerability
