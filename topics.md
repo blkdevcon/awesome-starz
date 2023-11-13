@@ -324,7 +324,7 @@
 
 ## chrome-extension 
 
-- [reworkd/extension](https://github.com/reworkd/extension) - Revolutionizing your workflow with the power of AI - Nw Hacks 2023 Finalist🎉
+- [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
 - [thom4parisot/crx](https://github.com/thom4parisot/crx) - A node.js command line app for packing Google Chrome extensions.
@@ -547,7 +547,7 @@
 
 ## hackathon 
 
-- [reworkd/extension](https://github.com/reworkd/extension) - Revolutionizing your workflow with the power of AI - Nw Hacks 2023 Finalist🎉
+- [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 
 ## hacking 
 
@@ -826,7 +826,7 @@
 ## nextjs 
 
 - [Nashex/gpt4-playground](https://github.com/Nashex/gpt4-playground) - Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.
-- [reworkd/extension](https://github.com/reworkd/extension) - Revolutionizing your workflow with the power of AI - Nw Hacks 2023 Finalist🎉
+- [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
 ## nlp 
