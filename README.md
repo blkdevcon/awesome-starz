@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [Empyreal96/MarkdownUWP](https://github.com/Empyreal96/MarkdownUWP) - A simple Markdown and General text  editor for Windows 10 Desktop and Mobile. Can also be used as a general text editor
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 - [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
 - [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
@@ -525,6 +526,7 @@
 
 ## Perl 
 
+- [cmatsuoka/figlet-fonts](https://github.com/cmatsuoka/figlet-fonts) - A collection of fonts for FIGlet
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [xtr4nge/giskismet](https://github.com/xtr4nge/giskismet) - giskismet – Wireless recon visualization tool
 - [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
