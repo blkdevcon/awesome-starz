@@ -58,6 +58,7 @@
 
 ## Batchfile 
 
+- [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 - [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
@@ -117,6 +118,7 @@
 
 ## C# # 
 
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [Empyreal96/MarkdownUWP](https://github.com/Empyreal96/MarkdownUWP) - A simple Markdown and General text  editor for Windows 10 Desktop and Mobile. Can also be used as a general text editor
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 - [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
@@ -253,6 +255,8 @@
 
 ## Go 
 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [blkdevcon/cheat](https://github.com/blkdevcon/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -289,7 +293,6 @@
 - [blkdevcon/kryptomancer](https://github.com/blkdevcon/kryptomancer) - An OpenSSL wizard
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [blkdevcon/ms_symtools](https://github.com/blkdevcon/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
-- [blkdevcon/Blackeye](https://github.com/blkdevcon/Blackeye) - The ultimate phishing tool with 38 websites available!
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
@@ -306,7 +309,6 @@
 - [sebmillet/custom-uefi](https://github.com/sebmillet/custom-uefi) - Documents how to customize UEFI with your own keys
 - [cloud-gov/federalist.18f.gov](https://github.com/cloud-gov/federalist.18f.gov) - Homepage for the Federalist platform
 - [da667/Training_Materials_Bookmarks](https://github.com/da667/Training_Materials_Bookmarks) - Learn you a book for some infosec good
-- [An0nUD4Y/blackeye](https://github.com/An0nUD4Y/blackeye) - The ultimate phishing tool with 38 websites available!
 - [P3t3rp4rk3r/My_Dirty_Scripts](https://github.com/P3t3rp4rk3r/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
 
 ## Inno Setup 
@@ -328,6 +330,7 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
 - [mantreshkhurana/ChatGPT-electron](https://github.com/mantreshkhurana/ChatGPT-electron) - An unofficial desktop app for ChatGPT, supports all desktop platforms including Windows, Linux & macOS.
 - [mantreshkhurana/Google-Bard-electron](https://github.com/mantreshkhurana/Google-Bard-electron) - An unofficial desktop app for Google Bard, supports all desktop platforms including Windows, Linux & macOS.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
@@ -533,6 +536,7 @@
 
 ## PowerShell 
 
+- [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
 - [kacos2000/MS-Office-ooxml-file-parser](https://github.com/kacos2000/MS-Office-ooxml-file-parser) - MS Office ooxml file metadata parser
 - [kacos2000/Jumplist-Browser](https://github.com/kacos2000/Jumplist-Browser) - Automatic/Custom Destinations & ShellLNK Browser
@@ -617,6 +621,7 @@
 
 ## Python 
 
+- [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [net-protect/google-fs-recover](https://github.com/net-protect/google-fs-recover) - Google Filestream Forensic Tool
