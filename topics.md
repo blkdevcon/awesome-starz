@@ -918,7 +918,6 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [net-protect/google-fs-recover](https://github.com/net-protect/google-fs-recover) - Google Filestream Forensic Tool
 - [Beercow/OneDriveExplorer](https://github.com/Beercow/OneDriveExplorer) - OneDriveExplorer is a command line and GUI based application for reconstructing the folder structure of OneDrive from the &lt;UserCid&gt;.dat and &lt;UserCid&gt;.dat.previous file.
-- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [sublime-security/emailrep.io](https://github.com/sublime-security/emailrep.io) - emailrep.io Public API
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 - [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
@@ -1310,6 +1309,8 @@
 
 ## penetration-testing 
 
+- [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
+- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [InfosecMatter/Minimalistic-offensive-security-tools](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
@@ -1337,6 +1338,7 @@
 
 - [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
+- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
@@ -1563,6 +1565,8 @@
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
+- [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
+- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
