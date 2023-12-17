@@ -1788,7 +1788,7 @@
 - [kacos2000/Jumplist-Browser](https://github.com/kacos2000/Jumplist-Browser) - Automatic/Custom Destinations & LNK (MS-SHLLINK) Browser
 - [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2 & some of SuperFetch .7db/.db's
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
-- [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 related research
+- [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -1877,7 +1877,7 @@
 
 ## xml 
 
-- [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 related research
+- [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
 - [kacos2000/Evtx_Log_Browser](https://github.com/kacos2000/Evtx_Log_Browser) - Evtx Log (xml) Browser
 
 
