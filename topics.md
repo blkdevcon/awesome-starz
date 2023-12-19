@@ -1781,7 +1781,7 @@
 
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-- [vanjac/chromafiler](https://github.com/vanjac/chromafiler) - Experimental file manager for Windows
+- [vanjac/chromafiler](https://github.com/vanjac/chromafiler) - Column-based file manager for Windows
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
