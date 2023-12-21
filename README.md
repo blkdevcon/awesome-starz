@@ -411,6 +411,7 @@
 
 ## Others 
 
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
@@ -784,6 +785,7 @@
 
 ## Shell 
 
+- [i2p/i2p.firefox](https://github.com/i2p/i2p.firefox) - A pre-configured browser profile and accompanying shortcut for easily configuring an I2P browser on Windows.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
 - [blkdevcon/osint-1](https://github.com/blkdevcon/osint-1) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
