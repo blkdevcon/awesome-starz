@@ -424,7 +424,6 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [scriptsandthings/cheatsheets-1](https://github.com/scriptsandthings/cheatsheets-1) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
 - [scriptsandthings/awesome-command-line-apps](https://github.com/scriptsandthings/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
-- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
@@ -853,6 +852,7 @@
 ## VBScript 
 
 - [rbicelli/example-admx-template](https://github.com/rbicelli/example-admx-template) - ADMX template writing with working example
+- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
 - [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
