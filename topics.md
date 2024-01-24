@@ -48,6 +48,7 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
+- [english](#english)
 - [ethereum](#ethereum)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -479,6 +480,10 @@
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
+## english 
+
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+
 ## ethereum 
 
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
@@ -724,6 +729,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [ncornette/Python-Markdown-Editor](https://github.com/ncornette/Python-Markdown-Editor) - Standalone editor for your markdown files
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
@@ -1111,7 +1117,6 @@
 - [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [riedyw/PoshFunctions](https://github.com/riedyw/PoshFunctions) - A curated collection of PowerShell scripts packaged into a module.
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [blkdevcon/jamdocs](https://github.com/blkdevcon/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [likescam/ForensicsTools_Kaspersky](https://github.com/likescam/ForensicsTools_Kaspersky) - 
