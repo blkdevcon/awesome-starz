@@ -154,7 +154,6 @@
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
-- [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
 
@@ -1373,7 +1372,6 @@
 ## pentesting 
 
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
-- [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1613,7 +1611,6 @@
 
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
-- [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
@@ -1902,10 +1899,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [PushpenderIndia/Sinister](https://github.com/PushpenderIndia/Sinister) - Sinister is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
-
-## wordpress 
-
-- [Moham3dRiahi/XAttackProV30](https://github.com/Moham3dRiahi/XAttackProV30) - XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter
 
 ## xcode 
 
