@@ -97,6 +97,7 @@
 - [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -387,7 +388,7 @@
 
 ## csharp 
 
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use password manager for Windows, compatible with pass.
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
@@ -889,6 +890,10 @@
 - [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) - Free Introduction to SQL eBook
+
+## natural-language-processing 
+
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## neovim 
 
@@ -1841,7 +1846,7 @@
 - [massgravel/msdl](https://github.com/massgravel/msdl) - Microsoft Software Download Listing
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [gtkhash/gtkhash](https://github.com/gtkhash/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
