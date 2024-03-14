@@ -456,7 +456,6 @@
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
-- [easyphp/WEBSERVER](https://github.com/easyphp/WEBSERVER) - ⚙️ WEBSERVER turns your computer into a ready-to-use personal web hosting server.
 - [blkdevcon/vuepress-deploy](https://github.com/blkdevcon/vuepress-deploy) - 
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
