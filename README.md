@@ -465,6 +465,7 @@
 - [blkdevcon/docusaurus-base](https://github.com/blkdevcon/docusaurus-base) - 
 - [revolunet/awesome-stars](https://github.com/revolunet/awesome-stars) - A curated list of my GitHub stars!
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
+- [ryanmrestivo/red-team](https://github.com/ryanmrestivo/red-team) - Notes, red team materials, testing tools, etc.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [zodiacon/AllTools](https://github.com/zodiacon/AllTools) - All reasonably stable tools
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -667,7 +668,6 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [EventGhost/EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
-- [ryanmrestivo/red-team](https://github.com/ryanmrestivo/red-team) - Notes, red team materials, testing tools, etc.
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
 - [Opticos/wsl-tools](https://github.com/Opticos/wsl-tools) - python library for WSL (Windows Subsystem for Linux) management
 - [ikem-krueger/win10svc](https://github.com/ikem-krueger/win10svc) - Repair the Windows 10 services
