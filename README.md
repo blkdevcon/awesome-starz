@@ -39,6 +39,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [SourcePawn](#sourcepawn)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Visual Basic](#visual-basic)
@@ -631,6 +632,7 @@
 
 ## Python 
 
+- [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
@@ -831,6 +833,10 @@
 ## SourcePawn 
 
 - [Blu3Jive001/Nordic-Windows](https://github.com/Blu3Jive001/Nordic-Windows) - A port of Barbrossa's Linux creation to Windows
+
+## Svelte 
+
+- [magitools/magiedit](https://github.com/magitools/magiedit) - a markdown editor with multi platform and multi account publishing capabilities
 
 ## TypeScript 
 
