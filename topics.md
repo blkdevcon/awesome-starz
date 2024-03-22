@@ -959,6 +959,7 @@
 
 ## others 
 
+- [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
 - [sabuhish/E-Books-1](https://github.com/sabuhish/E-Books-1) - A collections of FREE ebooks
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
@@ -1003,7 +1004,6 @@
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
 - [nightroman/PowerShelf](https://github.com/nightroman/PowerShelf) - PowerShell Script Tools
-- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
