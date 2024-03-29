@@ -789,7 +789,7 @@
 
 ## SCSS 
 
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [blkdevcon/one-click-hugo-cms](https://github.com/blkdevcon/one-click-hugo-cms) - 
 - [blkdevcon/1-click-hugoCMS](https://github.com/blkdevcon/1-click-hugoCMS) - 
 - [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love
