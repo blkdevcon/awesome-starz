@@ -639,7 +639,6 @@
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [net-protect/google-fs-recover](https://github.com/net-protect/google-fs-recover) - Google Filestream Forensic Tool
 - [Beercow/OneDriveExplorer](https://github.com/Beercow/OneDriveExplorer) - OneDriveExplorer is a command line and GUI based application for reconstructing the folder structure of OneDrive from the &lt;UserCid&gt;.dat and &lt;UserCid&gt;.dat.previous file.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
