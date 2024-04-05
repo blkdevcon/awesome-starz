@@ -67,6 +67,7 @@
 - [google](#google)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -292,7 +293,7 @@
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [devploit/put2win](https://github.com/devploit/put2win) - Script to automate PUT HTTP method exploitation to get shell
 
@@ -398,7 +399,7 @@
 - [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [unoplatform/Uno.WindowsCommunityToolkit](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolki
 
 ## css 
@@ -632,6 +633,15 @@
 - [PacktPublishing/Digital-Forensics-with-Kali-Linux](https://github.com/PacktPublishing/Digital-Forensics-with-Kali-Linux) - Digital Forensics with Kali Linux, published by Packt
 - [yeahhub/Kali-Linux-Ebooks](https://github.com/yeahhub/Kali-Linux-Ebooks) - Top 20 Kali Linux Related E-books (Free Download)
 
+## hacking-tool 
+
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner
+- [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
+- [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
+- [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
+- [Andromeda1957/netpwn](https://github.com/Andromeda1957/netpwn) - Tool made to automate tasks of pentesting.
+
 ## hacktoberfest 
 
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -813,7 +823,7 @@
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and a whole lot more, all merged from multiple reputable sources, combined with my own research. Also, script-based utilit
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
@@ -1257,7 +1267,6 @@
 - [katin/PenTDB](https://github.com/katin/PenTDB) - Pentesting Tracker Database with HTML Interface
 - [G4lile0/ESP32-WiFi-Hash-Monster](https://github.com/G4lile0/ESP32-WiFi-Hash-Monster) - WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device
 - [Abdulrah33m/Cl0neMast3r](https://github.com/Abdulrah33m/Cl0neMast3r) - Git all your favorite tools in one click
-- [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner
 - [travisfoley/dfirtriage](https://github.com/travisfoley/dfirtriage) - Digital forensic acquisition tool for Windows based incident response.
 - [ktneely/Tr3Secure](https://github.com/ktneely/Tr3Secure) - Batch scripts to capture volatile and log information from a target system
 - [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) - This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty.
@@ -1713,7 +1722,7 @@
 - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [hellzerg/moonshell](https://github.com/hellzerg/moonshell) - Portable and multi-tabbed terminal for Windows
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [stefankueng/tools](https://github.com/stefankueng/tools) - a collection of useful tools, including SKTimeStamp and StExBar
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
@@ -1895,7 +1904,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [salvadorbs/Asuite](https://github.com/salvadorbs/Asuite) - ASuite is a simple open source portable launcher for Microsoft Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
