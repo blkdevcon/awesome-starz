@@ -140,6 +140,7 @@
 - [solidity](#solidity)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -1747,6 +1748,10 @@
 ## sql-server 
 
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
+
+## stable-diffusion 
+
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 
 ## swift 
 
