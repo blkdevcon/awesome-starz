@@ -89,6 +89,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -162,6 +163,7 @@
 
 ## ai 
 
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -190,6 +192,7 @@
 
 ## api 
 
+- [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
 - [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
 - [thedevdojo/tails](https://github.com/thedevdojo/tails) - This is the Tails composer package for Laravel. Easily fetch designs in your Laravel application that you design inside of the Tails Site/Page Builder.
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
@@ -284,6 +287,7 @@
 
 ## bash 
 
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -326,6 +330,7 @@
 
 ## chatgpt 
 
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [mantreshkhurana/ChatGPT-electron](https://github.com/mantreshkhurana/ChatGPT-electron) - An unofficial desktop app for ChatGPT, supports all desktop platforms including Windows, Linux & macOS.
@@ -341,6 +346,7 @@
 
 ## chatgpt-api 
 
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
@@ -362,6 +368,7 @@
 
 ## cli 
 
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -412,7 +419,7 @@
 
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet
@@ -588,6 +595,7 @@
 
 ## google 
 
+- [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [mantreshkhurana/Google-Bard-electron](https://github.com/mantreshkhurana/Google-Bard-electron) - An unofficial desktop app for Google Bard, supports all desktop platforms including Windows, Linux & macOS.
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
@@ -639,7 +647,7 @@
 
 ## hacking-tool 
 
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
@@ -808,6 +816,10 @@
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
+## library 
+
+- [Zaczero/Tor4NET](https://github.com/Zaczero/Tor4NET) - 🍝 An all-in-one solution to fulfill your .NET dark web needs
+
 ## linux 
 
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
@@ -961,7 +973,7 @@
 - [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - A list of tools to search accounts by username
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
@@ -977,6 +989,8 @@
 
 ## others 
 
+- [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
+- [MansourM/ez-dns-changer.bat](https://github.com/MansourM/ez-dns-changer.bat) - Easy (EZ) DNS changer, A simple windows batch script file to change windows dns servers
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
 - [sabuhish/E-Books-1](https://github.com/sabuhish/E-Books-1) - A collections of FREE ebooks
@@ -1523,7 +1537,7 @@
 ## python 
 
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -1571,7 +1585,7 @@
 ## python3 
 
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
@@ -1802,6 +1816,7 @@
 
 ## typescript 
 
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [magitools/magiedit](https://github.com/magitools/magiedit) - a markdown editor with multi platform and multi account publishing capabilities
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
@@ -1840,6 +1855,7 @@
 
 ## web 
 
+- [Zaczero/Tor4NET](https://github.com/Zaczero/Tor4NET) - 🍝 An all-in-one solution to fulfill your .NET dark web needs
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [pilotpirxie/visual-editor](https://github.com/pilotpirxie/visual-editor) - 🏗 Website editor built with React. Make a modern website in seconds with predefined blocks and drag and drop.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
