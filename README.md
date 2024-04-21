@@ -122,6 +122,7 @@
 
 ## C# # 
 
+- [Si13n7/ImageToIcon](https://github.com/Si13n7/ImageToIcon) - :rowboat: Convert your image to ICO format
 - [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
 - [Zaczero/Tor4NET](https://github.com/Zaczero/Tor4NET) - 🍝 An all-in-one solution to fulfill your .NET dark web needs
 - [Zaczero/DNSChanger](https://github.com/Zaczero/DNSChanger) - 🔧 The ultimate Windows DNS changer tool (with DNSCrypt)
@@ -343,6 +344,7 @@
 
 ## JavaScript 
 
+- [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -431,6 +433,7 @@
 
 ## Others 
 
+- [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA Exam and Lab Reporting / Note-Taking Tool
 - [ieshreya/Obsidian-Cheat-Sheet](https://github.com/ieshreya/Obsidian-Cheat-Sheet) - all the basic cheatsheets you need to get started to make notes in obsidian.
 - [seburbandev/obsidian-dataview-cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) - This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.
 - [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - A list of tools to search accounts by username
@@ -647,6 +650,8 @@
 
 ## Python 
 
+- [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
+- [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
 - [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -859,6 +864,8 @@
 
 ## TypeScript 
 
+- [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
+- [hensm/mullvad-proxy](https://github.com/hensm/mullvad-proxy) - A browser extension for Mullvad SOCKS5 proxies.
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
