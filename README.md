@@ -492,7 +492,6 @@
 - [SilverAzide/Gadgets](https://github.com/SilverAzide/Gadgets) - Gadgets for Rainmeter
 - [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources) - Collection of online security resources
 - [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
-- [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [EnnoxHD/windows-registry](https://github.com/EnnoxHD/windows-registry) - Just some useful Registry Stuff.
@@ -632,6 +631,7 @@
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
+- [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [stknohg/AdmxPolicy](https://github.com/stknohg/AdmxPolicy) - Get Group Policy information from ADMX files.
