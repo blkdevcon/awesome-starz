@@ -299,6 +299,7 @@
 
 ## HTML 
 
+- [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
