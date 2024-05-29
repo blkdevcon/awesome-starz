@@ -247,6 +247,7 @@
 
 ## CSS 
 
+- [Texts/texts.github.io](https://github.com/Texts/texts.github.io) - Template for a blog hosted on GitHub Pages
 - [blkdevcon/gpt4all-ui](https://github.com/blkdevcon/gpt4all-ui) - gpt4all chatbot ui
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
 - [blkdevcon/tachyons](https://github.com/blkdevcon/tachyons) - Functional css for humans
@@ -345,6 +346,7 @@
 
 ## JavaScript 
 
+- [blkdevcon/Tab-Session-Manager](https://github.com/blkdevcon/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
