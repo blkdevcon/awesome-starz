@@ -577,7 +577,7 @@
 - [kacos2000/MFT_Browser](https://github.com/kacos2000/MFT_Browser) - $MFT directory tree reconstruction & FILE record info
 - [jebofponderworthy/windows-tools](https://github.com/jebofponderworthy/windows-tools) - Some applets courtesy of Ponderworthy folks and friends.
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [damienvanrobaeys/PS1ToEXE-Generator](https://github.com/damienvanrobaeys/PS1ToEXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
