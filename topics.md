@@ -1525,7 +1525,7 @@
 - [kacos2000/Jumplist-Browser](https://github.com/kacos2000/Jumplist-Browser) - Automatic/Custom Destinations & LNK (MS-SHLLINK) Browser
 - [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2 & some of SuperFetch .7db/.db's
 - [kacos2000/MFT_Browser](https://github.com/kacos2000/MFT_Browser) - $MFT directory tree reconstruction & FILE record info
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
 - [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
 - [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
@@ -1732,7 +1732,7 @@
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
@@ -1957,7 +1957,7 @@
 - [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2 & some of SuperFetch .7db/.db's
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and create scripts. Can be used to streamline repetitive and time-consuming tasks.
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
