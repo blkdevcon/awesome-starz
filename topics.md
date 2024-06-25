@@ -1055,6 +1055,8 @@
 
 ## others 
 
+- [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+- [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -1973,6 +1975,7 @@
 
 ## windows 
 
+- [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) - Easily configure Microsoft Edge, the way you want it!
 - [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A GUI app for creating symlinks, based on mklink
 - [ironmansoftware/scripts](https://github.com/ironmansoftware/scripts) - Public library of scripts maintained by Ironman Software.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
