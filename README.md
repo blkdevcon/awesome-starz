@@ -449,6 +449,7 @@
 
 ## Others 
 
+- [gemilepus/Toolbox](https://github.com/gemilepus/Toolbox) - Toolbox for my work
 - [oryon-osint/investigation-templates](https://github.com/oryon-osint/investigation-templates) - A collection of markdown templates for structured intelligence analysis. Ideal for OSINT, cyber investigations, and data documentation.
 - [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA Exam and Lab Reporting / Note-Taking Tool
@@ -670,6 +671,7 @@
 
 ## Python 
 
+- [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [blkdevcon/netlas-cookbook](https://github.com/blkdevcon/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
