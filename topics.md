@@ -456,6 +456,7 @@
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [DerekBabb/CyberSecurity](https://github.com/DerekBabb/CyberSecurity) - A curriculum for a high school cyber security course.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 
 ## data 
@@ -936,7 +937,6 @@
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 
 ## markdown 
@@ -1524,6 +1524,7 @@
 - [abhi-r3v0/EVABS](https://github.com/abhi-r3v0/EVABS) - An open source Android application that is intentionally vulnerable so as to act as a learning platform for Android application security beginners.
 - [Cisc0-gif/KITT](https://github.com/Cisc0-gif/KITT) - Python-Based Pentesting Framework
 - [ArchStrike/ArchStrike](https://github.com/ArchStrike/ArchStrike) - An Arch Linux repository for security professionals and enthusiasts. Done the Arch Way and optimized for i686, x86_64, ARMv6, ARMv7 and ARMv8.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [initstring/evil-ssdp](https://github.com/initstring/evil-ssdp) - Spoof SSDP replies and create fake UPnP devices to phish for credentials and NetNTLM challenge/response.
 - [penetrate2hack/ITWSV](https://github.com/penetrate2hack/ITWSV) - ITWSV- Integrated Tool for Web Security Vulnerability
 - [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
@@ -2080,7 +2081,6 @@
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [PushpenderIndia/Sinister](https://github.com/PushpenderIndia/Sinister) - Sinister is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
 
