@@ -34,6 +34,7 @@
 - [PowerShell](#powershell)
 - [PureBasic](#purebasic)
 - [Python](#python)
+- [QMake](#qmake)
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -227,7 +228,6 @@
 - [laurent22/appetizer](https://github.com/laurent22/appetizer) - Official repository for Appetizer, the open source application launcher, or dock, for Windows.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [likescam/ForensicsTools_Kaspersky](https://github.com/likescam/ForensicsTools_Kaspersky) - 
-- [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [zodiacon/Win10SysProgBookSamples](https://github.com/zodiacon/Win10SysProgBookSamples) - Windows 10 System Programming book samples
 - [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
@@ -802,6 +802,10 @@
 - [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
 - [skamieniarz/pypong](https://github.com/skamieniarz/pypong) - Slightly modified clone of Pong classic game implemented with Python.
 - [Raikia/Kali-Setup](https://github.com/Raikia/Kali-Setup) - Script for Kali that adds a bunch of tools and customizes it to be much better
+
+## QMake 
+
+- [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 
 ## R 
 
