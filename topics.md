@@ -23,6 +23,7 @@
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -333,6 +334,17 @@
 
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and create scripts. Can be used to streamline repetitive and time-consuming tasks.
 - [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+
+## bugbounty 
+
+- [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
+- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+- [X-Vector/X-RSA](https://github.com/X-Vector/X-RSA) - Cryptography Tool | RSA Attacks
+- [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
+- [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
+- [hahwul/ras-fuzzer](https://github.com/hahwul/ras-fuzzer) - RAS(RAndom Subdomain) Fuzzer
+- [hahwul/mad-metasploit](https://github.com/hahwul/mad-metasploit) - Metasploit custom modules, plugins, resource script and.. awesome metasploit collection
+- [nerrorsec/Google-Dorker](https://github.com/nerrorsec/Google-Dorker) - Automate dorking while doing bug bounty or other stuffs.
 
 ## c 
 
@@ -1375,7 +1387,6 @@
 - [sebmillet/custom-uefi](https://github.com/sebmillet/custom-uefi) - Documents how to customize UEFI with your own keys
 - [cr4ck32/E-Books](https://github.com/cr4ck32/E-Books) - A collections of FREE ebooks
 - [greatworkscph/IseeU](https://github.com/greatworkscph/IseeU) - IseeU DIY Spy Kit
-- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [caioau/badUSB-Targeting-Android](https://github.com/caioau/badUSB-Targeting-Android) - a proof of concept badUSB attack which install a apk on Android
 - [katin/PenTDB](https://github.com/katin/PenTDB) - Pentesting Tracker Database with HTML Interface
 - [G4lile0/ESP32-WiFi-Hash-Monster](https://github.com/G4lile0/ESP32-WiFi-Hash-Monster) - WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device
