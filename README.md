@@ -352,6 +352,7 @@
 
 ## JavaScript 
 
+- [uprun/WebPad](https://github.com/uprun/WebPad) - wiki-notes, micro zettelkasten, personal wiki.
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
 - [FreshSupaSulley/Duochrome](https://github.com/FreshSupaSulley/Duochrome) - Login through Duo Mobile in your browser
