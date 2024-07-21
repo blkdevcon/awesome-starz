@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [pistacheio/pistache](https://github.com/pistacheio/pistache) - A high-performance REST toolkit written in C++
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
@@ -586,6 +587,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [ironmansoftware/scripts](https://github.com/ironmansoftware/scripts) - Public library of scripts maintained by Ironman Software.
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
@@ -935,6 +937,7 @@
 
 ## VBScript 
 
+- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
 - [rbicelli/example-admx-template](https://github.com/rbicelli/example-admx-template) - ADMX template writing with working example
 - [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
