@@ -1082,6 +1082,7 @@
 
 ## others 
 
+- [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [awuctl/mvs-dump](https://github.com/awuctl/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
 - [awuctl/licensing-stuff](https://github.com/awuctl/licensing-stuff) - Collection of tools for playing with Windows licensing stuff
