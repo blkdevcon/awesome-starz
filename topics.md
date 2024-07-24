@@ -1082,6 +1082,7 @@
 
 ## others 
 
+- [ActiveState/OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [awuctl/mvs-dump](https://github.com/awuctl/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
