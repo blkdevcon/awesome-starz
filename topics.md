@@ -153,6 +153,7 @@
 - [sql-server](#sql-server)
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [termux](#termux)
 - [termux-hacking](#termux-hacking)
@@ -1952,6 +1953,12 @@
 ## swift 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+
+## tailwindcss 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [thedevdojo/tails](https://github.com/thedevdojo/tails) - This is the Tails composer package for Laravel. Easily fetch designs in your Laravel application that you design inside of the Tails Site/Page Builder.
+- [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 
 ## terminal 
 
