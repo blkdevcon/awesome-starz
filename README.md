@@ -346,6 +346,7 @@
 
 ## Java 
 
+- [v4lpt/PWG](https://github.com/v4lpt/PWG) - This is a simple password generator for the android operating system.
 - [lucalewin/pdf-converter](https://github.com/lucalewin/pdf-converter) - convert images to pdfs and merge pdfs
 - [blkdevcon/keystore-explorer](https://github.com/blkdevcon/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [blkdevcon/ghidra](https://github.com/blkdevcon/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -360,6 +361,7 @@
 
 ## JavaScript 
 
+- [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
@@ -846,6 +848,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [blkdevcon/lapce-CodeEditor](https://github.com/blkdevcon/lapce-CodeEditor) - Lightning-fast and Powerful Code Editor written in Rust
