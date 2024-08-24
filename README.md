@@ -362,13 +362,13 @@
 ## JavaScript 
 
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
-- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [uprun/WebPad](https://github.com/uprun/WebPad) - wiki-notes, micro zettelkasten, personal wiki.
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
-- [FreshSupaSulley/Duochrome](https://github.com/FreshSupaSulley/Duochrome) - Login through Duo Mobile in your browser
+- [FreshSupaSulley/Auto-2FA](https://github.com/FreshSupaSulley/Auto-2FA) - Login through Duo Mobile in your browser
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 - [blkdevcon/Tab-Session-Manager](https://github.com/blkdevcon/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
