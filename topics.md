@@ -509,7 +509,7 @@
 
 ## deep-learning 
 
-- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [JPCERTCC/DetectLM](https://github.com/JPCERTCC/DetectLM) - Detecting Lateral Movement with Machine Learning
 
 ## deployment 
@@ -955,7 +955,7 @@
 
 ## llm 
 
-- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
@@ -1837,7 +1837,7 @@
 ## security 
 
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
-- [FreshSupaSulley/Duochrome](https://github.com/FreshSupaSulley/Duochrome) - Login through Duo Mobile in your browser
+- [FreshSupaSulley/Auto-2FA](https://github.com/FreshSupaSulley/Auto-2FA) - Login through Duo Mobile in your browser
 - [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
