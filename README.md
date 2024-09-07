@@ -312,6 +312,7 @@
 
 ## HTML 
 
+- [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [jimbrig/devtools-snippets](https://github.com/jimbrig/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
