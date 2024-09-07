@@ -1119,6 +1119,7 @@
 
 ## others 
 
+- [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [nyxiereal/PyonPlus](https://github.com/nyxiereal/PyonPlus) - Silly ahh modpack
 - [synacktiv/SCCMSecrets](https://github.com/synacktiv/SCCMSecrets) - SCCMSecrets.py aims at exploiting SCCM policies distribution for credentials harvesting, initial access and lateral movement.
