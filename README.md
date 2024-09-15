@@ -125,6 +125,7 @@
 
 ## C# # 
 
+- [thebookisclosed/StartMenuCompanionSample](https://github.com/thebookisclosed/StartMenuCompanionSample) - Starter kit for building your own Start Menu Companion
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
