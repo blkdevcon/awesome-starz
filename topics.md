@@ -1125,6 +1125,10 @@
 
 ## others 
 
+- [MicrosoftWindowsDefenderTools/Windows-Defender-Tools](https://github.com/MicrosoftWindowsDefenderTools/Windows-Defender-Tools) - Microsoft Defender Antivirus (formerly Windows Defender) is an antivirus software component of Microsoft Windows. It was first released as a downloadable free anti-spyware program for Windows XP and w
+- [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+- [LesFerch/RightClickTools](https://github.com/LesFerch/RightClickTools) - Add a Set of Powerful Tools to the Windows Explorer Context Menu
+- [gyunaev/kchmviewer](https://github.com/gyunaev/kchmviewer) - kchmviewer is a CHM (Winhelp) files viewer written on Qt/KDE. It can be build as a standalone Qt-based application, or a KDE application. The main point of kchmviewer is compatibility with non-English
 - [thebookisclosed/StartMenuCompanionSample](https://github.com/thebookisclosed/StartMenuCompanionSample) - Starter kit for building your own Start Menu Companion
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
