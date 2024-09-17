@@ -125,6 +125,8 @@
 
 ## C# # 
 
+- [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+- [LesFerch/RightClickTools](https://github.com/LesFerch/RightClickTools) - Add a Set of Powerful Tools to the Windows Explorer Context Menu
 - [thebookisclosed/StartMenuCompanionSample](https://github.com/thebookisclosed/StartMenuCompanionSample) - Starter kit for building your own Start Menu Companion
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
@@ -212,6 +214,7 @@
 
 ## C++ 
 
+- [gyunaev/kchmviewer](https://github.com/gyunaev/kchmviewer) - kchmviewer is a CHM (Winhelp) files viewer written on Qt/KDE. It can be build as a standalone Qt-based application, or a KDE application. The main point of kchmviewer is compatibility with non-English
 - [NasirA1/Arduino_Misc](https://github.com/NasirA1/Arduino_Misc) - Miscellaneous Arduino Projects
 - [pistacheio/pistache](https://github.com/pistacheio/pistache) - A high-performance REST toolkit written in C++
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -464,6 +467,7 @@
 
 ## Others 
 
+- [MicrosoftWindowsDefenderTools/Windows-Defender-Tools](https://github.com/MicrosoftWindowsDefenderTools/Windows-Defender-Tools) - Microsoft Defender Antivirus (formerly Windows Defender) is an antivirus software component of Microsoft Windows. It was first released as a downloadable free anti-spyware program for Windows XP and w
 - [nyxiereal/PyonPlus](https://github.com/nyxiereal/PyonPlus) - Silly ahh modpack
 - [spekulatius/infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
