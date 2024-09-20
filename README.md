@@ -636,7 +636,7 @@
 - [nightroman/PowerShelf](https://github.com/nightroman/PowerShelf) - PowerShell Script Tools
 - [NickSeagull/my-windows](https://github.com/NickSeagull/my-windows) - 🐱‍💻 The system setup that makes my computing experience awesome
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [freeload101/SCRIPTS](https://github.com/freeload101/SCRIPTS) - 
 - [blkdevcon/SCRIPTS](https://github.com/blkdevcon/SCRIPTS) - Assorted Scripts
@@ -703,7 +703,7 @@
 - [synacktiv/SCCMSecrets](https://github.com/synacktiv/SCCMSecrets) - SCCMSecrets.py aims at exploiting SCCM policies distribution for credentials harvesting, initial access and lateral movement.
 - [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) - TerminalGPT - Terminal-based ChatGPT personal assistant app. Provides optimized, tailored answers for your machine's terminal.
 - [ActiveState/OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
-- [awuctl/mvs-dump](https://github.com/awuctl/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
+- [gravesoft/mvs-dump](https://github.com/gravesoft/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
 - [awuctl/licensing-stuff](https://github.com/awuctl/licensing-stuff) - Collection of tools for playing with Windows licensing stuff
 - [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - SyncBackPro second chance
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
