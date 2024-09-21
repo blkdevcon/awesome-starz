@@ -1160,7 +1160,7 @@
 - [ActiveState/OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
-- [gravesoft/mvs-dump](https://github.com/gravesoft/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
+- [ave9858/mvs-dump](https://github.com/ave9858/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
 - [awuctl/licensing-stuff](https://github.com/awuctl/licensing-stuff) - Collection of tools for playing with Windows licensing stuff
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
@@ -2131,7 +2131,7 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
-- [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
+- [SoftwareDownloadListing/msdl](https://github.com/SoftwareDownloadListing/msdl) - Microsoft Software Download Listing
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
