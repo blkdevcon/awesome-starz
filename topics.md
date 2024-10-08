@@ -1362,7 +1362,7 @@
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [blkdevcon/jamdocs](https://github.com/blkdevcon/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
-- [likescam/ForensicsTools_Kaspersky](https://github.com/likescam/ForensicsTools_Kaspersky) - 
+- [likekabin/ForensicsTools_Kaspersky](https://github.com/likekabin/ForensicsTools_Kaspersky) - 
 - [strontic/xcyclopedia](https://github.com/strontic/xcyclopedia) - Encyclopedia for Executables
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
 - [dan-osull/calibre-web](https://github.com/dan-osull/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
