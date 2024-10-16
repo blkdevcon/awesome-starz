@@ -41,7 +41,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
-- [SourcePawn](#sourcepawn)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
@@ -178,7 +177,7 @@
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [mgw-dev/Win10AppTool](https://github.com/mgw-dev/Win10AppTool) - 
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [hellzerg/moonshell](https://github.com/hellzerg/moonshell) - Portable and multi-tabbed terminal for Windows
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
@@ -926,10 +925,6 @@
 - [zerobyte-id/NetAss2](https://github.com/zerobyte-id/NetAss2) - Network Assessment Assistance Framework (PenTest Toolkit).
 - [bradfreda/Lazykali](https://github.com/bradfreda/Lazykali) - hackpack to go with lazykali on menu application Kali Linux
 - [Ha3MrX/GitTool](https://github.com/Ha3MrX/GitTool) - Git Best Tools Hacking For Kali Linux 2018
-
-## SourcePawn 
-
-- [Blu3Jive001/Nordic-Windows](https://github.com/Blu3Jive001/Nordic-Windows) - A port of Barbrossa's Linux creation to Windows
 
 ## Svelte 
 
