@@ -152,7 +152,6 @@
 - [blkdevcon/optimizer](https://github.com/blkdevcon/optimizer) - The finest Windows Optimizer
 - [blkdevcon/CenterTaskbar](https://github.com/blkdevcon/CenterTaskbar) - Center Windows Taskbar Icons
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
-- [builtbybel/TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
 - [DavidXanatos/wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
 - [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -197,7 +196,6 @@
 - [raandree/NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an 
 - [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter) - Arsenal Image Mounter mounts the contents of disk images as complete disks in Microsoft Windows.
-- [builtbybel/control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [brunopaiva15/WinPE-Creation-Tool](https://github.com/brunopaiva15/WinPE-Creation-Tool) - WinPE Creation Tool is a free and Open source utility that allows you to create a complete WinPE environment, including a directory, an ISO and a bootable USB key.
 - [SanderSade/DirLister](https://github.com/SanderSade/DirLister) - Simple and powerful folder and drive listing utility for Windows
