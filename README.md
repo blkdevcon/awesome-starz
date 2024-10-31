@@ -16,6 +16,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [EJS](#ejs)
+- [Fluent](#fluent)
 - [GSC](#gsc)
 - [Go](#go)
 - [HTML](#html)
@@ -264,6 +265,7 @@
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 - [Texts/texts.github.io](https://github.com/Texts/texts.github.io) - Template for a blog hosted on GitHub Pages
 - [blkdevcon/gpt4all-ui](https://github.com/blkdevcon/gpt4all-ui) - gpt4all chatbot ui
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
 - [blkdevcon/tachyons](https://github.com/blkdevcon/tachyons) - Functional css for humans
 - [blkdevcon/gatsby-starter-default](https://github.com/blkdevcon/gatsby-starter-default) - 
@@ -279,6 +281,10 @@
 ## EJS 
 
 - [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## GSC 
 
@@ -457,6 +463,7 @@
 
 ## Kotlin 
 
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
 
 ## Lua 
@@ -998,7 +1005,6 @@
 
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) - The minimalist blog theme, powered by Nuxt & Markdown.
-- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [blkdevcon/webgems](https://github.com/blkdevcon/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
