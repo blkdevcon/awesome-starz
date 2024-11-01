@@ -363,6 +363,7 @@
 
 ## Java 
 
+- [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [v4lpt/PWG](https://github.com/v4lpt/PWG) - This is a simple password generator for the android operating system.
 - [lucalewin/pdf-converter](https://github.com/lucalewin/pdf-converter) - convert images to pdfs and merge pdfs
 - [blkdevcon/keystore-explorer](https://github.com/blkdevcon/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
