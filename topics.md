@@ -203,6 +203,7 @@
 
 ## android 
 
+- [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [v4lpt/PWG](https://github.com/v4lpt/PWG) - This is a simple password generator for the android operating system.
 - [gemilepus/Toolbox](https://github.com/gemilepus/Toolbox) - Toolbox for my work
