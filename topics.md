@@ -589,6 +589,7 @@
 
 ## dotnet 
 
+- [antikmozib/Dupe-Clear](https://github.com/antikmozib/Dupe-Clear) - A duplicate file cleaner for Windows.
 - [moodmosaic/bookmarks](https://github.com/moodmosaic/bookmarks) - A selection of the links I find interesting over time. Updated on a regular basis.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -1179,6 +1180,7 @@
 
 ## others 
 
+- [sapientcoder/CabMaker](https://github.com/sapientcoder/CabMaker) - CabMaker is a free Windows desktop tool that lets you quickly package up an entire folder of files (including subfolders) into a .cab file.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [JackEblan/Geto](https://github.com/JackEblan/Geto) - Apply custom settings to your apps.
@@ -2178,6 +2180,7 @@
 
 ## windows 
 
+- [antikmozib/Dupe-Clear](https://github.com/antikmozib/Dupe-Clear) - A duplicate file cleaner for Windows.
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) - Easily configure Microsoft Edge, the way you want it!
