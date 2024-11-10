@@ -52,6 +52,7 @@
 
 ## AutoHotkey 
 
+- [tranht17/WinTune](https://github.com/tranht17/WinTune) - Tweak & optimize your Windows system
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 
 ## AutoIt 
@@ -126,6 +127,7 @@
 
 ## C# # 
 
+- [iandiv/Win11Tweaker](https://github.com/iandiv/Win11Tweaker) - Powerful Tool for Personalizing and Enhancing Windows 11
 - [sapientcoder/CabMaker](https://github.com/sapientcoder/CabMaker) - CabMaker is a free Windows desktop tool that lets you quickly package up an entire folder of files (including subfolders) into a .cab file.
 - [antikmozib/Dupe-Clear](https://github.com/antikmozib/Dupe-Clear) - A duplicate file cleaner for Windows.
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
@@ -628,6 +630,8 @@
 
 ## PowerShell 
 
+- [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
+- [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
