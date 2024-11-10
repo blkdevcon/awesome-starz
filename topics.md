@@ -250,6 +250,7 @@
 
 ## automation 
 
+- [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
@@ -1180,6 +1181,7 @@
 
 ## others 
 
+- [tranht17/WinTune](https://github.com/tranht17/WinTune) - Tweak & optimize your Windows system
 - [sapientcoder/CabMaker](https://github.com/sapientcoder/CabMaker) - CabMaker is a free Windows desktop tool that lets you quickly package up an entire folder of files (including subfolders) into a .cab file.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -1709,6 +1711,8 @@
 
 ## powershell 
 
+- [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
+- [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
 - [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
@@ -2180,6 +2184,8 @@
 
 ## windows 
 
+- [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
+- [iandiv/Win11Tweaker](https://github.com/iandiv/Win11Tweaker) - Powerful Tool for Personalizing and Enhancing Windows 11
 - [antikmozib/Dupe-Clear](https://github.com/antikmozib/Dupe-Clear) - A duplicate file cleaner for Windows.
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
