@@ -186,7 +186,6 @@
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) - TerminalGPT - Terminal-based ChatGPT personal assistant app. Provides optimized, tailored answers for your machine's terminal.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
-- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -388,7 +387,6 @@
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
-- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
@@ -1229,6 +1227,7 @@
 - [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The king is back -leaner, faster, and ready to declutter your Windows 11
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [Texts/texts.github.io](https://github.com/Texts/texts.github.io) - Template for a blog hosted on GitHub Pages
