@@ -742,7 +742,7 @@
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。Ladon 12.2内置262个功能,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\S
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -1180,6 +1180,7 @@
 
 ## others 
 
+- [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 - [garrettfoster13/DefaultCreds-cheat-sheet](https://github.com/garrettfoster13/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [tranht17/WinTune](https://github.com/tranht17/WinTune) - Tweak & optimize your Windows system
@@ -1977,7 +1978,7 @@
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [jamesturk/django-honeypot](https://github.com/jamesturk/django-honeypot) - 🍯 Generic honeypot utilities for use in django projects.
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。Ladon 12.2内置262个功能,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\S
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
