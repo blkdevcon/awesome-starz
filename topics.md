@@ -1183,6 +1183,7 @@
 
 ## others 
 
+- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
