@@ -173,6 +173,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1371,7 +1372,6 @@
 - [jrathlev/InnoUnpacker-Windows-GUI](https://github.com/jrathlev/InnoUnpacker-Windows-GUI) - Inspect and unpack InnoSetup archives
 - [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is an application to manage catalogs of disks and files to search and get statistics.
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [DavidXanatos/twint](https://github.com/DavidXanatos/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [DavidXanatos/wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
 - [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
@@ -2173,6 +2173,14 @@
 ## visual-basic 
 
 - [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
+
+## vpn 
+
+- [hensm/mullvad-proxy](https://github.com/hensm/mullvad-proxy) - A browser extension for Mullvad SOCKS5 proxies.
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
+- [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
 
 ## vue 
 
