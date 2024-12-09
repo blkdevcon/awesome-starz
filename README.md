@@ -737,6 +737,8 @@
 
 ## Python 
 
+- [MiniGlome/Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script to download archive.org books in PDF format
+- [ChiefGyk3D/investment_tools](https://github.com/ChiefGyk3D/investment_tools) - Repo of tools I created to help me budget and plan better
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [garrettfoster13/aced](https://github.com/garrettfoster13/aced) - 
 - [codingforentrepreneurs/Cursor-Django](https://github.com/codingforentrepreneurs/Cursor-Django) - Learn how to build your first full stack web app with English and Cursor AI
