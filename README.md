@@ -481,7 +481,7 @@
 
 ## Kotlin 
 
-- [JackEblan/Geto](https://github.com/JackEblan/Geto) - Apply custom settings to your apps.
+- [JackEblan/Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
 
