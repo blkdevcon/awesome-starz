@@ -655,7 +655,7 @@
 - [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
 - [kacos2000/MS-Office-ooxml-file-parser](https://github.com/kacos2000/MS-Office-ooxml-file-parser) - MS Office ooxml file metadata parser
 - [kacos2000/Jumplist-Browser](https://github.com/kacos2000/Jumplist-Browser) - Automatic/Custom Destinations & LNK (MS-SHLLINK) Browser
-- [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2 & some of SuperFetch .7db/.db's
+- [kacos2000/Prefetch-Browser](https://github.com/kacos2000/Prefetch-Browser) - Browse Windows Prefetch versions: 17,23,26,30v1/2,31 & some of SuperFetch .7db/.db's
 - [kacos2000/MFT_Browser](https://github.com/kacos2000/MFT_Browser) - $MFT directory tree reconstruction & FILE record info
 - [jebofponderworthy/windows-tools](https://github.com/jebofponderworthy/windows-tools) - Some applets courtesy of Ponderworthy folks and friends.
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
