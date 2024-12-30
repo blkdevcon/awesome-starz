@@ -521,7 +521,6 @@
 - [sabuhish/E-Books-1](https://github.com/sabuhish/E-Books-1) - A collections of FREE ebooks
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
-- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 - [sublime-security/emailrep.io](https://github.com/sublime-security/emailrep.io) - emailrep.io Public API
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -650,6 +649,7 @@
 - [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
 - [kacos2000/MS-Office-ooxml-file-parser](https://github.com/kacos2000/MS-Office-ooxml-file-parser) - MS Office ooxml file metadata parser
