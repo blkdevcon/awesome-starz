@@ -398,7 +398,7 @@
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
-- [uprun/WebPad](https://github.com/uprun/WebPad) - wiki-notes, micro zettelkasten, personal wiki.
+- [uprun/WebPad](https://github.com/uprun/WebPad) - micro wiki
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
 - [FreshSupaSulley/Auto-2FA](https://github.com/FreshSupaSulley/Auto-2FA) - Login through Duo Mobile in your browser
