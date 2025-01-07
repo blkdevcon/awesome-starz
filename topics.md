@@ -1244,7 +1244,7 @@
 - [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - SyncBackPro second chance
-- [uprun/WebPad](https://github.com/uprun/WebPad) - micro wiki
+- [uprun/WebPad](https://github.com/uprun/WebPad) - mini wiki
 - [pwa-builder/web-whiteboard](https://github.com/pwa-builder/web-whiteboard) - 
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
