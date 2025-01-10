@@ -352,7 +352,7 @@
 - [blkdevcon/ms_symtools](https://github.com/blkdevcon/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
-- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
+- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11.
 - [msillano/ms_symtools](https://github.com/msillano/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
 - [blkdevcon/Dism-Multi-language](https://github.com/blkdevcon/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [blkdevcon/hyas](https://github.com/blkdevcon/hyas) - 
