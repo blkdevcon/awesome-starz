@@ -739,6 +739,7 @@
 
 ## Python 
 
+- [SyntaxSparkk/TikTok](https://github.com/SyntaxSparkk/TikTok) - TikTok Reverse Engineering Documentation.
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [MiniGlome/Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script to download archive.org books in PDF format
 - [ChiefGyk3D/investment_tools](https://github.com/ChiefGyk3D/investment_tools) - Repo of tools I created to help me budget and plan better
