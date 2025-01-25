@@ -202,6 +202,7 @@
 
 ## algorithm 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 
@@ -521,6 +522,7 @@
 
 ## cybersecurity 
 
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -562,6 +564,7 @@
 
 ## devops 
 
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [BBVA/mirrorgate](https://github.com/BBVA/mirrorgate) - MirrorGate DevOps Dashboard
@@ -576,6 +579,7 @@
 
 ## docker 
 
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
@@ -605,6 +609,7 @@
 
 ## education 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mu-editor/mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -702,6 +707,7 @@
 
 ## go 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [ziloka/proxybroker](https://github.com/ziloka/proxybroker) - Command line application to concurrently collect and check proxies
@@ -711,6 +717,7 @@
 
 ## golang 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -800,6 +807,9 @@
 
 ## hacktoberfest 
 
+- [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
@@ -954,6 +964,7 @@
 
 ## kubernetes 
 
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
@@ -1195,6 +1206,7 @@
 
 ## others 
 
+- [hackermondev/hackermondev](https://github.com/hackermondev/hackermondev) - 
 - [nicsure/TD-H8-Engineering](https://github.com/nicsure/TD-H8-Engineering) - Experimentation with the TIDRADIO TD-H8
 - [clebert/bookmark.wtf](https://github.com/clebert/bookmark.wtf) - A free and open-source bookmark manager that uses GitHub Gist as database.
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
@@ -1737,6 +1749,7 @@
 
 ## powershell 
 
+- [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
 - [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
 - [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
@@ -1825,6 +1838,8 @@
 
 ## python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [SyntaxSparkk/TikTok](https://github.com/SyntaxSparkk/TikTok) - TikTok Reverse Engineering Documentation.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [codingforentrepreneurs/Cursor-Django](https://github.com/codingforentrepreneurs/Cursor-Django) - Learn how to build your first full stack web app with English and Cursor AI
@@ -1975,6 +1990,7 @@
 
 ## security 
 
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
@@ -2245,6 +2261,7 @@
 
 ## website 
 
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [codingforentrepreneurs/Cursor-Hello-World](https://github.com/codingforentrepreneurs/Cursor-Hello-World) - Learn Cursor basics to build and deploy an HTML website to the internet.
 - [DevBubba/Bookmarklets](https://github.com/DevBubba/Bookmarklets) - The Baddest, Absolute Best, And The Biggest Collection Of Bookmarklets Out There!
 - [pilotpirxie/visual-editor](https://github.com/pilotpirxie/visual-editor) - 🏗 Website editor built with React. Make a modern website in seconds with predefined blocks and drag and drop.
