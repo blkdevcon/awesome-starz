@@ -190,7 +190,6 @@
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [loresoft/msbuildtasks](https://github.com/loresoft/msbuildtasks) - The MSBuild Community Tasks Project is an open source project for MSBuild tasks.
 - [Mikescher/AlephNote](https://github.com/Mikescher/AlephNote) - Lightweight note taking client for Simplenote or Standard Notes (or simply local storage)
-- [cbeannn/netadapter-repair](https://github.com/cbeannn/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
 - [hellzerg/mint](https://github.com/hellzerg/mint) - A minimal app launcher residing in your taskbar
 - [hellzerg/indicium](https://github.com/hellzerg/indicium) - Portable, advanced system information utility
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
@@ -215,6 +214,7 @@
 - [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
 - [sergiomarotco/USB-file_Stealer](https://github.com/sergiomarotco/USB-file_Stealer) - Simple program to steal private files from removable storages
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 - [Virgula0/hidden-tear](https://github.com/Virgula0/hidden-tear) - An open source RansomWare
@@ -734,7 +734,6 @@
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
-- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 
 ## PureBasic 
