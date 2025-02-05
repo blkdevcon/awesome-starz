@@ -1206,6 +1206,7 @@
 
 ## others 
 
+- [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [hackermondev/hackermondev](https://github.com/hackermondev/hackermondev) - 
 - [nicsure/TD-H8-Engineering](https://github.com/nicsure/TD-H8-Engineering) - Experimentation with the TIDRADIO TD-H8
