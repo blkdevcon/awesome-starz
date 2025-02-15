@@ -513,7 +513,6 @@
 - [0xsyr0/Red-Teaming-Toolkit](https://github.com/0xsyr0/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely
-- [osint-liar/osint-liar-docs](https://github.com/osint-liar/osint-liar-docs) - Local Internet Archive Server
 - [MicrosoftWindowsDefenderTools/Windows-Defender-Tools](https://github.com/MicrosoftWindowsDefenderTools/Windows-Defender-Tools) - Microsoft Defender Antivirus (formerly Windows Defender) is an antivirus software component of Microsoft Windows. It was first released as a downloadable free anti-spyware program for Windows XP and w
 - [nyxiereal/PyonPlus](https://github.com/nyxiereal/PyonPlus) - Silly ahh modpack
 - [spekulatius/infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
@@ -939,6 +938,7 @@
 
 ## Shell 
 
+- [osint-liar/osint-liar-docs](https://github.com/osint-liar/osint-liar-docs) - Local Internet Archive Server
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [i2p/i2p.firefox](https://github.com/i2p/i2p.firefox) - A pre-configured browser profile and accompanying shortcut for easily configuring an I2P browser on Windows.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
