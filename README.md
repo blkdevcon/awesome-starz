@@ -979,7 +979,7 @@
 
 ## Svelte 
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
 ## TypeScript 
 
@@ -1000,7 +1000,7 @@
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [hensm/mullvad-proxy](https://github.com/hensm/mullvad-proxy) - A browser extension for Mullvad SOCKS5 proxies.
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
