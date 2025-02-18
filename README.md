@@ -389,7 +389,7 @@
 - [hdecarne-github/certmgr](https://github.com/hdecarne-github/certmgr) - CertMgr: Create and manage X.509 certificates
 - [BBVA/mirrorgate](https://github.com/BBVA/mirrorgate) - MirrorGate DevOps Dashboard
 - [DerekBabb/CyberSecurity](https://github.com/DerekBabb/CyberSecurity) - A curriculum for a high school cyber security course.
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
