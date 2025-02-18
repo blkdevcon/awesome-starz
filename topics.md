@@ -2026,7 +2026,7 @@
 - [jamesturk/django-honeypot](https://github.com/jamesturk/django-honeypot) - 🍯 Generic honeypot utilities for use in django projects.
 - [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [ArchStrike/ArchStrike](https://github.com/ArchStrike/ArchStrike) - An Arch Linux repository for security professionals and enthusiasts. Done the Arch Way and optimized for i686, x86_64, ARMv6, ARMv7 and ARMv8.
