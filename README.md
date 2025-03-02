@@ -272,7 +272,6 @@
 
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [DevBubba/Bookmarklets](https://github.com/DevBubba/Bookmarklets) - The Baddest, Absolute Best, And The Biggest Collection Of Bookmarklets Out There!
-- [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 - [Texts/texts.github.io](https://github.com/Texts/texts.github.io) - Template for a blog hosted on GitHub Pages
 - [blkdevcon/gpt4all-ui](https://github.com/blkdevcon/gpt4all-ui) - gpt4all chatbot ui
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
@@ -344,6 +343,7 @@
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [jimbrig/devtools-snippets](https://github.com/jimbrig/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
+- [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
