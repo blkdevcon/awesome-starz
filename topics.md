@@ -1806,7 +1806,7 @@
 ## privacy 
 
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
+- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
@@ -1992,7 +1992,7 @@
 
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
+- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [FreshSupaSulley/Auto-2FA](https://github.com/FreshSupaSulley/Auto-2FA) - Login through Duo Mobile in your browser
 - [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
@@ -2058,7 +2058,7 @@
 
 ## security-tools 
 
-- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
+- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA Exam and Lab Reporting / Note-Taking Tool
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
@@ -2269,7 +2269,7 @@
 
 ## windows 
 
-- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
+- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
 - [iandiv/Win11Tweaker](https://github.com/iandiv/Win11Tweaker) - Powerful Tool for Personalizing and Enhancing Windows 11
 - [antikmozib/Dupe-Clear](https://github.com/antikmozib/Dupe-Clear) - A duplicate file cleaner for Windows and Linux.
