@@ -1550,7 +1550,7 @@
 - [HclX/WyzeHacks](https://github.com/HclX/WyzeHacks) - Hacks I discovered allowing Wyze camera owners to do customizations
 - [markmckinnon/Autopsy-Plugins](https://github.com/markmckinnon/Autopsy-Plugins) - Autopsy Python Plugins
 - [GChuf/TechNet-Gallery](https://github.com/GChuf/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
-- [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
+- [LogExperts/LogExpert](https://github.com/LogExperts/LogExpert) - Windows tail program and log file analyzer.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [OneDrive/onedrive-sdk-python](https://github.com/OneDrive/onedrive-sdk-python) - OneDrive SDK for Python! https://dev.onedrive.com
 - [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index) - Deprecated, use new project 👇
