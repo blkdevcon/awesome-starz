@@ -1491,7 +1491,7 @@
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [mgw-dev/Win10AppTool](https://github.com/mgw-dev/Win10AppTool) - 
 - [hellzerg/cloning](https://github.com/hellzerg/cloning) - Backup and restore your programs settings
-- [Ikem-Inc/win10svc](https://github.com/Ikem-Inc/win10svc) - Repair the Windows 10 services
+- [ikem-krueger/win10svc](https://github.com/ikem-krueger/win10svc) - Repair the Windows 10 services
 - [SilverAzide/Gadgets](https://github.com/SilverAzide/Gadgets) - Gadgets for Rainmeter
 - [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources) - Collection of online security resources
 - [loresoft/msbuildtasks](https://github.com/loresoft/msbuildtasks) - The MSBuild Community Tasks Project is an open source project for MSBuild tasks.
