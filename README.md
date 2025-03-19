@@ -811,7 +811,7 @@
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
 - [Opticos/wsl-tools](https://github.com/Opticos/wsl-tools) - python library for WSL (Windows Subsystem for Linux) management
-- [Ikem-Inc/win10svc](https://github.com/Ikem-Inc/win10svc) - Repair the Windows 10 services
+- [ikem-krueger/win10svc](https://github.com/ikem-krueger/win10svc) - Repair the Windows 10 services
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
 - [shauntarves/wyze-sdk](https://github.com/shauntarves/wyze-sdk) - A modern Python client for controlling Wyze devices.
