@@ -492,7 +492,7 @@
 
 ## Lua 
 
-- [NickSeagull/my-windows](https://github.com/NickSeagull/my-windows) - Enter my digital temple, where I weave my aetherial creations
+- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - My dev environment + living knowledge base
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 
 ## Markdown 
