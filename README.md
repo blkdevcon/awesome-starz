@@ -294,7 +294,7 @@
 
 ## Emacs Lisp 
 
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - RAMSYS | My dev environment + living knowledge base
+- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 
 ## Fluent 
 
