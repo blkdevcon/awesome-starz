@@ -16,7 +16,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [EJS](#ejs)
-- [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
 - [GSC](#gsc)
 - [Go](#go)
@@ -292,10 +291,6 @@
 
 - [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
 
-## Emacs Lisp 
-
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
-
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -497,6 +492,7 @@
 
 ## Lua 
 
+- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 
 ## Markdown 
