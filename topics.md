@@ -620,7 +620,7 @@
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mu-editor/mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## electron 
@@ -845,7 +845,7 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [SohanChy/Lipi](https://github.com/SohanChy/Lipi) - A simple static blog generator.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
@@ -938,7 +938,7 @@
 - [ncornette/Python-Markdown-Editor](https://github.com/ncornette/Python-Markdown-Editor) - Standalone editor for your markdown files
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
@@ -1155,7 +1155,7 @@
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1836,7 +1836,7 @@
 ## programming 
 
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 
 ## project-management 
@@ -1950,7 +1950,7 @@
 - [MichaelCurrin/instant-website](https://github.com/MichaelCurrin/instant-website) - The fastest way to make and share a webpage about a product/business/person
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 
