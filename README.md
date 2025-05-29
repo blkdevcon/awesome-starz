@@ -362,7 +362,6 @@
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) - Free Introduction to SQL eBook
 - [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS
@@ -506,6 +505,7 @@
 
 ## Others 
 
+- [ooovenenoso/BadUSB-GPT](https://github.com/ooovenenoso/BadUSB-GPT) - This repo houses Rubber Ducky scripts integrated with OpenAI's GPT. Designed for ethical hackers and researchers, it merges quick Ducky executions with GPT's intelligence. Always use responsibly and w
 - [hackermondev/hackermondev](https://github.com/hackermondev/hackermondev) - 
 - [nicsure/TD-H8-Engineering](https://github.com/nicsure/TD-H8-Engineering) - Experimentation with the TIDRADIO TD-H8
 - [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry
@@ -809,6 +809,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [EventGhost/EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.
 - [dan-osull/fluent-python-notebooks](https://github.com/dan-osull/fluent-python-notebooks) - Jupyter notebooks and example code for the book Fluent Python
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
 - [Opticos/wsl-tools](https://github.com/Opticos/wsl-tools) - python library for WSL (Windows Subsystem for Linux) management
 - [ikem-krueger/win10svc](https://github.com/ikem-krueger/win10svc) - Repair the Windows 10 services
