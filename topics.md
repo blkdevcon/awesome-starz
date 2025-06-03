@@ -814,6 +814,7 @@
 
 ## hacking-tools 
 
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -1002,6 +1003,7 @@
 
 ## linux 
 
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
@@ -1178,6 +1180,7 @@
 
 ## openai 
 
+- [ooovenenoso/BadUSB-GPT](https://github.com/ooovenenoso/BadUSB-GPT) - This repo houses Rubber Ducky scripts integrated with OpenAI's GPT. Designed for ethical hackers and researchers, it merges quick Ducky executions with GPT's intelligence. Always use responsibly and w
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [codingforentrepreneurs/Smarter-Web-Scraping-with-Python](https://github.com/codingforentrepreneurs/Smarter-Web-Scraping-with-Python) - Leverage modern open-source tools to create better web scraping workflows.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
@@ -1221,6 +1224,7 @@
 
 ## others 
 
+- [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [hackermondev/hackermondev](https://github.com/hackermondev/hackermondev) - 
@@ -1688,6 +1692,7 @@
 
 ## penetration-testing 
 
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA Exam and Lab Reporting / Note-Taking Tool
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
@@ -1853,6 +1858,7 @@
 
 ## python 
 
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [SyntaxSparkk/TikTok](https://github.com/SyntaxSparkk/TikTok) - TikTok Reverse Engineering Documentation.
@@ -2005,6 +2011,7 @@
 
 ## security 
 
+- [ooovenenoso/BadUSB-GPT](https://github.com/ooovenenoso/BadUSB-GPT) - This repo houses Rubber Ducky scripts integrated with OpenAI's GPT. Designed for ethical hackers and researchers, it merges quick Ducky executions with GPT's intelligence. Always use responsibly and w
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
