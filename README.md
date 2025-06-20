@@ -100,6 +100,8 @@
 
 ## C 
 
+- [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+- [Seeed-Studio/CodeCraft](https://github.com/Seeed-Studio/CodeCraft) - Codecraft is a graphical programming software which is based on Scratch 3.0
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [lifenjoiner/sendto-plus](https://github.com/lifenjoiner/sendto-plus) - Windows 右键“发送到”接力；分组“发送到”；用指定程序打开；启动器；组织你的工具箱。 Send what sent to me to my 'sendto' for Windows; open with specified program; group sendto; run as a launcher; organize your toolbox.
@@ -396,6 +398,7 @@
 
 ## JavaScript 
 
+- [liamcottle/reticulum-meshchat](https://github.com/liamcottle/reticulum-meshchat) - A simple mesh network communications app powered by the Reticulum Network Stack.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -746,6 +749,7 @@
 
 ## Python 
 
+- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
