@@ -100,6 +100,7 @@
 
 ## C 
 
+- [katahiromz/RealShellHook](https://github.com/katahiromz/RealShellHook) - 
 - [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [Seeed-Studio/CodeCraft](https://github.com/Seeed-Studio/CodeCraft) - Codecraft is a graphical programming software which is based on Scratch 3.0
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
@@ -619,6 +620,7 @@
 
 ## PHP 
 
+- [worldbank/metadata-editor](https://github.com/worldbank/metadata-editor) - Web tool to edit, validate, and manage metadata for Microdata (DDI Codebook), documents, tables, media, and geospatial data.
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
@@ -990,6 +992,7 @@
 
 ## Svelte 
 
+- [ShortTimeNoSee/OSINT-Deck](https://github.com/ShortTimeNoSee/OSINT-Deck) - Community-driven directory of Open Source Intelligence (OSINT) tools and resources.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
 ## TypeScript 
