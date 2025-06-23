@@ -342,6 +342,7 @@
 
 ## HTML 
 
+- [ThatTotallyRealMyth/WADComs.github.io](https://github.com/ThatTotallyRealMyth/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [codingforentrepreneurs/Cursor-Hello-World](https://github.com/codingforentrepreneurs/Cursor-Hello-World) - Learn Cursor basics to build and deploy an HTML website to the internet.
 - [intercepter-ng/intercepter-ng.github.io](https://github.com/intercepter-ng/intercepter-ng.github.io) - mirror
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
