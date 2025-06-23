@@ -1214,6 +1214,7 @@
 
 ## osint 
 
+- [ShortTimeNoSee/OSINT-Deck](https://github.com/ShortTimeNoSee/OSINT-Deck) - Community-driven directory of Open Source Intelligence (OSINT) tools and resources.
 - [ninoseki/mihari](https://github.com/ninoseki/mihari) - A query aggregator for OSINT based threat hunting
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
@@ -1240,6 +1241,9 @@
 
 ## others 
 
+- [ThatTotallyRealMyth/WADComs.github.io](https://github.com/ThatTotallyRealMyth/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
+- [worldbank/metadata-editor](https://github.com/worldbank/metadata-editor) - Web tool to edit, validate, and manage metadata for Microdata (DDI Codebook), documents, tables, media, and geospatial data.
+- [katahiromz/RealShellHook](https://github.com/katahiromz/RealShellHook) - 
 - [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
