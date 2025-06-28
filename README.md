@@ -496,7 +496,7 @@
 
 ## Lua 
 
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
+- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 
 ## Markdown 
