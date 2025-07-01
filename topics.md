@@ -57,7 +57,6 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
-- [emacs](#emacs)
 - [english](#english)
 - [ethereum](#ethereum)
 - [firebase](#firebase)
@@ -86,6 +85,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -270,7 +270,6 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and create scripts. Can be used to streamline repetitive and time-consuming tasks.
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
@@ -289,7 +288,6 @@
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -612,7 +610,6 @@
 
 ## dotfiles 
 
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 - [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
 
 ## dotnet 
@@ -638,10 +635,6 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-
-## emacs 
-
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 
 ## english 
 
@@ -729,6 +722,7 @@
 ## go 
 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [ziloka/proxybroker](https://github.com/ziloka/proxybroker) - Command line application to concurrently collect and check proxies
@@ -739,6 +733,7 @@
 ## golang 
 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -902,6 +897,19 @@
 ## image-processing 
 
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
+
+## information-gathering 
+
+- [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
+- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
+- [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 
 ## ios 
 
@@ -1363,6 +1371,7 @@
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
 - [nightroman/PowerShelf](https://github.com/nightroman/PowerShelf) - PowerShell Script Tools
+- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -1657,7 +1666,6 @@
 - [cy4nguy/Python-Ransomware](https://github.com/cy4nguy/Python-Ransomware) - Complete Python RansomeWare Source Code With Full Decoumetions.
 - [Telefonica/Airdrop-Crazy](https://github.com/Telefonica/Airdrop-Crazy) - Airdrop Crazy
 - [savio-code/fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
-- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [P3t3rp4rk3r/My_Dirty_Scripts](https://github.com/P3t3rp4rk3r/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
@@ -2363,7 +2371,6 @@
 - [gtkhash/gtkhash](https://github.com/gtkhash/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
-- [NickSeagull/nickseagull.dev](https://github.com/NickSeagull/nickseagull.dev) - [RAMSYS] Reality Augmentation Mind System - My dev environment + living knowledge base
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
 - [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
