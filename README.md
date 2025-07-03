@@ -558,6 +558,7 @@
 - [blkdevcon/Awesome-WindowsApps](https://github.com/blkdevcon/Awesome-WindowsApps) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [blkdevcon/MajorGeeks-Windows-Tweaks](https://github.com/blkdevcon/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [slorelee/PExplorer](https://github.com/slorelee/PExplorer) - a portable shell program(desktop, startmenu, taskbar, notifyarea, etc), whitch can run in Windows 7, 8, 8.1, 10, Windows Server 2008, 2012, 2016, 2019 and the Windows Preinstallation Environment(WinPE
+- [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [blkdevcon/modern-js-cheatsheet](https://github.com/blkdevcon/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [blkdevcon/blackhat-arsenal-tools](https://github.com/blkdevcon/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [blkdevcon/mkdocs-base](https://github.com/blkdevcon/mkdocs-base) - 
@@ -957,7 +958,6 @@
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
 - [blkdevcon/osint-1](https://github.com/blkdevcon/osint-1) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
-- [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [blkdevcon/webi-installers](https://github.com/blkdevcon/webi-installers) - Primary and community-submitted packages for webinstall.dev
