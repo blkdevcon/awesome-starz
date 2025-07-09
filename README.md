@@ -414,7 +414,7 @@
 - [leocompson/secure-hash-generator](https://github.com/leocompson/secure-hash-generator) - Secure Hash Generator
 - [FreshSupaSulley/Auto-2FA](https://github.com/FreshSupaSulley/Auto-2FA) - Login through Duo Mobile in your browser
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
+- [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [blkdevcon/Tab-Session-Manager](https://github.com/blkdevcon/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
@@ -496,7 +496,6 @@
 
 ## Lua 
 
-- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 
 ## Markdown 
@@ -813,7 +812,7 @@
 - [blkdevcon/OWASP-CheatSheetSeries](https://github.com/blkdevcon/OWASP-CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-- [tabreturn/thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) - A py5 plug-in for Thonny
+- [py5coding/thonny-py5mode](https://github.com/py5coding/thonny-py5mode) - A py5 plug-in for Thonny
 - [mu-editor/mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
@@ -957,6 +956,7 @@
 - [i2p/i2p.firefox](https://github.com/i2p/i2p.firefox) - A pre-configured browser profile and accompanying shortcut for easily configuring an I2P browser on Windows.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
+- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [blkdevcon/osint-1](https://github.com/blkdevcon/osint-1) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
