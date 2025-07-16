@@ -496,6 +496,7 @@
 
 ## Lua 
 
+- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 
 ## Markdown 
@@ -956,7 +957,6 @@
 - [i2p/i2p.firefox](https://github.com/i2p/i2p.firefox) - A pre-configured browser profile and accompanying shortcut for easily configuring an I2P browser on Windows.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
-- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [blkdevcon/osint-1](https://github.com/blkdevcon/osint-1) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
