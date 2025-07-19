@@ -226,6 +226,7 @@
 
 ## C++ 
 
+- [boatbod/op25](https://github.com/boatbod/op25) - Fork of osmocom OP25 by boatbod
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [gyunaev/kchmviewer](https://github.com/gyunaev/kchmviewer) - kchmviewer is a CHM (Winhelp) files viewer written on Qt/KDE. It can be build as a standalone Qt-based application, or a KDE application. The main point of kchmviewer is compatibility with non-English
 - [NasirA1/Arduino_Misc](https://github.com/NasirA1/Arduino_Misc) - Miscellaneous Arduino Projects
@@ -270,6 +271,7 @@
 
 ## CMake 
 
+- [boatbod/gr-smartnet](https://github.com/boatbod/gr-smartnet) - Motorola Smartnet II trunking logging scanner for Gnuradio
 - [abhi-r3v0/EVABS](https://github.com/abhi-r3v0/EVABS) - An open source Android application that is intentionally vulnerable so as to act as a learning platform for Android application security beginners.
 
 ## CSS 
@@ -305,6 +307,7 @@
 
 ## Go 
 
+- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
@@ -956,6 +959,7 @@
 
 ## Shell 
 
+- [grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB) - A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.
 - [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking 
 - [osint-liar/osint-liar-docs](https://github.com/osint-liar/osint-liar-docs) - Local Internet Archive Server
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
