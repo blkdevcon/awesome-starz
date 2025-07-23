@@ -1326,7 +1326,7 @@
 - [awuctl/licensing-stuff](https://github.com/awuctl/licensing-stuff) - Collection of tools for playing with Windows licensing stuff
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
-- [kjk/edna](https://github.com/kjk/edna) - Note taking for developers and power users
+- [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - SyncBackPro second chance
 - [uprun/WebPad](https://github.com/uprun/WebPad) - mini wiki
