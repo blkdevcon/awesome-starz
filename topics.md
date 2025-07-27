@@ -110,6 +110,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
@@ -1122,6 +1123,10 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [ncornette/Python-Markdown-Editor](https://github.com/ncornette/Python-Markdown-Editor) - Standalone editor for your markdown files
 
+## mastodon 
+
+- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, Bluesky, and Mastodon. Features advanced sty
+
 ## microsoft 
 
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -1212,7 +1217,7 @@
 
 ## open-source 
 
-- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, and Bluesky. Features advanced styling, tagg
+- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, Bluesky, and Mastodon. Features advanced sty
 - [codingforentrepreneurs/Smarter-Web-Scraping-with-Python](https://github.com/codingforentrepreneurs/Smarter-Web-Scraping-with-Python) - Leverage modern open-source tools to create better web scraping workflows.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
@@ -1893,7 +1898,7 @@
 
 ## productivity 
 
-- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, and Bluesky. Features advanced styling, tagg
+- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, Bluesky, and Mastodon. Features advanced sty
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [James231/Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
@@ -2280,7 +2285,7 @@
 
 ## twitter 
 
-- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, and Bluesky. Features advanced styling, tagg
+- [terrytangyuan/social-media-kit](https://github.com/terrytangyuan/social-media-kit) - A comprehensive social media management tool designed to help you create, format, and post content across multiple platforms including LinkedIn, Twitter/X, Bluesky, and Mastodon. Features advanced sty
 
 ## typescript 
 
