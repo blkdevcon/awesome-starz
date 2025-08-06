@@ -71,7 +71,6 @@
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 - [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [slorelee/WIN10XPE_Archive](https://github.com/slorelee/WIN10XPE_Archive) - History of Changes in ChrisR's WIN10XPE project(http://theoven.org/index.php?topic=2421.0)
 - [blkdevcon/wampserver-ssl-auto-config](https://github.com/blkdevcon/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
 - [blkdevcon/windows10-checkup](https://github.com/blkdevcon/windows10-checkup) - 
@@ -101,7 +100,7 @@
 ## C 
 
 - [katahiromz/RealShellHook](https://github.com/katahiromz/RealShellHook) - 
-- [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+- [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [Seeed-Studio/CodeCraft](https://github.com/Seeed-Studio/CodeCraft) - Codecraft is a graphical programming software which is based on Scratch 3.0
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
@@ -726,7 +725,7 @@
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [ryanmrestivo/red-team](https://github.com/ryanmrestivo/red-team) - Notes, red team materials, testing tools, etc.
-- [julianoabr/WindowsProductKey](https://github.com/julianoabr/WindowsProductKey) - Get Windows Product Key on Local or Remote Computers
+- [julianoabr/get-windows-product-key](https://github.com/julianoabr/get-windows-product-key) - Get Windows Product Key on Local or Remote Computers
 - [InfosecMatter/Minimalistic-offensive-security-tools](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
 - [nickzer0/RedLab](https://github.com/nickzer0/RedLab) - Files to automatically deploy red team Active Directory test lab
 - [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
