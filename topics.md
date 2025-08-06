@@ -112,7 +112,6 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [microsoft](#microsoft)
-- [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -700,7 +699,6 @@
 
 ## game 
 
-- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 
 ## games 
@@ -1140,10 +1138,6 @@
 - [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 
-## minecraft 
-
-- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
-
 ## mongodb 
 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1280,7 +1274,7 @@
 - [ThatTotallyRealMyth/WADComs.github.io](https://github.com/ThatTotallyRealMyth/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [worldbank/metadata-editor](https://github.com/worldbank/metadata-editor) - Web tool to edit, validate, and manage metadata for Microdata (DDI Codebook), documents, tables, media, and geospatial data.
 - [katahiromz/RealShellHook](https://github.com/katahiromz/RealShellHook) - 
-- [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+- [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
@@ -1537,7 +1531,7 @@
 - [ryanmrestivo/blue-team](https://github.com/ryanmrestivo/blue-team) - Some portable tools, some YARA, some Python, and a little bit of love.  Not all of these tools can be used in incident response.  Use PEs with caution.
 - [ryanmrestivo/red-team](https://github.com/ryanmrestivo/red-team) - Notes, red team materials, testing tools, etc.
 - [ryanmrestivo/windows-tools-portable](https://github.com/ryanmrestivo/windows-tools-portable) - Collection of FOSS/Freeware.  Most tools here are portable, which can be useful for when you are out-and-about.  Obviously dedicated lab use of tools is ideal, but we don't live in an ideal world.
-- [julianoabr/WindowsProductKey](https://github.com/julianoabr/WindowsProductKey) - Get Windows Product Key on Local or Remote Computers
+- [julianoabr/get-windows-product-key](https://github.com/julianoabr/get-windows-product-key) - Get Windows Product Key on Local or Remote Computers
 - [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
 - [snakefoot/snaketail-net](https://github.com/snakefoot/snaketail-net) - Tail utility for monitoring text log files and Windows EventLog
 - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
@@ -2406,7 +2400,6 @@
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
-- [Teramanbr/TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
