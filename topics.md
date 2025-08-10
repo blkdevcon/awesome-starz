@@ -1264,6 +1264,7 @@
 
 ## others 
 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [boatbod/gr-smartnet](https://github.com/boatbod/gr-smartnet) - Motorola Smartnet II trunking logging scanner for Gnuradio
 - [boatbod/op25](https://github.com/boatbod/op25) - Fork of osmocom OP25 by boatbod
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
@@ -1531,7 +1532,7 @@
 - [ryanmrestivo/blue-team](https://github.com/ryanmrestivo/blue-team) - Some portable tools, some YARA, some Python, and a little bit of love.  Not all of these tools can be used in incident response.  Use PEs with caution.
 - [ryanmrestivo/red-team](https://github.com/ryanmrestivo/red-team) - Notes, red team materials, testing tools, etc.
 - [ryanmrestivo/windows-tools-portable](https://github.com/ryanmrestivo/windows-tools-portable) - Collection of FOSS/Freeware.  Most tools here are portable, which can be useful for when you are out-and-about.  Obviously dedicated lab use of tools is ideal, but we don't live in an ideal world.
-- [julianoabr/get-windows-product-key](https://github.com/julianoabr/get-windows-product-key) - Get Windows Product Key on Local or Remote Computers
+- [julianoabr/windows-get-product-key](https://github.com/julianoabr/windows-get-product-key) - Get Windows Product Key on Local or Remote Computers
 - [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
 - [snakefoot/snaketail-net](https://github.com/snakefoot/snaketail-net) - Tail utility for monitoring text log files and Windows EventLog
 - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
