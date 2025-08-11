@@ -1070,7 +1070,7 @@
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
 - [DrewNaylor/guinget](https://github.com/DrewNaylor/guinget) - Unofficial GUI for Microsoft's Windows Package Manager (winget). Kinda like Synaptic, but for Windows. Not associated with either Microsoft or the Synaptic project, and Microsoft does not endorse this
-- [Konnor88/TenStartMenuFixer](https://github.com/Konnor88/TenStartMenuFixer) - Simple application that restores the Windows 10 start menu on Windows 11. Can be toggled on or off.
+- [TMAFE/TenStartMenuFixer](https://github.com/TMAFE/TenStartMenuFixer) - Simple application that restores the Windows 10 start menu on Windows 11. Can be toggled on or off.
 - [Fleex255/PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 
 ## Vue 
