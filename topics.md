@@ -112,6 +112,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [microsoft](#microsoft)
+- [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -191,7 +192,6 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -699,6 +699,7 @@
 
 ## game 
 
+- [Kawwabi/TerabyteTweaker](https://github.com/Kawwabi/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 
 ## games 
@@ -1137,6 +1138,10 @@
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
 - [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
+
+## minecraft 
+
+- [Kawwabi/TerabyteTweaker](https://github.com/Kawwabi/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 
 ## mongodb 
 
@@ -2401,6 +2406,7 @@
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
+- [Kawwabi/TerabyteTweaker](https://github.com/Kawwabi/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
@@ -2471,12 +2477,6 @@
 
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
 - [kacos2000/Evtx_Log_Browser](https://github.com/kacos2000/Evtx_Log_Browser) - Evtx Log (xml) Browser
-
-## zsh 
-
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 
 ## License
