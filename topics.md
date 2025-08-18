@@ -40,6 +40,7 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -506,6 +507,12 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ishiko-cpp/windows-registry](https://github.com/ishiko-cpp/windows-registry) - 
 - [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+
+## crawler 
+
+- [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
+- [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
+- [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 
 ## cryptography 
 
