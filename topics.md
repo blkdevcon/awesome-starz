@@ -1583,7 +1583,7 @@
 - [Mikescher/AlephNote](https://github.com/Mikescher/AlephNote) - Lightweight note taking client for Simplenote or Standard Notes (or simply local storage)
 - [hellzerg/mint](https://github.com/hellzerg/mint) - A minimal app launcher residing in your taskbar
 - [hellzerg/indicium](https://github.com/hellzerg/indicium) - Portable, advanced system information utility
-- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy 
+- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 - [Port-Able/Port-Able-Suite](https://github.com/Port-Able/Port-Able-Suite) - :globe_with_meridians: Manager for portable applications
 - [Port-Able/SilDev.PortalizerLib](https://github.com/Port-Able/SilDev.PortalizerLib) - :books: Si13n7 Dev.™ Portalizer Library
 - [patrickpr/YAOG](https://github.com/patrickpr/YAOG) - Yet Another Openssl GUI : Qt based openssl GUI to create CSR, certificates, keys (RSA / DSA / EC)
