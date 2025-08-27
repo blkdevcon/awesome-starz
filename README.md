@@ -653,7 +653,7 @@
 - [jrathlev/InnoUnpacker-Windows-GUI](https://github.com/jrathlev/InnoUnpacker-Windows-GUI) - Inspect and unpack InnoSetup archives
 - [blkdevcon/hfs2](https://github.com/blkdevcon/hfs2) - web based file server
 - [salvadorbs/Asuite](https://github.com/salvadorbs/Asuite) - ASuite is a simple open source portable launcher for Microsoft Windows.
-- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy 
+- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 
 ## Perl 
 
