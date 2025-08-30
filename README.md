@@ -519,7 +519,7 @@
 
 ## Others 
 
-- [ooovenenoso/BadUSB-GPT](https://github.com/ooovenenoso/BadUSB-GPT) - This repo houses Rubber Ducky scripts integrated with OpenAI's GPT. Designed for ethical hackers and researchers, it merges quick Ducky executions with GPT's intelligence. Always use responsibly and w
+- [oooindefatigable/BadUSB-GPT](https://github.com/oooindefatigable/BadUSB-GPT) - This repo houses Rubber Ducky scripts integrated with OpenAI's GPT. Designed for ethical hackers and researchers, it merges quick Ducky executions with GPT's intelligence. Always use responsibly and w
 - [hackermondev/hackermondev](https://github.com/hackermondev/hackermondev) - 
 - [nicsure/TD-H8-Engineering](https://github.com/nicsure/TD-H8-Engineering) - Experimentation with the TIDRADIO TD-H8
 - [voltlog/VoltLink](https://github.com/voltlog/VoltLink) - USB to serial adapter with built-in ESP32 auto-reset circuitry
