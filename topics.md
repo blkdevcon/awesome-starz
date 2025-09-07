@@ -70,6 +70,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -713,6 +714,11 @@
 ## games 
 
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
+
+## gaming 
+
+- [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
+- [rcmaehl/NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter. Download using Releases button below
 
 ## git 
 
@@ -1560,7 +1566,6 @@
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [bmrf/standalone_scripts](https://github.com/bmrf/standalone_scripts) - Various standalone scripts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
-- [rcmaehl/NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter. Download using Releases button below
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [hdecarne-github/certmgr](https://github.com/hdecarne-github/certmgr) - CertMgr: Create and manage X.509 certificates
