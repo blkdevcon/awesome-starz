@@ -101,6 +101,7 @@
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1020,6 +1021,21 @@
 
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [Vulnogram/Vulnogram](https://github.com/Vulnogram/Vulnogram) - Vulnogram is a tool for creating and editing CVE information in CVE JSON format
+
+## kali-linux 
+
+- [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking 
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+- [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+- [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
+- [frizb/Vanquish](https://github.com/frizb/Vanquish) - Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.
+- [brainfucksec/kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
+- [penetrate2hack/ITWSV](https://github.com/penetrate2hack/ITWSV) - ITWSV- Integrated Tool for Web Security Vulnerability
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+- [PushpenderIndia/Sinister](https://github.com/PushpenderIndia/Sinister) - Sinister is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
+- [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
+- [g0tmi1k/exe2hex](https://github.com/g0tmi1k/exe2hex) - Inline file transfer using in-built Windows tools (DEBUG.exe or PowerShell).
+- [PacktPublishing/Digital-Forensics-with-Kali-Linux](https://github.com/PacktPublishing/Digital-Forensics-with-Kali-Linux) - Digital Forensics with Kali Linux, published by Packt
 
 ## kotlin 
 
