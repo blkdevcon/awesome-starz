@@ -17,6 +17,7 @@
 - [Clojure](#clojure)
 - [EJS](#ejs)
 - [Fluent](#fluent)
+- [GSC](#gsc)
 - [Go](#go)
 - [HTML](#html)
 - [Inno Setup](#inno-setup)
@@ -140,7 +141,9 @@
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [LesFerch/RightClickTools](https://github.com/LesFerch/RightClickTools) - Add a Set of Powerful Tools to the Windows Explorer Context Menu
 - [thebookisclosed/StartMenuCompanionSample](https://github.com/thebookisclosed/StartMenuCompanionSample) - Starter kit for building your own Start Menu Companion
+- [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
 - [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A GUI app for creating symlinks, based on mklink
 - [Si13n7/ImageToIcon](https://github.com/Si13n7/ImageToIcon) - :rowboat: Convert your image to ICO format
 - [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
@@ -182,6 +185,7 @@
 - [Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
 - [rlv-dan/DynForm](https://github.com/rlv-dan/DynForm) - C# WinForms library for semi-automatic form dialogs for editing entity data
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
+- [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [mgw-dev/Win10AppTool](https://github.com/mgw-dev/Win10AppTool) - 
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -296,6 +300,10 @@
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+## GSC 
+
+- [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 
 ## Go 
 
@@ -728,6 +736,7 @@
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [AveYo/Compressed2TXT](https://github.com/AveYo/Compressed2TXT) - File(s)/Folder(s) "Send to" menu .bat ascii encoder with optional password and makecab lzx compression
+- [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
