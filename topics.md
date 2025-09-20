@@ -2497,7 +2497,7 @@
 - [rbicelli/DesktopComposer](https://github.com/rbicelli/DesktopComposer) - Manage Start Menu and Desktop Shortcuts for Windows 10/Windows 2019 in Active Directory Environment
 - [GChuf/RCWM](https://github.com/GChuf/RCWM) - Right Click Windows Magic is an open-source set of right-click (context) menu tools for admins, power users and other magic beings. Batch&Powershell.
 - [Fleex255/PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [ValdikSS/windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
