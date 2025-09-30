@@ -1449,7 +1449,6 @@
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
-- [coff33ninja/thebatchman](https://github.com/coff33ninja/thebatchman) - Converts Windows batch scripts (or HTA) into executable files
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [blkdevcon/cheat](https://github.com/blkdevcon/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
