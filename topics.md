@@ -57,7 +57,6 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
-- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -172,7 +171,6 @@
 - [software](#software)
 - [solidity](#solidity)
 - [sql](#sql)
-- [sql-server](#sql-server)
 - [stable-diffusion](#stable-diffusion)
 - [support](#support)
 - [svelte](#svelte)
@@ -189,7 +187,6 @@
 - [ui](#ui)
 - [unity](#unity)
 - [vim](#vim)
-- [visual-basic](#visual-basic)
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -287,8 +284,6 @@
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
-- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [rbicelli/DesktopComposer](https://github.com/rbicelli/DesktopComposer) - Manage Start Menu and Desktop Shortcuts for Windows 10/Windows 2019 in Active Directory Environment
 
@@ -307,7 +302,6 @@
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated application for browsing my GitHub stars! ⭐
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -329,7 +323,6 @@
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated application for browsing my GitHub stars! ⭐
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -365,7 +358,6 @@
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [devploit/put2win](https://github.com/devploit/put2win) - Script to automate PUT HTTP method exploitation to get shell
@@ -644,10 +636,6 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
-## dotfiles 
-
-- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
-
 ## dotnet 
 
 - [antikmozib/Dupe-Clear](https://github.com/antikmozib/Dupe-Clear) - A duplicate file cleaner for Windows and Linux.
@@ -740,8 +728,6 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [moodmosaic/bookmarks](https://github.com/moodmosaic/bookmarks) - A selection of the links I find interesting over time. Updated on a regular basis.
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
-- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## github 
@@ -754,7 +740,6 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
-- [jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated application for browsing my GitHub stars! ⭐
 
 ## github-api 
 
@@ -1369,7 +1354,6 @@
 - [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [synacktiv/SCCMSecrets](https://github.com/synacktiv/SCCMSecrets) - SCCMSecrets.py aims at exploiting SCCM policies distribution for credentials harvesting, initial access and lateral movement.
-- [jimbrig/devtools-snippets](https://github.com/jimbrig/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [lucalewin/pdf-converter](https://github.com/lucalewin/pdf-converter) - convert images to pdfs and merge pdfs
 - [spekulatius/infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
@@ -1907,7 +1891,6 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Modules that mix PowerShell and GUIs/CUIs!
 - [InfosecMatter/Minimalistic-offensive-security-tools](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
@@ -2263,12 +2246,7 @@
 
 ## sql 
 
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) - Free Introduction to SQL eBook
-
-## sql-server 
-
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 
 ## stable-diffusion 
 
@@ -2368,10 +2346,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-## visual-basic 
-
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 
 ## visualization 
 
@@ -2486,8 +2460,6 @@
 - [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [InfosecMatter/Minimalistic-offensive-security-tools](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
 - [DrewNaylor/guinget](https://github.com/DrewNaylor/guinget) - Unofficial GUI for Microsoft's Windows Package Manager (winget). Kinda like Synaptic, but for Windows. Not associated with either Microsoft or the Synaptic project, and Microsoft does not endorse this
-- [jimbrig/jimsdots](https://github.com/jimbrig/jimsdots) - My personalized dotfiles and configs for Windows 10 ⚙️
-- [jimbrig/Scripts](https://github.com/jimbrig/Scripts) - Useful Scripts and Snippets across various interfaces
 - [Espionage724/Windows](https://github.com/Espionage724/Windows) - Various batch files for Windows
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [Zeeex/XTR-Toolbox](https://github.com/Zeeex/XTR-Toolbox) - 🛠 Versatile tool to optimize Windows
