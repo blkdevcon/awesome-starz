@@ -741,7 +741,7 @@
 - [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [stknohg/AdmxPolicy](https://github.com/stknohg/AdmxPolicy) - Get Group Policy information from ADMX files.
-- [littl3field/Audix](https://github.com/littl3field/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
+- [0x0v1/Audix](https://github.com/0x0v1/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
 - [michaeloyer/windows-setup](https://github.com/michaeloyer/windows-setup) - The Repo to keep track of changes to my Windows Setup. Scripts, Registry Edits, custom Terminal Commands etc.
 - [ReneNyffenegger/about-Windows-Registry](https://github.com/ReneNyffenegger/about-Windows-Registry) - Windows Registry
 - [GChuf/TechNet-Gallery](https://github.com/GChuf/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
