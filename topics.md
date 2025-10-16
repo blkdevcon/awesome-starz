@@ -1636,7 +1636,7 @@
 - [ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter) - Arsenal Image Mounter mounts the contents of disk images as complete disks in Microsoft Windows.
 - [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
-- [littl3field/Audix](https://github.com/littl3field/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
+- [0x0v1/Audix](https://github.com/0x0v1/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
 - [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [notepad-plus-plus/wingup](https://github.com/notepad-plus-plus/wingup) - WinGup - Generic Updater for Windows
