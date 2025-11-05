@@ -105,6 +105,7 @@
 - [Seeed-Studio/CodeCraft](https://github.com/Seeed-Studio/CodeCraft) - Codecraft is a graphical programming software which is based on Scratch 3.0
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [lifenjoiner/sendto-plus](https://github.com/lifenjoiner/sendto-plus) - Windows 右键“发送到”接力；分组“发送到”；用指定程序打开；启动器；组织你的工具箱。 Send what sent to me to my 'sendto' for Windows; open with specified program; group sendto; run as a launcher; organize your toolbox.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [gtkhash/gtkhash](https://github.com/gtkhash/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
@@ -232,7 +233,6 @@
 - [NasirA1/Arduino_Misc](https://github.com/NasirA1/Arduino_Misc) - Miscellaneous Arduino Projects
 - [pistacheio/pistache](https://github.com/pistacheio/pistache) - A high-performance REST toolkit written in C++
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [vanjac/chromafiler](https://github.com/vanjac/chromafiler) - Column-based file manager for Windows
