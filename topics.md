@@ -705,7 +705,7 @@
 
 ## framework 
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
@@ -870,7 +870,7 @@
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -1228,7 +1228,7 @@
 ## node 
 
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 
 ## nodejs 
@@ -1308,7 +1308,7 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
+- [edoardogerosa/pockint](https://github.com/edoardogerosa/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
 - [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [bharshbarger/AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common OSINT tasks
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
@@ -2014,7 +2014,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [csev/py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [frizb/Vanquish](https://github.com/frizb/Vanquish) - Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.
-- [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
+- [edoardogerosa/pockint](https://github.com/edoardogerosa/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [PushpenderIndia/Sinister](https://github.com/PushpenderIndia/Sinister) - Sinister is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
@@ -2041,7 +2041,7 @@
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Qianlitp/WatchAD](https://github.com/Qianlitp/WatchAD) - AD Security Intrusion Detection System
-- [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
+- [edoardogerosa/pockint](https://github.com/edoardogerosa/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
 - [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -2388,7 +2388,7 @@
 
 ## vue 
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [clemcode/alpine-theme](https://github.com/clemcode/alpine-theme) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 
