@@ -1075,7 +1075,7 @@
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [clemcode/alpine-theme](https://github.com/clemcode/alpine-theme) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [blkdevcon/webgems](https://github.com/blkdevcon/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
-- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [blkdevcon/jamdocs](https://github.com/blkdevcon/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 
