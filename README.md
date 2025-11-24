@@ -67,7 +67,6 @@
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) - Easily configure Microsoft Edge, the way you want it!
 - [MansourM/ez-dns-changer.bat](https://github.com/MansourM/ez-dns-changer.bat) - Easy (EZ) DNS changer, A simple windows batch script file to change windows dns servers
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
-- [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 - [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Kawwabi/TerabyteTweaker](https://github.com/Kawwabi/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
