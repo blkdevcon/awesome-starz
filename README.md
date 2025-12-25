@@ -781,7 +781,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics artifact repository
-- [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium
+- [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [synacktiv/SCCMSecrets](https://github.com/synacktiv/SCCMSecrets) - SCCMSecrets.py aims at exploiting SCCM policies distribution for credentials harvesting, initial access and lateral movement.
 - [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) - TerminalGPT - Terminal-based ChatGPT personal assistant app. Provides optimized, tailored answers for your machine's terminal.
