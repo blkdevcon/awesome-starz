@@ -403,7 +403,7 @@
 ## bot 
 
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and create scripts. Can be used to streamline repetitive and time-consuming tasks.
-- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Richkware is a modern C++20 framework for building educational malware agents. It provides a comprehensive, secure, and modular architecture for understanding malware mechanics and cybersecurity defen
 
 ## bugbounty 
 
@@ -421,7 +421,7 @@
 - [gtkhash/gtkhash](https://github.com/gtkhash/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
 - [moodmosaic/bookmarks](https://github.com/moodmosaic/bookmarks) - A selection of the links I find interesting over time. Updated on a regular basis.
 - [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
-- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Richkware is a modern C++20 framework for building educational malware agents. It provides a comprehensive, secure, and modular architecture for understanding malware mechanics and cybersecurity defen
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 
 ## c-plus-plus 
@@ -552,7 +552,7 @@
 
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ishiko-cpp/windows-registry](https://github.com/ishiko-cpp/windows-registry) - 
-- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Richkware is a modern C++20 framework for building educational malware agents. It provides a comprehensive, secure, and modular architecture for understanding malware mechanics and cybersecurity defen
 
 ## crawler 
 
@@ -749,7 +749,7 @@
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
 - [Cisc0-gif/KITT](https://github.com/Cisc0-gif/KITT) - Python-Based Pentesting Framework
 - [RedhawkSDR/redhawk](https://github.com/RedhawkSDR/redhawk) - A submodule repository for distributing REDHAWK artifacts and the latest REDHAWK source code.  Use 'git clone --recurse-submodules git@github.com:RedhawkSDR/redhawk.git' to also clone all submodules.
-- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Richkware is a modern C++20 framework for building educational malware agents. It provides a comprehensive, secure, and modular architecture for understanding malware mechanics and cybersecurity defen
 
 ## frontend 
 
@@ -862,7 +862,7 @@
 - [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Modules that mix PowerShell and GUIs/CUIs!
 - [DrewNaylor/guinget](https://github.com/DrewNaylor/guinget) - Unofficial GUI for Microsoft's Windows Package Manager (winget). Kinda like Synaptic, but for Windows. Not associated with either Microsoft or the Synaptic project, and Microsoft does not endorse this
 - [HandyOrg/HandyWinGet](https://github.com/HandyOrg/HandyWinGet) - GUI for installing apps through WinGet and Creating Yaml file
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -909,7 +909,7 @@
 - [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [FlUxIuS/V2GInjector](https://github.com/FlUxIuS/V2GInjector) - V2GInjector - Tool to intrude a V2G PowerLine network, but also to capture and inject V2G packets
-- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Richkware is a modern C++20 framework for building educational malware agents. It provides a comprehensive, secure, and modular architecture for understanding malware mechanics and cybersecurity defen
 - [PacktPublishing/Digital-Forensics-with-Kali-Linux](https://github.com/PacktPublishing/Digital-Forensics-with-Kali-Linux) - Digital Forensics with Kali Linux, published by Packt
 - [yeahhub/Kali-Linux-Ebooks](https://github.com/yeahhub/Kali-Linux-Ebooks) - Top 20 Kali Linux Related E-books (Free Download)
 
@@ -1980,7 +1980,7 @@
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [stknohg/AdmxPolicy](https://github.com/stknohg/AdmxPolicy) - Get Group Policy information from ADMX files.
@@ -2567,7 +2567,7 @@
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [salvadorbs/Asuite](https://github.com/salvadorbs/Asuite) - ASuite is a simple open source portable launcher for Microsoft Windows.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
@@ -2588,7 +2588,7 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [PushpenderIndia/Sinister](https://github.com/PushpenderIndia/Sinister) - Sinister is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
-- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Framework for building Windows malware, written in C++
+- [richkmeli/Richkware](https://github.com/richkmeli/Richkware) - Richkware is a modern C++20 framework for building educational malware agents. It provides a comprehensive, secure, and modular architecture for understanding malware mechanics and cybersecurity defen
 
 ## xcode 
 
