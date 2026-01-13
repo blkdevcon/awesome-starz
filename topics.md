@@ -194,6 +194,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [unity](#unity)
+- [video](#video)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
 - [visualization](#visualization)
@@ -862,7 +863,7 @@
 - [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Modules that mix PowerShell and GUIs/CUIs!
 - [DrewNaylor/guinget](https://github.com/DrewNaylor/guinget) - Unofficial GUI for Microsoft's Windows Package Manager (winget). Kinda like Synaptic, but for Windows. Not associated with either Microsoft or the Synaptic project, and Microsoft does not endorse this
 - [HandyOrg/HandyWinGet](https://github.com/HandyOrg/HandyWinGet) - GUI for installing apps through WinGet and Creating Yaml file
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -1389,6 +1390,7 @@
 
 ## others 
 
+- [TheBeardofKnowledge/Scripts-from-my-videos](https://github.com/TheBeardofKnowledge/Scripts-from-my-videos) - Basic scripts shared from my videos
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 - [uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-](https://github.com/uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-) - 🎄 UAgain Shadow – Christmas Theme Pack (Bruce + Hack RFS + Desktop) I created a full custom Christmas theme set inspired by my channel style, UAgain Shadow, just in time for the holidays.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -1731,7 +1733,6 @@
 - [Ehryk/ContextMenuTools](https://github.com/Ehryk/ContextMenuTools) - This is a collection of helpful context menu items, including "Start PowerShell Here" and "Git Bash Here". What the installers do is add these and other selected options to your Windows right-click me
 - [grdnrio/windows-security-policy](https://github.com/grdnrio/windows-security-policy) - A cookbook for managing the local security policy on a Windows system
 - [shauntarves/wyze-sdk](https://github.com/shauntarves/wyze-sdk) - A modern Python client for controlling Wyze devices.
-- [kroo/wyzecam](https://github.com/kroo/wyzecam) - Python package for streaming video from wyze cameras over the local network
 - [FiveLeavesLeft/WyzeCameraLiveStream](https://github.com/FiveLeavesLeft/WyzeCameraLiveStream) - Hack to allow live streaming from wyze cameras to vlc or mpv on your desktop.
 - [HclX/WyzeHacks](https://github.com/HclX/WyzeHacks) - Hacks I discovered allowing Wyze camera owners to do customizations
 - [markmckinnon/Autopsy-Plugins](https://github.com/markmckinnon/Autopsy-Plugins) - Autopsy Python Plugins
@@ -1980,7 +1981,7 @@
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [stknohg/AdmxPolicy](https://github.com/stknohg/AdmxPolicy) - Get Group Policy information from ADMX files.
@@ -2431,6 +2432,10 @@
 
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
+## video 
+
+- [kroo/wyzecam](https://github.com/kroo/wyzecam) - Python package for streaming video from wyze cameras over the local network
+
 ## vim 
 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
@@ -2567,7 +2572,7 @@
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [salvadorbs/Asuite](https://github.com/salvadorbs/Asuite) - ASuite is a simple open source portable launcher for Microsoft Windows.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
