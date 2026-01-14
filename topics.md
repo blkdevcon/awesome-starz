@@ -217,6 +217,7 @@
 
 ## ai 
 
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - 60 Cybersecurity Projects | Certification Roadmaps |Everything you need to build your cybersecurity portfolio
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
@@ -590,6 +591,7 @@
 
 ## cybersecurity 
 
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - 60 Cybersecurity Projects | Certification Roadmaps |Everything you need to build your cybersecurity portfolio
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
@@ -871,6 +873,7 @@
 
 ## hacking 
 
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - 60 Cybersecurity Projects | Certification Roadmaps |Everything you need to build your cybersecurity portfolio
 - [grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB) - A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
@@ -1136,6 +1139,7 @@
 
 ## learning 
 
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - 60 Cybersecurity Projects | Certification Roadmaps |Everything you need to build your cybersecurity portfolio
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
@@ -1893,6 +1897,7 @@
 
 ## pentesting 
 
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - 60 Cybersecurity Projects | Certification Roadmaps |Everything you need to build your cybersecurity portfolio
 - [garrettfoster13/aced](https://github.com/garrettfoster13/aced) - 
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
@@ -2041,6 +2046,7 @@
 
 ## python 
 
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - 60 Cybersecurity Projects | Certification Roadmaps |Everything you need to build your cybersecurity portfolio
 - [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
