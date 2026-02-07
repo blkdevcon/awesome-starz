@@ -28,7 +28,6 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
@@ -362,6 +361,7 @@
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [blkdevcon/My_Dirty_Scripts](https://github.com/blkdevcon/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
@@ -504,10 +504,6 @@
 
 - [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
-
-## MDX 
-
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Markdown 
 
