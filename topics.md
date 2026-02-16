@@ -1650,7 +1650,7 @@
 - [devilbox/cert-gen](https://github.com/devilbox/cert-gen) - Generate CA and self-signed SSL certificates usable in your browser for local development.
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [blkdevcon/red-team](https://github.com/blkdevcon/red-team) - Notes, red team materials, testing tools, etc.
-- [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - All my PowerShell scripts which I'm referencing in the various posts on https://imab.dk
+- [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - Some of the PowerShell scripts which I'm referencing in the various posts on https://imab.dk
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
 - [davidmarble/pywin](https://github.com/davidmarble/pywin) - Lightweight python 2.5-3.3 launcher and switcher for Windows command line and MSYS/MINGW32
 - [davidmarble/virtualenvwrapper-win](https://github.com/davidmarble/virtualenvwrapper-win) - Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts
