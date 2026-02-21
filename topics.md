@@ -1406,7 +1406,7 @@
 
 ## others 
 
-- [TheBeardofKnowledge/Scripts-from-my-videos](https://github.com/TheBeardofKnowledge/Scripts-from-my-videos) - Basic scripts shared from my videos
+- [TheBeardofKnowledge/Scripts-from-my-videos](https://github.com/TheBeardofKnowledge/Scripts-from-my-videos) - Scripts shared from my videos
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 - [uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-](https://github.com/uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-) - 🎄 UAgain Shadow – Christmas Theme Pack (Bruce + Hack RFS + Desktop) I created a full custom Christmas theme set inspired by my channel style, UAgain Shadow, just in time for the holidays.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
