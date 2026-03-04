@@ -67,6 +67,7 @@
 - [electron](#electron)
 - [english](#english)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -723,6 +724,10 @@
 ## ethereum 
 
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
+
+## fastapi 
+
+- [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 
 ## firebase 
 
