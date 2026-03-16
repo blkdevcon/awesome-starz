@@ -281,7 +281,6 @@
 - [DevBubba/Bookmarklets](https://github.com/DevBubba/Bookmarklets) - The Baddest, Absolute Best, And The Biggest Collection Of Bookmarklets Out There!
 - [Texts/texts.github.io](https://github.com/Texts/texts.github.io) - Template for a blog hosted on GitHub Pages
 - [blkdevcon/gpt4all-ui](https://github.com/blkdevcon/gpt4all-ui) - gpt4all chatbot ui
-- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
 - [blkdevcon/tachyons](https://github.com/blkdevcon/tachyons) - Functional css for humans
 - [blkdevcon/gatsby-starter-default](https://github.com/blkdevcon/gatsby-starter-default) - 
@@ -507,7 +506,7 @@
 
 ## Markdown 
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## NSIS 
 
@@ -574,7 +573,7 @@
 - [silicona/effective-typescript](https://github.com/silicona/effective-typescript) - 
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
 - [blkdevcon/vuepress-deploy](https://github.com/blkdevcon/vuepress-deploy) - 
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
@@ -807,6 +806,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
