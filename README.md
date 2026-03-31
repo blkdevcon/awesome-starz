@@ -578,7 +578,6 @@
 - [blkdevcon/vuepress-deploy](https://github.com/blkdevcon/vuepress-deploy) - 
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
-- [blkdevcon/Free-DevOps-Books-1](https://github.com/blkdevcon/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [blkdevcon/CleanmgrPlus](https://github.com/blkdevcon/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [blkdevcon/AllTools](https://github.com/blkdevcon/AllTools) - All reasonably stable tools
 - [blkdevcon/docusaurus-base](https://github.com/blkdevcon/docusaurus-base) - 
@@ -941,6 +940,7 @@
 
 ## Rust 
 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
