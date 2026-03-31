@@ -1420,6 +1420,7 @@
 
 ## others 
 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [TheBeardofKnowledge/Scripts-from-my-videos](https://github.com/TheBeardofKnowledge/Scripts-from-my-videos) - Scripts shared from my videos
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 - [uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-](https://github.com/uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-) - 🎄 UAgain Shadow – Christmas Theme Pack (Bruce + Hack RFS + Desktop) I created a full custom Christmas theme set inspired by my channel style, UAgain Shadow, just in time for the holidays.
@@ -1638,7 +1639,6 @@
 - [blkdevcon/PolicyPlus](https://github.com/blkdevcon/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 - [blkdevcon/sccmclictr](https://github.com/blkdevcon/sccmclictr) - Client Center for Configuration Manager
 - [blkdevcon/Fixdows](https://github.com/blkdevcon/Fixdows) - A tool written in C# and Batch to repair common issues among Windows computers.
-- [blkdevcon/Free-DevOps-Books-1](https://github.com/blkdevcon/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [blkdevcon/Audix](https://github.com/blkdevcon/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
 - [blkdevcon/Minimalistic-offensive-security-tools](https://github.com/blkdevcon/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
 - [blkdevcon/hfs2](https://github.com/blkdevcon/hfs2) - web based file server
