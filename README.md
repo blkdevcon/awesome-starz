@@ -760,7 +760,7 @@
 
 ## Python 
 
-- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 67 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly 🧙‍♂️
+- [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 67 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. If you want personal help breaking in, I offer 1-on-1 mentorsh
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
