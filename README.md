@@ -598,6 +598,7 @@
 - [madmaxms/iconpack-obsidian](https://github.com/madmaxms/iconpack-obsidian) - Gnome Icon Pack based upon Faenza, optimized for dark themes
 - [bonzibudd/Fluent-Refresh](https://github.com/bonzibudd/Fluent-Refresh) - A modern, highly customizable Start menu skin for Open-Shell. Alternate version of Fluent-Metro.
 - [S3cur1tyH4ggis/ICS-Security-Products](https://github.com/S3cur1tyH4ggis/ICS-Security-Products) - Lists of products useful for ICS security
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
 - [stackhpc/efi-lockdown](https://github.com/stackhpc/efi-lockdown) - Ansible role to generate a bootable iso that will install custom secure boot keys
 - [iSamF/EFI_SHELL](https://github.com/iSamF/EFI_SHELL) - File Need to create bootable USB Key - EFI Shell
@@ -750,7 +751,6 @@
 - [GChuf/TechNet-Gallery](https://github.com/GChuf/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
 - [GChuf/RCWM](https://github.com/GChuf/RCWM) - Right Click Windows Magic is an open-source set of right-click (context) menu tools for admins, power users and other magic beings. Batch&Powershell.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 
