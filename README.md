@@ -780,9 +780,9 @@
 - [codingforentrepreneurs/Cursor-Django](https://github.com/codingforentrepreneurs/Cursor-Django) - Learn how to build your first full stack web app with English and Cursor AI
 - [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer) - OSINT python webscaping framework
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-- [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
+- [RyanDFIR/unfurl](https://github.com/RyanDFIR/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics artifact repository
-- [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
+- [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [synacktiv/SCCMSecrets](https://github.com/synacktiv/SCCMSecrets) - SCCMSecrets.py aims at exploiting SCCM policies distribution for credentials harvesting, initial access and lateral movement.
 - [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) - TerminalGPT - Terminal-based ChatGPT personal assistant app. Provides optimized, tailored answers for your machine's terminal.
@@ -890,7 +890,7 @@
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59
 - [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [jmortega/osint_tools_security_auditing](https://github.com/jmortega/osint_tools_security_auditing) - osint_tools_security_auditing
-- [rsmusllp/king-phisher](https://github.com/rsmusllp/king-phisher) - Phishing Campaign Toolkit
+- [Saltshaker2112/king-phisher](https://github.com/Saltshaker2112/king-phisher) - Phishing Campaign Toolkit
 - [xct/ropstar](https://github.com/xct/ropstar) - Automatic exploit generation for simple linux pwn challenges.
 - [Andromeda1957/netpwn](https://github.com/Andromeda1957/netpwn) - Tool made to automate tasks of pentesting.
 - [cy4nguy/Python-Ransomware](https://github.com/cy4nguy/Python-Ransomware) - Complete Python RansomeWare Source Code With Full Decoumetions.
