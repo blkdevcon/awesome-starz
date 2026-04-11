@@ -890,7 +890,7 @@
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59
 - [0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - Scrape, Hunt, and Transform names and usernames
 - [jmortega/osint_tools_security_auditing](https://github.com/jmortega/osint_tools_security_auditing) - osint_tools_security_auditing
-- [Saltshaker2112/king-phisher](https://github.com/Saltshaker2112/king-phisher) - Phishing Campaign Toolkit
+- [CrimsonForge-io/king-phisher](https://github.com/CrimsonForge-io/king-phisher) - Phishing Campaign Toolkit
 - [xct/ropstar](https://github.com/xct/ropstar) - Automatic exploit generation for simple linux pwn challenges.
 - [Andromeda1957/netpwn](https://github.com/Andromeda1957/netpwn) - Tool made to automate tasks of pentesting.
 - [cy4nguy/Python-Ransomware](https://github.com/cy4nguy/Python-Ransomware) - Complete Python RansomeWare Source Code With Full Decoumetions.
