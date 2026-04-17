@@ -87,6 +87,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -885,6 +886,13 @@
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [echo-devim/fhex](https://github.com/echo-devim/fhex) - A Full-Featured HexEditor compatible with Linux/Windows/MacOS
+
+## hack 
+
+- [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
+- [gWOLF3/viSSHous](https://github.com/gWOLF3/viSSHous) - 😈 infect remote ssh sessions with your vim profile
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 
 ## hacking 
 
@@ -1831,7 +1839,6 @@
 - [nsa-observer/documents](https://github.com/nsa-observer/documents) - TXT and PDF documents from the NSA
 - [da667/Training_Materials_Bookmarks](https://github.com/da667/Training_Materials_Bookmarks) - Learn you a book for some infosec good
 - [xct/ropstar](https://github.com/xct/ropstar) - Automatic exploit generation for simple linux pwn challenges.
-- [gWOLF3/viSSHous](https://github.com/gWOLF3/viSSHous) - 😈 infect remote ssh sessions with your vim profile
 - [ninjhacks/gsmevil2](https://github.com/ninjhacks/gsmevil2) - GsmEvil 2
 - [OWASP/SecureTea-Project](https://github.com/OWASP/SecureTea-Project) - The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices)
 - [cy4nguy/Python-Ransomware](https://github.com/cy4nguy/Python-Ransomware) - Complete Python RansomeWare Source Code With Full Decoumetions.
