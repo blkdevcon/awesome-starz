@@ -29,6 +29,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -439,6 +440,14 @@
 ## c-plus-plus 
 
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
+
+## c-sharp 
+
+- [DevelopersTree/permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily.
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+- [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
+- [snakefoot/snaketail-net](https://github.com/snakefoot/snaketail-net) - Tail utility for monitoring text log files and Windows EventLog
+- [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 ## chatbot 
 
@@ -1681,7 +1690,6 @@
 - [revolunet/awesome-stars](https://github.com/revolunet/awesome-stars) - A curated list of my GitHub stars!
 - [laurent22/appetizer](https://github.com/laurent22/appetizer) - Official repository for Appetizer, the open source application launcher, or dock, for Windows.
 - [madskristensen/VsixGallery](https://github.com/madskristensen/VsixGallery) - The Open VSIX Gallery
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [riedyw/PoshFunctions](https://github.com/riedyw/PoshFunctions) - A curated collection of PowerShell scripts packaged into a module.
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
@@ -1696,7 +1704,6 @@
 - [ryanmrestivo/windows-tools-portable](https://github.com/ryanmrestivo/windows-tools-portable) - Collection of FOSS/Freeware.  Most tools here are portable, which can be useful for when you are out-and-about.  Obviously dedicated lab use of tools is ideal, but we don't live in an ideal world.
 - [julianoabr/windows-get-product-key](https://github.com/julianoabr/windows-get-product-key) - Get Windows Product Key on Local or Remote Computers
 - [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
-- [snakefoot/snaketail-net](https://github.com/snakefoot/snaketail-net) - Tail utility for monitoring text log files and Windows EventLog
 - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
 - [nickzer0/RedLab](https://github.com/nickzer0/RedLab) - Files to automatically deploy red team Active Directory test lab
 - [zodiacon/DriverMon](https://github.com/zodiacon/DriverMon) - Monitor activity of any driver
