@@ -881,7 +881,6 @@
 - [jamesm0rr1s/Send-and-Track-Phishing-Campaigns](https://github.com/jamesm0rr1s/Send-and-Track-Phishing-Campaigns) - PhishSend is a penetration testing and red teaming tool that automates the process of sending phishing emails and tracking unique links that are clicked. These scripts were tested with Python 2.7
 - [TeamT5/MalCfgParser](https://github.com/TeamT5/MalCfgParser) - A Lightweight Malware Configuration Parsing Tool
 - [Qianlitp/WatchAD](https://github.com/Qianlitp/WatchAD) - AD Security Intrusion Detection System
-- [penetrate2hack/ITWSV](https://github.com/penetrate2hack/ITWSV) - ITWSV- Integrated Tool for Web Security Vulnerability
 - [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
 - [edoardogerosa/pockint](https://github.com/edoardogerosa/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
