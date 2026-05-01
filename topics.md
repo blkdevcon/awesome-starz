@@ -2011,7 +2011,7 @@
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
-- [bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
+- [bcurran3/ChocolateyPackages_CCR](https://github.com/bcurran3/ChocolateyPackages_CCR) - My published Chocolatey Community Repository packages
 - [WinTweakers/WindowsToolbox](https://github.com/WinTweakers/WindowsToolbox) - A powerful but simple, easy to use toolbox for Windows 10 / 11.
 - [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 - [couleurm/couleurstoolbox](https://github.com/couleurm/couleurstoolbox) - 🍱 My toolbox that I take with me everytime I reinstall windows.
