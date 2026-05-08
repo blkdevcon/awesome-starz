@@ -1050,7 +1050,7 @@
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [blkdevcon/Astro-boilerplate](https://github.com/blkdevcon/Astro-boilerplate) - 
-- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
 - [blkdevcon/docusaurus](https://github.com/blkdevcon/docusaurus) - Easy to maintain open source documentation websites.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
