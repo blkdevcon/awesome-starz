@@ -690,7 +690,7 @@
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
 - [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
-- [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
+- [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases. This project is now archived and no longer under development.
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
 - [JedHarb/Get-InstalledApps](https://github.com/JedHarb/Get-InstalledApps) - Retrieve all installed programs on a local or remote Windows computer
 - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
