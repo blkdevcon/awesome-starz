@@ -2002,7 +2002,7 @@
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [jdhitsolutions/ISEScriptingGeek](https://github.com/jdhitsolutions/ISEScriptingGeek) - My library of tools and add-ons for the PowerShell ISE
 - [jdhitsolutions/WTToolbox](https://github.com/jdhitsolutions/WTToolbox) - :computer: A set of PowerShell commands for managing and using the Windows Terminal application.
-- [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
+- [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases. This project is now archived and no longer under development.
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
