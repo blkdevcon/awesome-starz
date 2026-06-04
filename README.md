@@ -673,7 +673,7 @@
 - [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
 - [hackf5/powershell-profile-alias](https://github.com/hackf5/powershell-profile-alias) - Bash style aliases in PowerShell
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
-- [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
+- [Devolutions/powershell-universal-gallery](https://github.com/Devolutions/powershell-universal-gallery) - Public gallery of modules for PowerShell Universal
 - [gordonbay/Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins) - Wor is a Powershell script to harden, debloat, optimize, enhance privacy, avoid fingerprinting and improve performance on Windows 10 and 11.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
