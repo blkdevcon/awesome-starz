@@ -801,7 +801,7 @@
 
 ## games 
 
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 
 ## gaming 
 
@@ -892,7 +892,7 @@
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 - [deviousasti/openssl-wizard](https://github.com/deviousasti/openssl-wizard) - A wizard/gui to help you with using the openssl cli
 - [couleurm/couleurstoolbox](https://github.com/couleurm/couleurstoolbox) - 🍱 My toolbox that I take with me everytime I reinstall windows.
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [SohanChy/Lipi](https://github.com/SohanChy/Lipi) - A simple static blog generator.
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
 - [dan-osull/PowerShell-Script-Menu-Gui](https://github.com/dan-osull/PowerShell-Script-Menu-Gui) - Make a graphical menu of PowerShell scripts with a CSV file. Easy to customise and fast to launch.
@@ -2137,7 +2137,7 @@
 - [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [EventGhost/EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
@@ -2185,7 +2185,7 @@
 
 ## qt 
 
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 
 ## rails 
