@@ -16,7 +16,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dart](#dart)
-- [EJS](#ejs)
 - [Fluent](#fluent)
 - [GSC](#gsc)
 - [Go](#go)
@@ -30,13 +29,11 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
-- [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [PureBasic](#purebasic)
 - [Python](#python)
 - [QMake](#qmake)
 - [R](#r)
@@ -70,12 +67,9 @@
 - [MansourM/ez-dns-changer.bat](https://github.com/MansourM/ez-dns-changer.bat) - Easy (EZ) DNS changer, A simple windows batch script file to change windows dns servers
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
-- [blkdevcon/WinPE-DISM-Mgr](https://github.com/blkdevcon/WinPE-DISM-Mgr) - WDM allows you to create and manage your WinPE drive!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Kawwabi/TerabyteTweaker](https://github.com/Kawwabi/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
 - [slorelee/WIN10XPE_Archive](https://github.com/slorelee/WIN10XPE_Archive) - History of Changes in ChrisR's WIN10XPE project(http://theoven.org/index.php?topic=2421.0)
-- [blkdevcon/wampserver-ssl-auto-config](https://github.com/blkdevcon/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
-- [blkdevcon/windows10-checkup](https://github.com/blkdevcon/windows10-checkup) - 
 - [davidmarble/virtualenvwrapper-win](https://github.com/davidmarble/virtualenvwrapper-win) - Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts
 - [bongochong/CWP-Utilities](https://github.com/bongochong/CWP-Utilities) - Combined Windows Privacy Utilities | Hosts file updater, block list manager, and more. Open source tools for Windows users, to help ensure privacy & security. Block ads, spyware domains, and other mal
 - [custom-dev-tools/wampserver-ssl-auto-config](https://github.com/custom-dev-tools/wampserver-ssl-auto-config) - WampServer SSL Auto Config is a Microsoft Windows batch script designed to automatically generate and configure a fully working Apache SSL / Name Based virtual host development environment.
@@ -112,7 +106,6 @@
 - [gtkhash/gtkhash](https://github.com/gtkhash/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
-- [blkdevcon/windows-tools-portable](https://github.com/blkdevcon/windows-tools-portable) - Collection of FOSS/Freeware.  Most tools here are portable, which can be useful for when you are out-and-about.  Obviously dedicated lab use of tools is ideal, but we don't live in an ideal world.
 - [ryanmrestivo/windows-tools-portable](https://github.com/ryanmrestivo/windows-tools-portable) - Collection of FOSS/Freeware.  Most tools here are portable, which can be useful for when you are out-and-about.  Obviously dedicated lab use of tools is ideal, but we don't live in an ideal world.
 - [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
 - [patrickpr/YAOG](https://github.com/patrickpr/YAOG) - Yet Another Openssl GUI : Qt based openssl GUI to create CSR, certificates, keys (RSA / DSA / EC)
@@ -163,17 +156,10 @@
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
-- [blkdevcon/netadapter-repair](https://github.com/blkdevcon/netadapter-repair) - NetAdapter Repair allows you to effectively troubleshoot and repair common problems with windows network adapters without using command line. Was developed as a way to diagnose remote systems by walki
-- [blkdevcon/openssl-wizard](https://github.com/blkdevcon/openssl-wizard) - A wizard/gui to help you with using the openssl cli
-- [blkdevcon/optimizer](https://github.com/blkdevcon/optimizer) - The finest Windows Optimizer
-- [blkdevcon/CenterTaskbar](https://github.com/blkdevcon/CenterTaskbar) - Center Windows Taskbar Icons
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
 - [DavidXanatos/wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
 - [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [blkdevcon/control-uwp](https://github.com/blkdevcon/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
-- [blkdevcon/sccmclictr](https://github.com/blkdevcon/sccmclictr) - Client Center for Configuration Manager
-- [blkdevcon/Fixdows](https://github.com/blkdevcon/Fixdows) - A tool written in C# and Batch to repair common issues among Windows computers.
 - [geluk/pass-winmenu](https://github.com/geluk/pass-winmenu) - An easy-to-use password manager for Windows, compatible with pass.
 - [deviousasti/openssl-wizard](https://github.com/deviousasti/openssl-wizard) - A wizard/gui to help you with using the openssl cli
 - [madskristensen/VsixGallery](https://github.com/madskristensen/VsixGallery) - The Open VSIX Gallery
@@ -245,7 +231,6 @@
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
-- [blkdevcon/GpgFrontend](https://github.com/blkdevcon/GpgFrontend) - A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).
 - [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is an application to manage catalogs of disks and files to search and get statistics.
 - [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
 - [dannagle/Cryptoknife](https://github.com/dannagle/Cryptoknife) - All-in-one, portable, collection of general-purpose cryptography tools
@@ -282,10 +267,7 @@
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [DevBubba/Bookmarklets](https://github.com/DevBubba/Bookmarklets) - The Baddest, Absolute Best, And The Biggest Collection Of Bookmarklets Out There!
 - [Texts/texts.github.io](https://github.com/Texts/texts.github.io) - Template for a blog hosted on GitHub Pages
-- [blkdevcon/gpt4all-ui](https://github.com/blkdevcon/gpt4all-ui) - gpt4all chatbot ui
 - [zianwar/gitmarks](https://github.com/zianwar/gitmarks) - Github bookmarks - Easily find what you starred on GitHub
-- [blkdevcon/tachyons](https://github.com/blkdevcon/tachyons) - Functional css for humans
-- [blkdevcon/gatsby-starter-default](https://github.com/blkdevcon/gatsby-starter-default) - 
 - [wzpan/hexo-theme-freemind](https://github.com/wzpan/hexo-theme-freemind) - Most powerful bootstrap theme for hexo.
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [revolunet/PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
@@ -298,10 +280,6 @@
 ## Dart 
 
 - [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
-
-## EJS 
-
-- [blkdevcon/kaikus-4-codespace](https://github.com/blkdevcon/kaikus-4-codespace) - 
 
 ## Fluent 
 
@@ -326,7 +304,6 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
-- [blkdevcon/cheat](https://github.com/blkdevcon/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [solkin/simple-file-server](https://github.com/solkin/simple-file-server) - Extremely simple Web file server with Web interface similar to Apache server
 - [ziloka/proxybroker](https://github.com/ziloka/proxybroker) - Command line application to concurrently collect and check proxies
@@ -352,6 +329,7 @@
 
 ## HTML 
 
+- [blkdevcon/osint_stuff_tool_collection](https://github.com/blkdevcon/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [ChrisTitusTech/linux-book-publish](https://github.com/ChrisTitusTech/linux-book-publish) - The Linux book
 - [ThatTotallyRealMyth/WADComs.github.io](https://github.com/ThatTotallyRealMyth/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [codingforentrepreneurs/Cursor-Hello-World](https://github.com/codingforentrepreneurs/Cursor-Hello-World) - Learn Cursor basics to build and deploy an HTML website to the internet.
@@ -366,16 +344,11 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
-- [blkdevcon/My_Dirty_Scripts](https://github.com/blkdevcon/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
-- [blkdevcon/kryptomancer](https://github.com/blkdevcon/kryptomancer) - An OpenSSL wizard
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
-- [blkdevcon/ms_symtools](https://github.com/blkdevcon/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
 - [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11.
 - [msillano/ms_symtools](https://github.com/msillano/ms_symtools) - This project was born with the aim of providing SyMenu with a series of new features, to facilitate the maintenance of complex menus.
-- [blkdevcon/Dism-Multi-language](https://github.com/blkdevcon/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-- [blkdevcon/hyas](https://github.com/blkdevcon/hyas) - 
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
@@ -399,8 +372,6 @@
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [v4lpt/PWG](https://github.com/v4lpt/PWG) - This is a simple password generator for the android operating system.
 - [lucalewin/pdf-converter](https://github.com/lucalewin/pdf-converter) - convert images to pdfs and merge pdfs
-- [blkdevcon/keystore-explorer](https://github.com/blkdevcon/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
-- [blkdevcon/ghidra](https://github.com/blkdevcon/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [SohanChy/Lipi](https://github.com/SohanChy/Lipi) - A simple static blog generator.
 - [hdecarne-github/certmgr](https://github.com/hdecarne-github/certmgr) - CertMgr: Create and manage X.509 certificates
@@ -412,6 +383,7 @@
 
 ## JavaScript 
 
+- [blkdevcon/repo-list-generator](https://github.com/blkdevcon/repo-list-generator) - 📃 The GitHub action that generate repository list for user or organization.
 - [TheRealMrGamz/Bookmarklets](https://github.com/TheRealMrGamz/Bookmarklets) - A Bunch Of Cool Bookmarklets That Work At School!
 - [liamcottle/reticulum-meshchat](https://github.com/liamcottle/reticulum-meshchat) - A simple mesh network communications app powered by the Reticulum Network Stack.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
@@ -427,7 +399,6 @@
 - [FreshSupaSulley/Auto-2FA](https://github.com/FreshSupaSulley/Auto-2FA) - Login through Duo Mobile in your browser
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
-- [blkdevcon/Tab-Session-Manager](https://github.com/blkdevcon/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
@@ -445,20 +416,12 @@
 - [EmpireProject/Empire-GUI](https://github.com/EmpireProject/Empire-GUI) - Empire client application
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
-- [blkdevcon/NSA-MADCert](https://github.com/blkdevcon/NSA-MADCert) - Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.
-- [blkdevcon/markdown-here](https://github.com/blkdevcon/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [blkdevcon/webui-aria2](https://github.com/blkdevcon/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
-- [blkdevcon/eleventy-dot-js-blog](https://github.com/blkdevcon/eleventy-dot-js-blog) - 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [kirtan403/bookmark-github-stars](https://github.com/kirtan403/bookmark-github-stars) - Generate Bookmarks export file (html) of the github user's starred repos
 - [p1usminus/roomybookmarksredux](https://github.com/p1usminus/roomybookmarksredux) - Roomy Bookmarks Toolbar for Waterfox/Firefox
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [ncornette/Python-Markdown-Editor](https://github.com/ncornette/Python-Markdown-Editor) - Standalone editor for your markdown files
-- [blkdevcon/trilium](https://github.com/blkdevcon/trilium) - Build your personal knowledge base with Trilium Notes
-- [blkdevcon/hfs](https://github.com/blkdevcon/hfs) - HTTP File Server
-- [blkdevcon/calibre-web](https://github.com/blkdevcon/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [blkdevcon/awesome-cheatsheets](https://github.com/blkdevcon/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [blkdevcon/gohugo-deploy](https://github.com/blkdevcon/gohugo-deploy) - 
 - [NationalSecurityAgency/MADCert](https://github.com/NationalSecurityAgency/MADCert) - Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.
 - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation
 - [dan-osull/calibre-web](https://github.com/dan-osull/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -487,6 +450,7 @@
 
 ## Jupyter Notebook 
 
+- [blkdevcon/Amazing-Python-Scripts](https://github.com/blkdevcon/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [garrettfoster13/DefaultCreds-cheat-sheet](https://github.com/garrettfoster13/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [codingforentrepreneurs/Smarter-Web-Scraping-with-Python](https://github.com/codingforentrepreneurs/Smarter-Web-Scraping-with-Python) - Leverage modern open-source tools to create better web scraping workflows.
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
@@ -505,7 +469,6 @@
 ## Lua 
 
 - [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
-- [blkdevcon/quick-scripts](https://github.com/blkdevcon/quick-scripts) - A collection of my quick and dirty scripts for vulnerability POC and detections
 
 ## Markdown 
 
@@ -515,13 +478,11 @@
 
 - [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
 
-## Nunjucks 
-
-- [blkdevcon/eleventy-base-blog](https://github.com/blkdevcon/eleventy-base-blog) - 
-- [blkdevcon/eleventree](https://github.com/blkdevcon/eleventree) - 
-
 ## Others 
 
+- [blkdevcon/Ebook-Resource-Collection](https://github.com/blkdevcon/Ebook-Resource-Collection) - My collection of Tech  E-Books, resources & cheatsheets
+- [blkdevcon/awesome-osint](https://github.com/blkdevcon/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+- [blkdevcon/PENTESTING-BIBLE](https://github.com/blkdevcon/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-](https://github.com/uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-) - 🎄 UAgain Shadow – Christmas Theme Pack (Bruce + Hack RFS + Desktop) I created a full custom Christmas theme set inspired by my channel style, UAgain Shadow, just in time for the holidays.
@@ -559,19 +520,12 @@
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
-- [blkdevcon/library-resources](https://github.com/blkdevcon/library-resources) - 📚 Collection of various guides, books and papers.
 - [kxzk/library](https://github.com/kxzk/library) - 📚 collection of various books and papers
 - [dipsec/Cheatsheets-1](https://github.com/dipsec/Cheatsheets-1) - Penetration Testing/Security Cheatsheets
-- [blkdevcon/markdown-cheatsheet](https://github.com/blkdevcon/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [blkdevcon/Awesome-Hacking](https://github.com/blkdevcon/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [blkdevcon/Awesome-WindowsApps](https://github.com/blkdevcon/Awesome-WindowsApps) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [blkdevcon/MajorGeeks-Windows-Tweaks](https://github.com/blkdevcon/MajorGeeks-Windows-Tweaks) - MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 - [slorelee/PExplorer](https://github.com/slorelee/PExplorer) - a portable shell program(desktop, startmenu, taskbar, notifyarea, etc), whitch can run in Windows 7, 8, 8.1, 10, Windows Server 2008, 2012, 2016, 2019 and the Windows Preinstallation Environment(WinPE
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
-- [blkdevcon/modern-js-cheatsheet](https://github.com/blkdevcon/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-- [blkdevcon/blackhat-arsenal-tools](https://github.com/blkdevcon/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
-- [blkdevcon/mkdocs-base](https://github.com/blkdevcon/mkdocs-base) - 
 - [blkdevcon/awesome-starz](https://github.com/blkdevcon/awesome-starz) - GitHub Starred Repos List
 - [moodmosaic/bookmarks](https://github.com/moodmosaic/bookmarks) - A selection of the links I find interesting over time. Updated on a regular basis.
 - [silicona/effective-typescript](https://github.com/silicona/effective-typescript) - 
@@ -579,12 +533,9 @@
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
-- [blkdevcon/vuepress-deploy](https://github.com/blkdevcon/vuepress-deploy) - 
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
-- [blkdevcon/CleanmgrPlus](https://github.com/blkdevcon/CleanmgrPlus) - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 - [blkdevcon/AllTools](https://github.com/blkdevcon/AllTools) - All reasonably stable tools
-- [blkdevcon/docusaurus-base](https://github.com/blkdevcon/docusaurus-base) - 
 - [revolunet/awesome-stars](https://github.com/revolunet/awesome-stars) - A curated list of my GitHub stars!
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 - [zodiacon/AllTools](https://github.com/zodiacon/AllTools) - All reasonably stable tools
@@ -640,7 +591,6 @@
 - [thedevdojo/tails](https://github.com/thedevdojo/tails) - This is the Tails composer package for Laravel. Easily fetch designs in your Laravel application that you design inside of the Tails Site/Page Builder.
 - [devimust/easy-bookmark-manager](https://github.com/devimust/easy-bookmark-manager) - Easy and simple self-hosted bookmark / snippet management tool.
 - [easyphp/DEVSERVER](https://github.com/easyphp/DEVSERVER) - ⚙️ Development environment on Windows. PHP DEVSERVER is portable, modular, fully configurable, and easy to update and customize. Since 1999.
-- [blkdevcon/neard](https://github.com/blkdevcon/neard) - 🎲 Portable WAMP software stack
 - [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack
 - [katin/PenTDB](https://github.com/katin/PenTDB) - Pentesting Tracker Database with HTML Interface
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
@@ -656,7 +606,6 @@
 - [lmbelo/pyscripter](https://github.com/lmbelo/pyscripter) - Pyscripter is a feature-rich but lightweight Python IDE
 - [jrathlev/R-Plot](https://github.com/jrathlev/R-Plot) - Visualization of measuring data
 - [jrathlev/InnoUnpacker-Windows-GUI](https://github.com/jrathlev/InnoUnpacker-Windows-GUI) - Inspect and unpack InnoSetup archives
-- [blkdevcon/hfs2](https://github.com/blkdevcon/hfs2) - web based file server
 - [salvadorbs/Asuite](https://github.com/salvadorbs/Asuite) - ASuite is a simple open source portable launcher for Microsoft Windows.
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 
@@ -669,6 +618,7 @@
 
 ## PowerShell 
 
+- [blkdevcon/RedTeaming-Tactics-and-Techniques](https://github.com/blkdevcon/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 - [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
 - [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
@@ -696,7 +646,6 @@
 - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-- [blkdevcon/bloatbox](https://github.com/blkdevcon/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
 - [kacos2000/WindowsTimeline](https://github.com/kacos2000/WindowsTimeline) - Windows 10 (v1803+) ActivitiesCache.db parsers (SQLite, PowerShell, .EXE)
 - [kacos2000/WinEDB](https://github.com/kacos2000/WinEDB) - Windows.EDB Browser
@@ -706,17 +655,11 @@
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [freeload101/SCRIPTS](https://github.com/freeload101/SCRIPTS) - 
-- [blkdevcon/SCRIPTS](https://github.com/blkdevcon/SCRIPTS) - Assorted Scripts
 - [farag2/Adobe-Acrobat-DC-Setup](https://github.com/farag2/Adobe-Acrobat-DC-Setup) - Adobe Acrobat Pro/Reader DC Setup
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 - [dfinke/Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist
-- [blkdevcon/win10script](https://github.com/blkdevcon/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-- [blkdevcon/Audix](https://github.com/blkdevcon/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
-- [blkdevcon/Minimalistic-offensive-security-tools](https://github.com/blkdevcon/Minimalistic-offensive-security-tools) - A repository of tools for pentesting of restricted and isolated environments.
 - [blkdevcon/awesome-powershell](https://github.com/blkdevcon/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-- [blkdevcon/Utilities](https://github.com/blkdevcon/Utilities) - Useful assortment of scripts, cheatsheets, tools & more!
-- [blkdevcon/Win-10-Smart-Debloat-Tools](https://github.com/blkdevcon/Win-10-Smart-Debloat-Tools) - This is an adapted version from https://github.com/W4RH4WK/Debloat-Windows-10. These scripts will Customize, Debloat and Improve Security/Performance on Windows 10+.
 - [blkdevcon/red-team](https://github.com/blkdevcon/red-team) - Notes, red team materials, testing tools, etc.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [bcurran3/ChocolateyPackages_CCR](https://github.com/bcurran3/ChocolateyPackages_CCR) - My published Chocolatey Community Repository packages
@@ -755,12 +698,12 @@
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [ivan-sincek/powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) - PowerShell scripts for communicating with a remote host.
 
-## PureBasic 
-
-- [blkdevcon/IceDesign](https://github.com/blkdevcon/IceDesign) - IceDesign is a New and Modern GUI Designer for PureBasic
-
 ## Python 
 
+- [blkdevcon/OSINT](https://github.com/blkdevcon/OSINT) - Collections of tools and methods created to aid in OSINT collection
+- [blkdevcon/free-programming-books](https://github.com/blkdevcon/free-programming-books) - :books: Freely available programming books
+- [blkdevcon/python-cheatsheet](https://github.com/blkdevcon/python-cheatsheet) - Comprehensive Python Cheatsheet
+- [blkdevcon/Awesome-Python-Scripts](https://github.com/blkdevcon/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
@@ -796,7 +739,6 @@
 - [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - SyncBackPro second chance
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [blkdevcon/netlas-cookbook](https://github.com/blkdevcon/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
@@ -815,17 +757,10 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
-- [blkdevcon/king-phisher](https://github.com/blkdevcon/king-phisher) - Phishing Campaign Toolkit
-- [blkdevcon/LogonTracer](https://github.com/blkdevcon/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [freeload101/Python](https://github.com/freeload101/Python) - Various Python scripts
-- [blkdevcon/zxpy-shell-scriptsEZ](https://github.com/blkdevcon/zxpy-shell-scriptsEZ) - Shell scripts made simple 🐚
-- [blkdevcon/my-dirty-scripts](https://github.com/blkdevcon/my-dirty-scripts) - A collection of scripts and codes that I've written to solve CTF challenges/automate exploits and tasks.
 - [realpython/python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [davidbombal/red-python-scripts](https://github.com/davidbombal/red-python-scripts) - 
-- [blkdevcon/twint](https://github.com/blkdevcon/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- [blkdevcon/Dshell](https://github.com/blkdevcon/Dshell) - Dshell is a network forensic analysis framework.
-- [blkdevcon/OWASP-CheatSheetSeries](https://github.com/blkdevcon/OWASP-CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [py5coding/thonny-py5mode](https://github.com/py5coding/thonny-py5mode) - A py5 plug-in for Thonny
@@ -928,13 +863,11 @@
 
 ## R 
 
-- [blkdevcon/jimsghstars](https://github.com/blkdevcon/jimsghstars) - A curated list of my GitHub stars! ⭐ https://jimbrig.github.io/jimsghstars/
 - [jimbrig/jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated application for browsing my GitHub stars! ⭐
 
 ## Ruby 
 
 - [ninoseki/mihari](https://github.com/ninoseki/mihari) - A query aggregator for OSINT based threat hunting
-- [blkdevcon/FreeCodeCamp-devdocs](https://github.com/blkdevcon/FreeCodeCamp-devdocs) - API Documentation Browser (DevDocs) - Free Code Camp
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [grdnrio/windows-security-policy](https://github.com/grdnrio/windows-security-policy) - A cookbook for managing the local security policy on a Windows system
 - [hahwul/droid-hunter](https://github.com/hahwul/droid-hunter) - (deprecated) Android application vulnerability analysis and Android pentest tool
@@ -949,10 +882,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [blkdevcon/lapce-CodeEditor](https://github.com/blkdevcon/lapce-CodeEditor) - Lightning-fast and Powerful Code Editor written in Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [blkdevcon/navi](https://github.com/blkdevcon/navi) - An interactive cheatsheet tool for the command-line
-- [blkdevcon/Chainsaw](https://github.com/blkdevcon/Chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -960,7 +890,6 @@
 ## SCSS 
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-- [blkdevcon/one-click-hugo-cms](https://github.com/blkdevcon/one-click-hugo-cms) - 
 - [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love
 
 ## Shell 
@@ -972,10 +901,8 @@
 - [i2p/i2p.firefox](https://github.com/i2p/i2p.firefox) - A pre-configured browser profile and accompanying shortcut for easily configuring an I2P browser on Windows.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
-- [blkdevcon/osint-1](https://github.com/blkdevcon/osint-1) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
 - [szybnev/tl-wn722n](https://github.com/szybnev/tl-wn722n) - Drivers for TL-WN722N TP-Link adapter
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [blkdevcon/webi-installers](https://github.com/blkdevcon/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [devilbox/cert-gen](https://github.com/devilbox/cert-gen) - Generate CA and self-signed SSL certificates usable in your browser for local development.
 - [davidmarble/pywin](https://github.com/davidmarble/pywin) - Lightweight python 2.5-3.3 launcher and switcher for Windows command line and MSYS/MINGW32
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based
@@ -1051,10 +978,8 @@
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [blkdevcon/Astro-boilerplate](https://github.com/blkdevcon/Astro-boilerplate) - 
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
-- [blkdevcon/docusaurus](https://github.com/blkdevcon/docusaurus) - Easy to maintain open source documentation websites.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [frangoteam/FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
@@ -1064,7 +989,6 @@
 
 - [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
 - [rbicelli/example-admx-template](https://github.com/rbicelli/example-admx-template) - ADMX template writing with working example
-- [blkdevcon/BatUtil](https://github.com/blkdevcon/BatUtil) - Collection of batch scripts utilities for Windows
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Visual Basic 
@@ -1086,14 +1010,11 @@
 ## Vue 
 
 - [clemcode/alpine-theme](https://github.com/clemcode/alpine-theme) - The minimalist blog theme, powered by Nuxt & Markdown.
-- [blkdevcon/webgems](https://github.com/blkdevcon/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
-- [blkdevcon/jamdocs](https://github.com/blkdevcon/jamdocs) - The ultimate staic generated documentation theme for the JAM-stack. Highly cusomizable, based on Gridsome, ready to deploy to Netlify in one click.
 
 ## YARA 
 
-- [blkdevcon/blue-team](https://github.com/blkdevcon/blue-team) - Some portable tools, some YARA, some Python, and a little bit of love.  Not all of these tools can be used in incident response.  Use PEs with caution.
 - [ryanmrestivo/blue-team](https://github.com/ryanmrestivo/blue-team) - Some portable tools, some YARA, some Python, and a little bit of love.  Not all of these tools can be used in incident response.  Use PEs with caution.
 
 
