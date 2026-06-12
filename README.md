@@ -114,6 +114,7 @@
 - [notepad-plus-plus/wingup](https://github.com/notepad-plus-plus/wingup) - WinGup - Generic Updater for Windows
 - [FiveLeavesLeft/WyzeCameraLiveStream](https://github.com/FiveLeavesLeft/WyzeCameraLiveStream) - Hack to allow live streaming from wyze cameras to vlc or mpv on your desktop.
 - [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [rhboot/shim](https://github.com/rhboot/shim) - UEFI shim loader
 - [sebmillet/pkfile](https://github.com/sebmillet/pkfile) - 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -128,6 +129,7 @@
 
 ## C# # 
 
+- [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [Greedeks/GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [iandiv/Win11Tweaker](https://github.com/iandiv/Win11Tweaker) - Powerful Tool for Personalizing and Enhancing Windows 11
@@ -207,7 +209,6 @@
 - [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
 - [rbicelli/DesktopComposer](https://github.com/rbicelli/DesktopComposer) - Manage Start Menu and Desktop Shortcuts for Windows 10/Windows 2019 in Active Directory Environment
 - [LogExperts/LogExpert](https://github.com/LogExperts/LogExpert) - Windows tail program and log file analyzer.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
 - [sergiomarotco/USB-file_Stealer](https://github.com/sergiomarotco/USB-file_Stealer) - Simple program to steal private files from removable storages
@@ -480,6 +481,7 @@
 
 ## Others 
 
+- [elfordanson/windows_11_pro_product_key_activation](https://github.com/elfordanson/windows_11_pro_product_key_activation) - Activate Windows 11 Pro for free using CMD — no third-party tools required
 - [blkdevcon/Ebook-Resource-Collection](https://github.com/blkdevcon/Ebook-Resource-Collection) - My collection of Tech  E-Books, resources & cheatsheets
 - [blkdevcon/awesome-osint](https://github.com/blkdevcon/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [blkdevcon/PENTESTING-BIBLE](https://github.com/blkdevcon/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
