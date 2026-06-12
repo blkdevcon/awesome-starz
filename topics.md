@@ -1458,6 +1458,7 @@
 
 ## others 
 
+- [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [blkdevcon/Ebook-Resource-Collection](https://github.com/blkdevcon/Ebook-Resource-Collection) - My collection of Tech  E-Books, resources & cheatsheets
 - [blkdevcon/OSINT](https://github.com/blkdevcon/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [blkdevcon/osint_stuff_tool_collection](https://github.com/blkdevcon/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -2509,6 +2510,7 @@
 
 ## windows 
 
+- [elfordanson/windows_11_pro_product_key_activation](https://github.com/elfordanson/windows_11_pro_product_key_activation) - Activate Windows 11 Pro for free using CMD — no third-party tools required
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB) - A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
