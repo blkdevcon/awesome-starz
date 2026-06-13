@@ -190,7 +190,7 @@
 - [hellzerg/mint](https://github.com/hellzerg/mint) - A minimal app launcher residing in your taskbar
 - [hellzerg/indicium](https://github.com/hellzerg/indicium) - Portable, advanced system information utility
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-- [Port-Able/Port-Able-Suite](https://github.com/Port-Able/Port-Able-Suite) - :globe_with_meridians: Manager for portable applications
+- [Port-Able/Port-Able-Suite](https://github.com/Port-Able/Port-Able-Suite) - [ABANDONED] :globe_with_meridians: Manager for portable applications
 - [Port-Able/SilDev.PortalizerLib](https://github.com/Port-Able/SilDev.PortalizerLib) - [ABANDONED] :books: Si13n7 Dev.™ Portalizer Library
 - [unoplatform/Uno.WindowsCommunityToolkit](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolki
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
