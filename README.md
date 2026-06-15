@@ -1001,6 +1001,7 @@
 
 ## Visual Basic .NET 
 
+- [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The connected place for Windows system administration
 - [DrewNaylor/UXL-Launcher](https://github.com/DrewNaylor/UXL-Launcher) - An app launcher meant to launch Microsoft Office 2010, 2013, 2016, 2019 desktop software/apps, including ones from Office 365. Not associated with Microsoft.
 - [blkdevcon/PolicyPlus](https://github.com/blkdevcon/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
