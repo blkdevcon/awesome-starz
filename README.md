@@ -330,7 +330,6 @@
 
 ## HTML 
 
-- [blkdevcon/osint_stuff_tool_collection](https://github.com/blkdevcon/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [ChrisTitusTech/linux-book-publish](https://github.com/ChrisTitusTech/linux-book-publish) - The Linux book
 - [ThatTotallyRealMyth/WADComs.github.io](https://github.com/ThatTotallyRealMyth/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [codingforentrepreneurs/Cursor-Hello-World](https://github.com/codingforentrepreneurs/Cursor-Hello-World) - Learn Cursor basics to build and deploy an HTML website to the internet.
@@ -384,6 +383,7 @@
 
 ## JavaScript 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [blkdevcon/repo-list-generator](https://github.com/blkdevcon/repo-list-generator) - 📃 The GitHub action that generate repository list for user or organization.
 - [TheRealMrGamz/Bookmarklets](https://github.com/TheRealMrGamz/Bookmarklets) - A Bunch Of Cool Bookmarklets That Work At School!
 - [liamcottle/reticulum-meshchat](https://github.com/liamcottle/reticulum-meshchat) - A simple mesh network communications app powered by the Reticulum Network Stack.
@@ -422,7 +422,6 @@
 - [p1usminus/roomybookmarksredux](https://github.com/p1usminus/roomybookmarksredux) - Roomy Bookmarks Toolbar for Waterfox/Firefox
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [ncornette/Python-Markdown-Editor](https://github.com/ncornette/Python-Markdown-Editor) - Standalone editor for your markdown files
-- [blkdevcon/awesome-cheatsheets](https://github.com/blkdevcon/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [NationalSecurityAgency/MADCert](https://github.com/NationalSecurityAgency/MADCert) - Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.
 - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation
 - [dan-osull/calibre-web](https://github.com/dan-osull/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -451,7 +450,6 @@
 
 ## Jupyter Notebook 
 
-- [blkdevcon/Amazing-Python-Scripts](https://github.com/blkdevcon/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [garrettfoster13/DefaultCreds-cheat-sheet](https://github.com/garrettfoster13/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [codingforentrepreneurs/Smarter-Web-Scraping-with-Python](https://github.com/codingforentrepreneurs/Smarter-Web-Scraping-with-Python) - Leverage modern open-source tools to create better web scraping workflows.
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
@@ -481,10 +479,8 @@
 
 ## Others 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [elfordanson/windows_11_pro_product_key_activation](https://github.com/elfordanson/windows_11_pro_product_key_activation) - Activate Windows 11 Pro for free using CMD — no third-party tools required
-- [blkdevcon/Ebook-Resource-Collection](https://github.com/blkdevcon/Ebook-Resource-Collection) - My collection of Tech  E-Books, resources & cheatsheets
-- [blkdevcon/awesome-osint](https://github.com/blkdevcon/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [blkdevcon/PENTESTING-BIBLE](https://github.com/blkdevcon/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-](https://github.com/uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-) - 🎄 UAgain Shadow – Christmas Theme Pack (Bruce + Hack RFS + Desktop) I created a full custom Christmas theme set inspired by my channel style, UAgain Shadow, just in time for the holidays.
@@ -525,7 +521,6 @@
 - [kxzk/library](https://github.com/kxzk/library) - 📚 collection of various books and papers
 - [dipsec/Cheatsheets-1](https://github.com/dipsec/Cheatsheets-1) - Penetration Testing/Security Cheatsheets
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
-- [blkdevcon/Awesome-Hacking](https://github.com/blkdevcon/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [slorelee/PExplorer](https://github.com/slorelee/PExplorer) - a portable shell program(desktop, startmenu, taskbar, notifyarea, etc), whitch can run in Windows 7, 8, 8.1, 10, Windows Server 2008, 2012, 2016, 2019 and the Windows Preinstallation Environment(WinPE
 - [ukncsc/Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs) - This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These
 - [blkdevcon/awesome-starz](https://github.com/blkdevcon/awesome-starz) - GitHub Starred Repos List
@@ -537,7 +532,6 @@
 - [pamoroso/free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
 - [ahmedamsaleh/Free-DevOps-Books-1](https://github.com/ahmedamsaleh/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
-- [blkdevcon/AllTools](https://github.com/blkdevcon/AllTools) - All reasonably stable tools
 - [revolunet/awesome-stars](https://github.com/revolunet/awesome-stars) - A curated list of my GitHub stars!
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 - [zodiacon/AllTools](https://github.com/zodiacon/AllTools) - All reasonably stable tools
@@ -620,7 +614,7 @@
 
 ## PowerShell 
 
-- [blkdevcon/RedTeaming-Tactics-and-Techniques](https://github.com/blkdevcon/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 - [WinTweakers/WindowsToolbox-Auto](https://github.com/WinTweakers/WindowsToolbox-Auto) - WindowsToolbox, but completely automatic, intended for post-install purposes.
 - [wise-io/scripts](https://github.com/wise-io/scripts) - A repository of PowerShell scripts and functions that can be used by Managed Service Providers or Internal IT.
@@ -661,8 +655,6 @@
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 - [dfinke/Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist
-- [blkdevcon/awesome-powershell](https://github.com/blkdevcon/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-- [blkdevcon/red-team](https://github.com/blkdevcon/red-team) - Notes, red team materials, testing tools, etc.
 - [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
 - [bcurran3/ChocolateyPackages_CCR](https://github.com/bcurran3/ChocolateyPackages_CCR) - My published Chocolatey Community Repository packages
 - [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - Some of the PowerShell scripts which I'm referencing in the various posts on https://imab.dk
@@ -702,10 +694,8 @@
 
 ## Python 
 
-- [blkdevcon/OSINT](https://github.com/blkdevcon/OSINT) - Collections of tools and methods created to aid in OSINT collection
-- [blkdevcon/free-programming-books](https://github.com/blkdevcon/free-programming-books) - :books: Freely available programming books
-- [blkdevcon/python-cheatsheet](https://github.com/blkdevcon/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [blkdevcon/Awesome-Python-Scripts](https://github.com/blkdevcon/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
@@ -1003,7 +993,6 @@
 
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The connected place for Windows system administration
 - [DrewNaylor/UXL-Launcher](https://github.com/DrewNaylor/UXL-Launcher) - An app launcher meant to launch Microsoft Office 2010, 2013, 2016, 2019 desktop software/apps, including ones from Office 365. Not associated with Microsoft.
-- [blkdevcon/PolicyPlus](https://github.com/blkdevcon/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
 - [DrewNaylor/guinget](https://github.com/DrewNaylor/guinget) - Unofficial GUI for Microsoft's Windows Package Manager (winget). Kinda like Synaptic, but for Windows. Not associated with either Microsoft or the Synaptic project, and Microsoft does not endorse this
