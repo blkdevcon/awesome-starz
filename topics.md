@@ -1657,7 +1657,6 @@
 - [kxzk/library](https://github.com/kxzk/library) - 📚 collection of various books and papers
 - [dipsec/Cheatsheets-1](https://github.com/dipsec/Cheatsheets-1) - Penetration Testing/Security Cheatsheets
 - [freeload101/Python](https://github.com/freeload101/Python) - Various Python scripts
-- [freeload101/SCRIPTS](https://github.com/freeload101/SCRIPTS) - 
 - [realpython/python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
 - [davidbombal/red-python-scripts](https://github.com/davidbombal/red-python-scripts) - 
 - [slorelee/WIN10XPE_Archive](https://github.com/slorelee/WIN10XPE_Archive) - History of Changes in ChrisR's WIN10XPE project(http://theoven.org/index.php?topic=2421.0)
