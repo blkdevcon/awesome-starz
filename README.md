@@ -235,7 +235,7 @@
 - [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
 - [dannagle/Cryptoknife](https://github.com/dannagle/Cryptoknife) - All-in-one, portable, collection of general-purpose cryptography tools
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
-- [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A modern "Enigma" for OpenPGP. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.
+- [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A modern, cross-platform OpenPGP tool with a unique dual-engine core: switch freely between the battle-tested GnuPG and a modern, memory-safe Rust rPGP backend. It makes encryption, signing, and key m
 - [laurent22/appetizer](https://github.com/laurent22/appetizer) - Official repository for Appetizer, the open source application launcher, or dock, for Windows.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [likekabin/ForensicsTools_Kaspersky](https://github.com/likekabin/ForensicsTools_Kaspersky) - 
