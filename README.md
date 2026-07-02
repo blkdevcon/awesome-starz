@@ -482,6 +482,8 @@
 
 ## Others 
 
+- [msb-msb/awesome-local-ai](https://github.com/msb-msb/awesome-local-ai) - A curated list of resources for running AI locally on consumer hardware
+- [priyankgada/The-Complete-Practical-Certified-Ethical-Hacking-Course-in-English](https://github.com/priyankgada/The-Complete-Practical-Certified-Ethical-Hacking-Course-in-English) - Welcome this comprehensive course on Ethical Hacking! This course assumes you have NO prior knowledge in hacking and by the end of it you'll be able to hack systems like black-hat hackers and secure t
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -1023,7 +1025,7 @@
 ## Vue 
 
 - [clemcode/alpine-theme](https://github.com/clemcode/alpine-theme) - The minimalist blog theme, powered by Nuxt & Markdown.
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 
 ## YARA 
