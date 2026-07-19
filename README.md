@@ -88,7 +88,6 @@
 - [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [ITCMD/DISM-Manager](https://github.com/ITCMD/DISM-Manager) - Manage Dism and WinPE with this program!
-- [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder - create your WinPE bootable Images easily, including custom scripts and drivers.
 - [gdiaz384/AriaDeploy](https://github.com/gdiaz384/AriaDeploy) - Automated and Scalable Windows Deployment Tool
 - [gdiaz384/ADKTools](https://github.com/gdiaz384/ADKTools) - ADKTools provides a set of windows scripts to help manage ADKs, WIM images and WinPE.
 - [SegoCode/Ramonware](https://github.com/SegoCode/Ramonware) - AES Ransomware in batch
@@ -148,7 +147,7 @@
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
 - [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A GUI app for creating symlinks, based on mklink
-- [Si13n7/ImageToIcon](https://github.com/Si13n7/ImageToIcon) - :rowboat: Convert your image to ICO format
+- [koryboc/ImageToIcon](https://github.com/koryboc/ImageToIcon) - :rowboat: Convert any image to ICO format
 - [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
 - [Zaczero/Tor4NET](https://github.com/Zaczero/Tor4NET) - 🍝 An all-in-one solution to fulfill your .NET dark web needs
 - [Zaczero/DNSChanger](https://github.com/Zaczero/DNSChanger) - 🔧 The ultimate Windows DNS changer tool (with DNSCrypt)
@@ -707,6 +706,7 @@
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [stknohg/AdmxPolicy](https://github.com/stknohg/AdmxPolicy) - Get Group Policy information from ADMX files.
 - [0x0v1/Audix](https://github.com/0x0v1/Audix) - Audix is a PowerShell tool to quickly configure the Windows Event Audit Policies for security monitoring
+- [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - Build customized Windows PE boot media (ISO/USB) with drivers, scripts, updates, and optional packages ⚡simple PowerShell workflow.
 - [michaeloyer/windows-setup](https://github.com/michaeloyer/windows-setup) - The Repo to keep track of changes to my Windows Setup. Scripts, Registry Edits, custom Terminal Commands etc.
 - [ReneNyffenegger/about-Windows-Registry](https://github.com/ReneNyffenegger/about-Windows-Registry) - Windows Registry
 - [GChuf/TechNet-Gallery](https://github.com/GChuf/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
@@ -717,6 +717,7 @@
 
 ## Python 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 - [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo) and automatic report generation.
