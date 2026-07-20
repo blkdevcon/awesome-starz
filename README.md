@@ -489,6 +489,8 @@
 
 ## Others 
 
+- [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
+- [0x29aNull/WiFi-Pineapple](https://github.com/0x29aNull/WiFi-Pineapple) - Homemade WiFi Pineapple for under $50
 - [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel) - The ESP32 Marauder Double Barrel includes two ESP32 chipsets, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone device.
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
