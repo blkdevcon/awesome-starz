@@ -220,6 +220,7 @@
 
 ## C++ 
 
+- [lozaning/The_Wifydra](https://github.com/lozaning/The_Wifydra) - Multi-headed 802.11 panopticon
 - [namazso/MagicSigner](https://github.com/namazso/MagicSigner) - Signtool for expired certificates
 - [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE
 - [boatbod/op25](https://github.com/boatbod/op25) - Fork of osmocom OP25 by boatbod
@@ -740,7 +741,7 @@
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
@@ -933,6 +934,7 @@
 
 ## Shell 
 
+- [arpitn30/EBooks](https://github.com/arpitn30/EBooks) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB) - A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.
 - [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking 
