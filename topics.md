@@ -1654,6 +1654,7 @@
 
 ## others 
 
+- [tracelabs/tlosint-vm](https://github.com/tracelabs/tlosint-vm) - Trace Labs OSINT VM
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - EDR Lab for Experimentation Purposes
 - [scriptzteam/WinRAR-Unlimited](https://github.com/scriptzteam/WinRAR-Unlimited) - Unlimited license, owned WinRAR
 - [lozaning/The_Wifydra](https://github.com/lozaning/The_Wifydra) - Multi-headed 802.11 panopticon
