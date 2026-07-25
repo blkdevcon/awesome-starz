@@ -937,6 +937,7 @@
 
 ## Shell 
 
+- [tracelabs/tlosint-vm](https://github.com/tracelabs/tlosint-vm) - Trace Labs OSINT VM
 - [arpitn30/EBooks](https://github.com/arpitn30/EBooks) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB) - A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.
