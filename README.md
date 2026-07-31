@@ -21,6 +21,7 @@
 - [GSC](#gsc)
 - [Go](#go)
 - [HTML](#html)
+- [Hosts File](#hosts-file)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -369,6 +370,10 @@
 - [cloud-gov/federalist.18f.gov](https://github.com/cloud-gov/federalist.18f.gov) - Homepage for the Federalist platform
 - [da667/Training_Materials_Bookmarks](https://github.com/da667/Training_Materials_Bookmarks) - Learn you a book for some infosec good
 - [P3t3rp4rk3r/My_Dirty_Scripts](https://github.com/P3t3rp4rk3r/My_Dirty_Scripts) - My Dirty Scriptss ..!!!!! Pentest , OSINT , Python ,, Trainings
+
+## Hosts File 
+
+- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based
 
 ## Inno Setup 
 
@@ -919,7 +924,7 @@
 ## Rust 
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -952,7 +957,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [devilbox/cert-gen](https://github.com/devilbox/cert-gen) - Generate CA and self-signed SSL certificates usable in your browser for local development.
 - [davidmarble/pywin](https://github.com/davidmarble/pywin) - Lightweight python 2.5-3.3 launcher and switcher for Windows command line and MSYS/MINGW32
-- [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [HclX/WyzeHacks](https://github.com/HclX/WyzeHacks) - Hacks I discovered allowing Wyze camera owners to do customizations
