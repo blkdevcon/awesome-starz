@@ -497,6 +497,7 @@
 
 ## Others 
 
+- [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G) - 1 * ESP32 chipset & 1 * BW16 chipset, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone Marauder device.
 - [scriptzteam/WinRAR-Unlimited](https://github.com/scriptzteam/WinRAR-Unlimited) - Unlimited license, owned WinRAR
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
 - [0x29aNull/WiFi-Pineapple](https://github.com/0x29aNull/WiFi-Pineapple) - Homemade WiFi Pineapple for under $50
