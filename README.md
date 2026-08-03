@@ -71,7 +71,6 @@
 - [TheBeardofKnowledge/Scripts-from-my-videos](https://github.com/TheBeardofKnowledge/Scripts-from-my-videos) - Scripts shared from my videos
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) - Easily configure Microsoft Edge, the way you want it!
 - [MansourM/ez-dns-changer.bat](https://github.com/MansourM/ez-dns-changer.bat) - Easy (EZ) DNS changer, A simple windows batch script file to change windows dns servers
-- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Kawwabi/TerabyteTweaker](https://github.com/Kawwabi/TerabyteTweaker) - Terabyte Tweaker is a program written in batch that allows your PC to run at better speeds, it transforms a "Bad PC" onto a "Medium PC", and turns a "Medium PC" into a monster.
@@ -232,6 +231,7 @@
 - [pistacheio/pistache](https://github.com/pistacheio/pistache) - A high-performance REST toolkit written in C++
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [vanjac/chromafiler](https://github.com/vanjac/chromafiler) - Column-based file manager for Windows
