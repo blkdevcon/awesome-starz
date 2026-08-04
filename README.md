@@ -381,6 +381,7 @@
 
 ## Java 
 
+- [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [jbtronics/Recolldroid](https://github.com/jbtronics/Recolldroid) - A android app for comfortable use of Recoll-WebUI on android.
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
