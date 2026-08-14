@@ -1206,7 +1206,7 @@
 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
-- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
+- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -1549,7 +1549,6 @@
 
 ## no-code 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [olliethedev/ui-builder](https://github.com/olliethedev/ui-builder) - A React component that provides a no-code, visual way to create UIs, compatible with shadcn/ui and custom components.
 
 ## node 
@@ -1635,7 +1634,7 @@
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [oryon-osint/cyber-intelligence-toolkit](https://github.com/oryon-osint/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
-- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
+- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
 - [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
 - [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - 🕵🏽‍♀️ Curated list of OSINT tools and online services to find social media accounts by username
@@ -1657,13 +1656,14 @@
 ## osint-tools 
 
 - [oryon-osint/cyber-intelligence-toolkit](https://github.com/oryon-osint/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
-- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
+- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - 🕵🏽‍♀️ Curated list of OSINT tools and online services to find social media accounts by username
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 
 ## others 
 
+- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G) - 1 * ESP32 chipset & 1 * BW16 chipset, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone Marauder device.
 - [tracelabs/tlosint-vm](https://github.com/tracelabs/tlosint-vm) - Trace Labs OSINT VM
