@@ -220,6 +220,7 @@
 
 ## C++ 
 
+- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - EDR Lab for Experimentation Purposes
 - [lozaning/The_Wifydra](https://github.com/lozaning/The_Wifydra) - Multi-headed 802.11 panopticon
 - [namazso/MagicSigner](https://github.com/namazso/MagicSigner) - Signtool for expired certificates
@@ -350,6 +351,7 @@
 - [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [jimbrig/devtools-snippets](https://github.com/jimbrig/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
+- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
@@ -531,7 +533,6 @@
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [gemilepus/Toolbox](https://github.com/gemilepus/Toolbox) - Toolbox for my work
 - [oryon-osint/cyber-intelligence-toolkit](https://github.com/oryon-osint/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
-- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH Exam and Lab Reporting / Note-Taking Tool
 - [ieshreya/obsidian-cheat-sheet](https://github.com/ieshreya/obsidian-cheat-sheet) - all the basic cheatsheets you need to get started to make notes in obsidian.
 - [seburbandev/obsidian-dataview-cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) - This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.
