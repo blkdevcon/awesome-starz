@@ -1673,6 +1673,7 @@
 
 ## others 
 
+- [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G) - 1 * ESP32 chipset & 1 * BW16 chipset, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone Marauder device.
