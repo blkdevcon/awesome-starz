@@ -500,6 +500,7 @@
 
 ## Others 
 
+- [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
 - [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel-5G) - 1 * ESP32 chipset & 1 * BW16 chipset, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone Marauder device.
 - [scriptzteam/WinRAR-Unlimited](https://github.com/scriptzteam/WinRAR-Unlimited) - Unlimited license, owned WinRAR
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
@@ -993,6 +994,7 @@
 
 ## TypeScript 
 
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
