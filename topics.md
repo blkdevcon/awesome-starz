@@ -254,7 +254,7 @@
 
 ## agent-skills 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -270,6 +270,7 @@
 
 ## ai 
 
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 - [penecho/penecho](https://github.com/penecho/penecho) - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -302,7 +303,6 @@
 ## ai-agents 
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.
 - [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) - shadcn/ui, but for building agents. 🤖
@@ -500,6 +500,8 @@
 
 ## bugbounty 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [X-Vector/X-RSA](https://github.com/X-Vector/X-RSA) - Cryptography Tool | RSA Attacks
@@ -589,6 +591,7 @@
 
 ## claude 
 
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 - [penecho/penecho](https://github.com/penecho/penecho) - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -862,7 +865,7 @@
 
 ## dsh-plugin 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 
 ## education 
 
@@ -990,6 +993,7 @@
 
 ## go 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -1067,6 +1071,9 @@
 
 ## hacking 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for an
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
@@ -1115,6 +1122,7 @@
 
 ## hacking-tool 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
@@ -1408,6 +1416,7 @@
 
 ## llm 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [thomastschinkel/prompt-os](https://github.com/thomastschinkel/prompt-os) - A desktop AI agent that controls your local machine — runs commands, manages files, executes code, browses the web autonomously etc. Supports Claude, GPT, Gemini, Llama, DeepSeek, and more. .exe avail
@@ -1635,6 +1644,8 @@
 
 ## osint 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -2090,6 +2101,9 @@
 
 ## penetration-testing 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for an
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
@@ -2122,6 +2136,8 @@
 
 ## pentesting 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
 - [garrettfoster13/aced](https://github.com/garrettfoster13/aced) - 
@@ -2478,6 +2494,8 @@
 
 ## security 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -2550,6 +2568,8 @@
 
 ## security-tools 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH Exam and Lab Reporting / Note-Taking Tool
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
