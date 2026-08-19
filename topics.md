@@ -1684,6 +1684,7 @@
 
 ## others 
 
+- [mflr0/Katoolin3](https://github.com/mflr0/Katoolin3) - Automatically install all Kali linux tools
 - [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
