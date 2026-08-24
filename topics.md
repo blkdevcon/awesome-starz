@@ -170,6 +170,7 @@
 - [perl](#perl)
 - [phishing](#phishing)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -1715,7 +1716,6 @@
 - [namazso/MagicSigner](https://github.com/namazso/MagicSigner) - Signtool for expired certificates
 - [qt-creator/qt-creator](https://github.com/qt-creator/qt-creator) - A cross-platform Qt IDE
 - [tenfoldmarc/llm-council-skill](https://github.com/tenfoldmarc/llm-council-skill) - 
-- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
@@ -2185,6 +2185,10 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
 - [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
+
+## portfolio 
+
+- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 
 ## postgresql 
 
@@ -2845,7 +2849,7 @@
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) - Easily configure Microsoft Edge, the way you want it!
-- [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A GUI app for creating symlinks, based on mklink
+- [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A Windows GUI app for creating symlinks, based on mklink
 - [Devolutions/powershell-universal-gallery](https://github.com/Devolutions/powershell-universal-gallery) - Public gallery of modules for PowerShell Universal
 - [koryboc/ImageToIcon](https://github.com/koryboc/ImageToIcon) - :rowboat: Convert any image to ICO format
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
