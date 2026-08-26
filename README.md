@@ -352,7 +352,7 @@
 - [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [jimbrig/devtools-snippets](https://github.com/jimbrig/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
-- [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
+- [osint-shifu/querytool](https://github.com/osint-shifu/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
@@ -534,7 +534,7 @@
 - [spekulatius/infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [gemilepus/Toolbox](https://github.com/gemilepus/Toolbox) - Toolbox for my work
-- [oryon-osint/cyber-intelligence-toolkit](https://github.com/oryon-osint/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
+- [osint-shifu/cyber-intelligence-toolkit](https://github.com/osint-shifu/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH Exam and Lab Reporting / Note-Taking Tool
 - [ieshreya/obsidian-cheat-sheet](https://github.com/ieshreya/obsidian-cheat-sheet) - all the basic cheatsheets you need to get started to make notes in obsidian.
 - [seburbandev/obsidian-dataview-cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) - This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.
