@@ -1787,7 +1787,7 @@
 - [ave9858/mvs-dump](https://github.com/ave9858/mvs-dump) - Scripts for My Visual Studio subscriber downloads file metadata dumps
 - [awuctl/licensing-stuff](https://github.com/awuctl/licensing-stuff) - Collection of tools for playing with Windows licensing stuff
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
-- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
+- [dankunex/DFXWinTweaks](https://github.com/dankunex/DFXWinTweaks) - Tweak your OS easily
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - SyncBackPro second chance
@@ -2312,7 +2312,7 @@
 ## python 
 
 - [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者.
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [thomastschinkel/prompt-os](https://github.com/thomastschinkel/prompt-os) - A desktop AI agent that controls your local machine — runs commands, manages files, executes code, browses the web autonomously etc. Supports Claude, GPT, Gemini, Llama, DeepSeek, and more. .exe avail
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
@@ -2397,7 +2397,7 @@
 
 ## qt 
 
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者.
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 
@@ -2418,7 +2418,7 @@
 
 ## react 
 
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者.
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
@@ -2639,7 +2639,7 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者.
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 - [James231/Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
 - [dhhruv/fleck-pro](https://github.com/dhhruv/fleck-pro) - Prototype of Data Hiding Software for your personal files in your Laptop/PC. (Windows OS)
 
