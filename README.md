@@ -506,6 +506,7 @@
 - [scriptzteam/WinRAR-Unlimited](https://github.com/scriptzteam/WinRAR-Unlimited) - Unlimited license, owned WinRAR
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
 - [0x29aNull/WiFi-Pineapple](https://github.com/0x29aNull/WiFi-Pineapple) - Homemade WiFi Pineapple for under $50
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel) - The ESP32 Marauder Double Barrel includes two ESP32 chipsets, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone device.
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -743,7 +744,7 @@
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 - [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者.
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [thomastschinkel/prompt-os](https://github.com/thomastschinkel/prompt-os) - A desktop AI agent that controls your local machine — runs commands, manages files, executes code, browses the web autonomously etc. Supports Claude, GPT, Gemini, Llama, DeepSeek, and more. .exe avail
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.
@@ -1003,7 +1004,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) - shadcn/ui, but for building agents. 🤖
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -1058,7 +1058,7 @@
 
 ## VBScript 
 
-- [ivandfx/DFXWinTweaks](https://github.com/ivandfx/DFXWinTweaks) - Tweak your OS easily
+- [dankunex/DFXWinTweaks](https://github.com/dankunex/DFXWinTweaks) - Tweak your OS easily
 - [rbicelli/example-admx-template](https://github.com/rbicelli/example-admx-template) - ADMX template writing with working example
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
