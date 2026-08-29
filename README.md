@@ -736,7 +736,7 @@
 
 - [mflr0/Katoolin3](https://github.com/mflr0/Katoolin3) - Automatically install all Kali linux tools
 - [CodingRanjith/hackingtoolkit](https://github.com/CodingRanjith/hackingtoolkit) - ALL IN ONE Hacking Tool For Hackers, Penetration Tester and Cybersecurity. New Version Beginner to Advanced Tool. This Tool is made for educational purpose only ! Author will not be responsible for an
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) - A comprehensive collection of 19 Claude Code Skills for cybersecurity professionals ,covering offensive security, defensive operations, reverse engineering, threat hunting, CSOC automation, and more
 - [scriptzteam/GitHub-Trending](https://github.com/scriptzteam/GitHub-Trending) - See what the GitHub community is most excited about.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
