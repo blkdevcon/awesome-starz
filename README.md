@@ -751,7 +751,7 @@
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
 - [alishahid74/kali-gpt](https://github.com/alishahid74/kali-gpt) - Whether you're a seasoned expert or a beginner, Kali GPT helps streamline your workflow, making penetration testing more efficient and accessible.
 - [SudoHopeX/KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible.
-- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
+- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models
 - [Bitshank-2338/clicky-windows](https://github.com/Bitshank-2338/clicky-windows) - Free offline AI assistant for Windows — reads your screen, hears your question, speaks the answer. No API key, runs locally with Ollama.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
