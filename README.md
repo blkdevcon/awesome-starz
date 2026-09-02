@@ -1064,7 +1064,6 @@
 
 ## Visual Basic 
 
-- [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
 - [Ehryk/ContextMenuTools](https://github.com/Ehryk/ContextMenuTools) - This is a collection of helpful context menu items, including "Start PowerShell Here" and "Git Bash Here". What the installers do is add these and other selected options to your Windows right-click me
 - [mohmmadyahya010101-zz/Jigsaw-Ransomware](https://github.com/mohmmadyahya010101-zz/Jigsaw-Ransomware) - Source Code of Jigsaw Ransomware Created in Vb.Net
 
@@ -1075,6 +1074,7 @@
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
 - [DrewNaylor/guinget](https://github.com/DrewNaylor/guinget) - Unofficial GUI for Microsoft's Windows Package Manager (winget). Kinda like Synaptic, but for Windows. Not associated with either Microsoft or the Synaptic project, and Microsoft does not endorse this
+- [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
 - [TMAFE/TenStartMenuFixer](https://github.com/TMAFE/TenStartMenuFixer) - Simple application that restores the Windows 10 start menu on Windows 11. Can be toggled on or off.
 - [Fleex255/PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 
