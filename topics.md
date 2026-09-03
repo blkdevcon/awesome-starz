@@ -2007,7 +2007,7 @@
 - [ktneely/Tr3Secure](https://github.com/ktneely/Tr3Secure) - Batch scripts to capture volatile and log information from a target system
 - [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) - This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty.
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
-- [SegoCode/Ramonware](https://github.com/SegoCode/Ramonware) - AES Ransomware in batch
+- [SegoCode/RamonWare](https://github.com/SegoCode/RamonWare) - AES Ransomware in batch
 - [tehw0lf/android_aircrack](https://github.com/tehw0lf/android_aircrack) - Aircrack-ng command-line for Android. Binaries & source.
 - [vavkamil/dkimsc4n](https://github.com/vavkamil/dkimsc4n) - Asynchronous wordlist based DKIM scanner
 - [vavkamil/xss2png](https://github.com/vavkamil/xss2png) - PNG IDAT chunks XSS payload generator
