@@ -674,7 +674,7 @@
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
@@ -1531,7 +1531,7 @@
 ## monitoring 
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -1574,14 +1574,14 @@
 
 ## node 
 
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 
 ## nodejs 
 
 - [penecho/penecho](https://github.com/penecho/penecho) - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
