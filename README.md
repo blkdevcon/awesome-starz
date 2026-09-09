@@ -858,7 +858,6 @@
 - [Telefonica/ibombshell](https://github.com/Telefonica/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [projectboot/EternalPulse](https://github.com/projectboot/EternalPulse) - EternalBlue && Doublepulsar
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [X-Vector/X-RSA](https://github.com/X-Vector/X-RSA) - Cryptography Tool | RSA Attacks
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
