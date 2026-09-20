@@ -352,7 +352,7 @@
 - [bitubhaiyt/VirtualMaster](https://github.com/bitubhaiyt/VirtualMaster) - Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 - [jimbrig/devtools-snippets](https://github.com/jimbrig/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
-- [osint-shifu/querytool](https://github.com/osint-shifu/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
+- [osintshifu/querytool](https://github.com/osintshifu/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -531,7 +531,7 @@
 - [spekulatius/infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [gemilepus/Toolbox](https://github.com/gemilepus/Toolbox) - Toolbox for my work
-- [osint-shifu/cyber-intelligence-toolkit](https://github.com/osint-shifu/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
+- [osintshifu/cyber-intelligence-toolkit](https://github.com/osintshifu/cyber-intelligence-toolkit) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH Exam and Lab Reporting / Note-Taking Tool
 - [ieshreya/obsidian-cheat-sheet](https://github.com/ieshreya/obsidian-cheat-sheet) - all the basic cheatsheets you need to get started to make notes in obsidian.
 - [seburbandev/obsidian-dataview-cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) - This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.
@@ -742,7 +742,7 @@
 - [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) - Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [thomastschinkel/prompt-os](https://github.com/thomastschinkel/prompt-os) - A desktop AI agent that controls your local machine — runs commands, manages files, executes code, browses the web autonomously etc. Supports Claude, GPT, Gemini, Llama, DeepSeek, and more. .exe avail
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
