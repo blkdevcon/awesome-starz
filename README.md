@@ -518,7 +518,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [elfordanson/windows_11_pro_product_key_activation](https://github.com/elfordanson/windows_11_pro_product_key_activation) - Activate Windows 11 Pro for free using CMD — no third-party tools required
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-](https://github.com/uagainshadow/-UAgain-Shadow-Christmas-Theme-Pack-Bruce-Hack-RFS-Desktop-) - 🎄 UAgain Shadow – Christmas Theme Pack (Bruce + Hack RFS + Desktop) I created a full custom Christmas theme set inspired by my channel style, UAgain Shadow, just in time for the holidays.
 - [hackermondev/hackermondev](https://github.com/hackermondev/hackermondev) - 
 - [nicsure/TD-H8-Engineering](https://github.com/nicsure/TD-H8-Engineering) - Experimentation with the TIDRADIO TD-H8
