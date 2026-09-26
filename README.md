@@ -574,7 +574,6 @@
 - [SilverAzide/Gadgets](https://github.com/SilverAzide/Gadgets) - Gadgets for Rainmeter
 - [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources) - Collection of online security resources
 - [Port-Able/Port-Able-Suite](https://github.com/Port-Able/Port-Able-Suite) - [ABANDONED] :globe_with_meridians: Manager for portable applications
-- [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [EnnoxHD/windows-registry](https://github.com/EnnoxHD/windows-registry) - Just some useful Registry Stuff.
