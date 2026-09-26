@@ -2279,7 +2279,6 @@
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-- [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 
