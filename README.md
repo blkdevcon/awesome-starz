@@ -151,7 +151,6 @@
 - [Zaczero/Tor4NET](https://github.com/Zaczero/Tor4NET) - 🍝 An all-in-one solution to fulfill your .NET dark web needs
 - [Zaczero/DNSChanger](https://github.com/Zaczero/DNSChanger) - 🔧 The ultimate Windows DNS changer tool (with DNSCrypt)
 - [devs-krd/permadelete](https://github.com/devs-krd/permadelete) - Permanently shreds files, easily.
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [Empyreal96/MarkdownUWP](https://github.com/Empyreal96/MarkdownUWP) - A simple Markdown and General text  editor for Windows 10 Desktop and Mobile. Can also be used as a general text editor
 - [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) - Scriptboxie allows you to effortlessly manage and create scripts. Can be used to streamline repetitive and time-consuming tasks.
@@ -482,6 +481,7 @@
 
 - [T31n/Geto](https://github.com/T31n/Geto) - Apply device settings to your apps.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
 
 ## Lua 
