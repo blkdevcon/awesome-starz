@@ -144,7 +144,7 @@
 - [thebookisclosed/StartMenuCompanionSample](https://github.com/thebookisclosed/StartMenuCompanionSample) - Starter kit for building your own Start Menu Companion
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy
 - [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A Windows GUI app for creating symbolic links without using mklink directly
 - [koryboc/ImageToIcon](https://github.com/koryboc/ImageToIcon) - :rowboat: Convert any image to ICO format
 - [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
@@ -1033,7 +1033,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [Nashex/gpt4-playground](https://github.com/Nashex/gpt4-playground) - Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
