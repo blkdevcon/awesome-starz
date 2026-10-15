@@ -27,9 +27,9 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Lua](#lua)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -482,10 +482,6 @@
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
 
-## Lua 
-
-- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
-
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -493,6 +489,10 @@
 ## NSIS 
 
 - [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
+
+## Nix 
+
+- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 
 ## Others 
 
