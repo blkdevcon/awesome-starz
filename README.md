@@ -29,7 +29,6 @@
 - [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
-- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -479,7 +478,7 @@
 
 - [T31n/Geto](https://github.com/T31n/Geto) - Apply device settings to your apps.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
 
 ## Markdown 
@@ -489,10 +488,6 @@
 ## NSIS 
 
 - [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
-
-## Nix 
-
-- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 
 ## Others 
 
@@ -529,7 +524,7 @@
 - [spekulatius/infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
 - [Qazeer/InfoSec-Notes](https://github.com/Qazeer/InfoSec-Notes) - InfoSec Notes
 - [gemilepus/Toolbox](https://github.com/gemilepus/Toolbox) - Toolbox for my work
-- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
+- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
 - [Syslifters/OffSec-Reporting](https://github.com/Syslifters/OffSec-Reporting) - Offensive Security OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH Exam and Lab Reporting / Note-Taking Tool
 - [ieshreya/obsidian-cheat-sheet](https://github.com/ieshreya/obsidian-cheat-sheet) - all the basic cheatsheets you need to get started to make notes in obsidian.
 - [seburbandev/obsidian-dataview-cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet) - This cheatsheet provides a handy reference guide for writing powerful queries using the dataview plugin in Obsidian.
@@ -544,8 +539,6 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
 - [gemilepus/Awesome-Hacking](https://github.com/gemilepus/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-- [scriptsandthings/cheatsheets-1](https://github.com/scriptsandthings/cheatsheets-1) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
-- [scriptsandthings/awesome-command-line-apps](https://github.com/scriptsandthings/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) - This repo contains notes and references for the CBROPS 200-201 Exam. Each directory contains a quick refernece PDF for key topics & terms from that chapter of the official certification guide.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course](https://github.com/PacktPublishing/CompTIA-Security-Certification-SY0-601-The-Total-Course) - CompTIA Security+ Certification SY0-601: The Total Course, by Packt Publishing
@@ -803,6 +796,7 @@
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
+- [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 - [freeload101/Python](https://github.com/freeload101/Python) - Various Python scripts
