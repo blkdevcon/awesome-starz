@@ -579,7 +579,7 @@
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [hensm/mullvad-proxy](https://github.com/hensm/mullvad-proxy) - A browser extension for Mullvad SOCKS5 proxies.
 - [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager and its forks
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
 
 ## chrome-extension 
@@ -919,7 +919,7 @@
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [hensm/mullvad-proxy](https://github.com/hensm/mullvad-proxy) - A browser extension for Mullvad SOCKS5 proxies.
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [p1usminus/roomybookmarksredux](https://github.com/p1usminus/roomybookmarksredux) - Roomy Bookmarks Toolbar for Waterfox/Firefox
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 
@@ -1269,7 +1269,6 @@
 
 ## java 
 
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [SohanChy/Lipi](https://github.com/SohanChy/Lipi) - A simple static blog generator.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 
@@ -1394,7 +1393,7 @@
 - [koryboc/ImageToIcon](https://github.com/koryboc/ImageToIcon) - :rowboat: Convert any image to ICO format
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
@@ -1486,7 +1485,7 @@
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
-- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
+- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
 - [clemcode/alpine-theme](https://github.com/clemcode/alpine-theme) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [Empyreal96/MarkdownUWP](https://github.com/Empyreal96/MarkdownUWP) - A simple Markdown and General text  editor for Windows 10 Desktop and Mobile. Can also be used as a general text editor
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
@@ -1666,7 +1665,7 @@
 - [ninoseki/mihari](https://github.com/ninoseki/mihari) - A query aggregator for OSINT based threat hunting
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
-- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
+- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
 - [osintshifu/querytool](https://github.com/osintshifu/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
 - [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
@@ -1688,7 +1687,7 @@
 
 ## osint-tools 
 
-- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Curated manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
+- [osintshifu/osint-tradecraft](https://github.com/osintshifu/osint-tradecraft) - Manuals, playbooks, and checklists for OSINT, OPSEC, cyber security, and digital investigations
 - [osintshifu/querytool](https://github.com/osintshifu/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - 🕵🏽‍♀️ Curated list of OSINT tools and online services to find social media accounts by username
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -1844,8 +1843,6 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) - A react-native component library that implements the Fluent Design System.
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
-- [scriptsandthings/cheatsheets-1](https://github.com/scriptsandthings/cheatsheets-1) - Quick and dirty (read: effective) administration, including some rather obscure pieces of information.
-- [scriptsandthings/awesome-command-line-apps](https://github.com/scriptsandthings/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
 - [mikecel79/RetroPie-Metadata-Editor](https://github.com/mikecel79/RetroPie-Metadata-Editor) - View an edit the metadata of a Retropie Installation.  This is an upload of the last version of RME that was available on CodePlex.
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo) - Windows 10 Live Information viewer
@@ -2863,7 +2860,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 - [vanjac/chromafiler](https://github.com/vanjac/chromafiler) - Column-based file manager for Windows
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [kacos2000/MFT_Record_Viewer](https://github.com/kacos2000/MFT_Record_Viewer) - $MFT Record Viewer
