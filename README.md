@@ -236,7 +236,7 @@
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - PDF4QT is an open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF engine.
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.
 - [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is an application to manage catalogs of disks and files to search and get statistics.
 - [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
 - [dannagle/Cryptoknife](https://github.com/dannagle/Cryptoknife) - All-in-one, portable, collection of general-purpose cryptography tools
