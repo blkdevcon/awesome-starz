@@ -236,6 +236,7 @@
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - PDF4QT is an open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF engine.
 - [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.
 - [StephaneCouturier/Katalog](https://github.com/StephaneCouturier/Katalog) - Katalog is an application to manage catalogs of disks and files to search and get statistics.
 - [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
@@ -796,6 +797,7 @@
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [noamraph/dreampie](https://github.com/noamraph/dreampie) - DreamPie - The Python shell you've always dreamed about!
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [NickSeagull/dotfiles](https://github.com/NickSeagull/dotfiles) - 
 - [uosint-project/uosint](https://github.com/uosint-project/uosint) - This tool will help you to find the information of USERNAME. Before there are many tools that just show that the USERNAME is used on that website but they don't show Name, Phone_Number, Profile Photo,
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
