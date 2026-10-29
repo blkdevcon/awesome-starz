@@ -111,7 +111,6 @@
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
 - [patrickpr/YAOG](https://github.com/patrickpr/YAOG) - Yet Another Openssl GUI : Qt based openssl GUI to create CSR, certificates, keys (RSA / DSA / EC)
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools) - The source repository for the Trusted Platform Module (TPM2.0) tools
 - [notepad-plus-plus/wingup](https://github.com/notepad-plus-plus/wingup) - WinGup - Generic Updater for Windows
 - [FiveLeavesLeft/WyzeCameraLiveStream](https://github.com/FiveLeavesLeft/WyzeCameraLiveStream) - Hack to allow live streaming from wyze cameras to vlc or mpv on your desktop.
@@ -253,6 +252,7 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [stefankueng/tools](https://github.com/stefankueng/tools) - a collection of useful tools, including SKTimeStamp and StExBar
 - [stefankueng/CryptSync](https://github.com/stefankueng/CryptSync) - CryptSync is a small utility that synchronizes two folders while encrypting the contents in one folder. That means one of the two folders has all files unencrypted (the files you work with) and the ot
 - [stefankueng/grepWin](https://github.com/stefankueng/grepWin) - A powerful and fast search tool using regular expressions
@@ -461,6 +461,7 @@
 - [csev/py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [Vulnogram/Vulnogram](https://github.com/Vulnogram/Vulnogram) - Vulnogram is the tool for reserving, managing, and publishing CVEs. Get started at vulnogram.org or deploy Docker edition for full enterprise features.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [frangoteam/FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [ninjhacks/gsmevil2](https://github.com/ninjhacks/gsmevil2) - GsmEvil 2
 - [OWASP/SecureTea-Project](https://github.com/OWASP/SecureTea-Project) - The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices)
@@ -1043,7 +1044,6 @@
 - [difranca/difranca.github.io](https://github.com/difranca/difranca.github.io) - My profile page and learning notes 📚
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [frangoteam/FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## VBScript 
