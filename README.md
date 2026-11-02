@@ -27,6 +27,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
 - [Others](#others)
@@ -66,6 +67,7 @@
 
 ## Batchfile 
 
+- [Mohabdo21/Windows-Repair-Tool](https://github.com/Mohabdo21/Windows-Repair-Tool) - Interactive Windows system repair and maintenance tool providing automated diagnostics, file system checks, and Windows Update troubleshooting through a user-friendly command-line interface.
 - [TheBeardofKnowledge/Scripts-from-my-videos](https://github.com/TheBeardofKnowledge/Scripts-from-my-videos) - Scripts shared from my videos
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) - Easily configure Microsoft Edge, the way you want it!
 - [MansourM/ez-dns-changer.bat](https://github.com/MansourM/ez-dns-changer.bat) - Easy (EZ) DNS changer, A simple windows batch script file to change windows dns servers
@@ -351,7 +353,6 @@
 - [osintshifu/querytool](https://github.com/osintshifu/querytool) - A local-first, standalone OSINT query tool for filtering sources and opening targeted searches.
 - [jscher2000/Firefox-File-Utilities](https://github.com/jscher2000/Firefox-File-Utilities) - Mozilla LZ4 File Decryption and Mining Tools
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Samsar4/CompTIA-Security-SY0-501-Study-Guide](https://github.com/Samsar4/CompTIA-Security-SY0-501-Study-Guide) - Study Guide for CompTIA Security+ SY0 501 exam
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
@@ -480,6 +481,10 @@
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader since 2013
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
+
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Markdown 
 
@@ -703,7 +708,7 @@
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [AveYo/Compressed2TXT](https://github.com/AveYo/Compressed2TXT) - File(s)/Folder(s) "Send to" menu .bat ascii encoder with optional password and makecab lzx compression
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
