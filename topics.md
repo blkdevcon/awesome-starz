@@ -13,6 +13,7 @@
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
@@ -348,6 +349,11 @@
 - [unoplatform/Uno.WindowsCommunityToolkit](https://github.com/unoplatform/Uno.WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolki
 - [hahwul/droid-hunter](https://github.com/hahwul/droid-hunter) - (deprecated) Android application vulnerability analysis and Android pentest tool
 - [grivos/BypasserForMedium](https://github.com/grivos/BypasserForMedium) - An Android app that intercepts Medium articles, and opens them internally if they're premium.
+
+## android-app 
+
+- [jbtronics/Recolldroid](https://github.com/jbtronics/Recolldroid) - A android app for comfortable use of Recoll-WebUI on android.
+- [abhi-r3v0/EVABS](https://github.com/abhi-r3v0/EVABS) - An open source Android application that is intentionally vulnerable so as to act as a learning platform for Android application security beginners.
 
 ## angular 
 
