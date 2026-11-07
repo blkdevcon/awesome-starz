@@ -232,6 +232,7 @@
 - [visual-basic](#visual-basic)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1813,7 +1814,6 @@
 - [dankunex/DFXWinTweaks](https://github.com/dankunex/DFXWinTweaks) - Tweak your OS easily
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-- [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - SyncBackPro second chance
 - [uprun/WebPad](https://github.com/uprun/WebPad) - mini wiki
 - [pwa-builder/web-whiteboard](https://github.com/pwa-builder/web-whiteboard) - 
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -2344,6 +2344,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [codingforentrepreneurs/Cursor-Django](https://github.com/codingforentrepreneurs/Cursor-Django) - Learn how to build your first full stack web app with English and Cursor AI
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
+- [steliospavlidis/SyncBackPro](https://github.com/steliospavlidis/SyncBackPro) - Extract file paths from SyncBack Pro HTML logs and zip those files for a second-chance backup
 - [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [opsdisk/metagoofil](https://github.com/opsdisk/metagoofil) - Search Google and download specific file types
@@ -2823,6 +2824,11 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
+
+## vscode 
+
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+- [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 
 ## vue 
 
