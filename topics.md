@@ -126,6 +126,7 @@
 - [js](#js)
 - [json](#json)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1358,6 +1359,12 @@
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [g0tmi1k/exe2hex](https://github.com/g0tmi1k/exe2hex) - Inline file transfer using in-built Windows tools (DEBUG.exe or PowerShell).
 - [PacktPublishing/Digital-Forensics-with-Kali-Linux](https://github.com/PacktPublishing/Digital-Forensics-with-Kali-Linux) - Digital Forensics with Kali Linux, published by Packt
+
+## knowledge-graph 
+
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 
 ## kotlin 
 
