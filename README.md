@@ -502,7 +502,6 @@
 - [0x29aNull/WiFi-Pineapple](https://github.com/0x29aNull/WiFi-Pineapple) - Homemade WiFi Pineapple for under $50
 - [HoneyHoneyTeam/ESP32-Marauder-Double-Barrel](https://github.com/HoneyHoneyTeam/ESP32-Marauder-Double-Barrel) - The ESP32 Marauder Double Barrel includes two ESP32 chipsets, GPS, Sub-GHz (433 MHz) and an onboard battery. It works with Flipper Zero or can be used as a standalone device.
 - [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [koala73/awesome-osint](https://github.com/koala73/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
@@ -927,6 +926,7 @@
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -948,6 +948,7 @@
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [tracelabs/tlosint-vm](https://github.com/tracelabs/tlosint-vm) - Trace Labs OSINT VM
 - [arpitn30/EBooks](https://github.com/arpitn30/EBooks) - 
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [grugnoymeme/flipperzero-badUSB](https://github.com/grugnoymeme/flipperzero-badUSB) - A collection of selected badUSB script for Flipper Zero, written by me. This repo is always Work In Progress.
 - [jackind424/onex](https://github.com/jackind424/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking 
@@ -998,7 +999,6 @@
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) - shadcn/ui, but for building agents. 🤖
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
