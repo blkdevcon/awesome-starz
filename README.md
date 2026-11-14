@@ -146,7 +146,7 @@
 - [instantsc/SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Windows debloater.
 - [arnobpl/SymlinkCreator](https://github.com/arnobpl/SymlinkCreator) - A Windows GUI app for creating symbolic links without using mklink directly
-- [koryboc/ImageToIcon](https://github.com/koryboc/ImageToIcon) - :rowboat: Convert any image to ICO format
+- [koryboc/ImageToIcon](https://github.com/koryboc/ImageToIcon) - :rowboat: Cross-platform tool for turning any image into a multi-size icon set
 - [Zaczero/AntiCaptcha](https://github.com/Zaczero/AntiCaptcha) - 🍬 Simple HTTP API wrapper for https://anti-captcha.com
 - [Zaczero/Tor4NET](https://github.com/Zaczero/Tor4NET) - 🍝 An all-in-one solution to fulfill your .NET dark web needs
 - [Zaczero/DNSChanger](https://github.com/Zaczero/DNSChanger) - 🔧 The ultimate Windows DNS changer tool (with DNSCrypt)
