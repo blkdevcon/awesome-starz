@@ -322,7 +322,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
 - [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
@@ -446,11 +446,11 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [thom4parisot/crx](https://github.com/thom4parisot/crx) - A node.js command line app for packing Google Chrome extensions.
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - [ BEWARE: NO MAINTAINER ] A frontend for an IPFS Kubo and IPFS Desktop
 - [ipld/explore.ipld.io](https://github.com/ipld/explore.ipld.io) - Explore the Merkle Forest from the comfort of your browser
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - [ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [rejetto/hfs-aborted-see-new-repo](https://github.com/rejetto/hfs-aborted-see-new-repo) - HTTP File Server
@@ -979,7 +979,6 @@
 - [brainfucksec/kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
 - [mattulm/osint](https://github.com/mattulm/osint) - A collection of scripts that pull Open Source Information from the web. Eventually the goal is to put this into a large modular style database, that can be built and run internally to any organization
 - [gWOLF3/viSSHous](https://github.com/gWOLF3/viSSHous) - 😈 infect remote ssh sessions with your vim profile
-- [sandflysecurity/sandfly-setup](https://github.com/sandflysecurity/sandfly-setup) - Sandfly Security Agentless Compromise and Intrusion Detection System For Linux
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [devploit/put2win](https://github.com/devploit/put2win) - Script to automate PUT HTTP method exploitation to get shell
 - [greycatz/CloudUnflare](https://github.com/greycatz/CloudUnflare) - Reconnaissance Real IP address for Cloudflare Bypass
