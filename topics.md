@@ -213,6 +213,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -2712,6 +2713,10 @@
 - [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
+
+## static-site-generator 
+
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 
 ## support 
 
